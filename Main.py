@@ -21,6 +21,7 @@ def clickonscreen(TargetText, confidence_threshold=50):
     image = Image.open(screenshot_path)
     data = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
     found = False
+    print(data['text'])
     # Concatenate the target words to search for the full phrase
     target_phrase = TargetText.lower().split()  # Split the target text into individual words
     target_phrase_length = len(target_phrase)
@@ -44,12 +45,7 @@ def clickonscreenrestricted(TargetText, region=(0, 0, 1920, 1080), confidence_th
     screenshot = ImageGrab.grab(bbox=region)  # Capture screenshot of specified region
     screenshot.save(screenshot_path)
     image = Image.open(screenshot_path)
-
     data = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
-
-    print("Extracted text from image:")
-    print(data['text'])
-
     found = False
     target_phrase = TargetText.lower().split()
     target_phrase_length = len(target_phrase)
@@ -78,14 +74,16 @@ CardName = "Force Of Will"
 
 startmtgoapp()
 clickonscreen("Collection")
-time.sleep(1)
-clickonscreen("Add Binder")
-time.sleep(1)
+time.sleep(2)
+clickonimage("\Images\Add Binder.png")
+time.sleep(2)
 pyautogui.press("enter")
 clickonscreen("Search for text on cards")
 pyautogui.typewrite(CardName)
-#debug
-
+clickonscreenrestricted(CardName, (300, 0, 1980, 1080))
+pyautogui.rightClick()
+time.sleep(1)
+clickonscreen("Add All to Open Binder")
 
 
 
