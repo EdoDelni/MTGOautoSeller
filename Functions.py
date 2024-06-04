@@ -4,21 +4,14 @@ import pyautogui
 import pytesseract
 from PIL import ImageGrab, Image
 import fuzz
-from mss import mss
 from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
-from pytesseract import Output
 from mss import mss
-import requests
 import subprocess
-import pywinauto
-from pywinauto import Application
-from pywinauto.findwindows import find_window
 
 pytesseract.pytesseract.tesseract_cmd = "C:/Program Files (x86)/Tesseract OCR/tesseract.exe"
 def startmtgoapp():
     os.startfile("C:/Users/edo/Desktop/Magic The Gathering Online .appref-ms")
-    time.sleep(3)
+    time.sleep(5)
     maximize_MTGO()
     pyautogui.press("tab")
     pyautogui.press("tab")
@@ -132,20 +125,28 @@ def checkifimagepresent(relative_path):
     print(dirname)
     filename = os.path.join(dirname, relative_path)
     print(filename)
-    element = pyautogui.locateOnScreen(filename, confidence=0.7)
-    if element is not None:
-        return True
-    else:
+    try:
+        element = pyautogui.locateOnScreen(filename, confidence=0.7)
+        if element is not None:
+            return True
+        else:
+            return False
+    except FileNotFoundError:
+        print(f"File {filename} not found.")
+        return False
+    except Exception as e:
+        print(f"An error occurred: {e}")
         return False
 def AddCardsToOpenBinder(CardName):
     clickonscreen("COLLECTION")
     time.sleep(15)
     clickonimage("Images\Add Binder.png")
     time.sleep(5)
-    i = 19
-    while i<=0:
+    i = 18
+    while i>=0:
         pyautogui.press("Tab")
         i = i-1
+        time.sleep(0.1)
     pyautogui.typewrite("BOT BINDER")
     pyautogui.press("enter")
     time.sleep(5)
@@ -171,12 +172,15 @@ def is_MainNavigation_running():
     except subprocess.CalledProcessError:
         return False
 def TradeWithGoatbotsSell():
-    clickonscreen("Trade")
+    clickonscreen("TRADE")
+    time.sleep(1)
     i = 11
-    while i <= 1:
+    while i >= 1:
         pyautogui.press("Tab")
         i = i-1
+        time.sleep(0.1)
     pyautogui.press("Goatbots")
+    pyautogui.press("Enter")
     clickonimage("\Images\Open+Sell.png")
     pyautogui.click()
 def maximize_MTGO():

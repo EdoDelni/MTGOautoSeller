@@ -1,12 +1,11 @@
-import time
+from Functions import AddCardsToOpenBinder, startmtgoapp, is_MainNavigation_running
+from Functions import maximize_MTGO, checkifimagepresent, TradeWithGoatbotsSell
 
-from Functions import AddCardsToOpenBinder, startmtgoapp, is_MainNavigation_running, maximize_MTGO, checkifimagepresent, TradeWithGoatbotsSell
+# main software
 
-#main software
-
-if is_MainNavigation_running() == 0:
-    startmtgoapp()
+startmtgoapp()
 CardName = "Lava Dart"
 AddCardsToOpenBinder("Lava dart")
+TradeWithGoatbotsSell()
 
 
