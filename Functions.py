@@ -127,7 +127,6 @@ def clickonimage(relative_path):
     print(filename)
     element = pyautogui.locateOnScreen(filename,confidence=0.7)
     pyautogui.click(element)
-
 def checkifimagepresent(relative_path):
     dirname = os.path.dirname(__file__)
     print(dirname)
@@ -138,7 +137,6 @@ def checkifimagepresent(relative_path):
         return True
     else:
         return False
-
 def AddCardsToOpenBinder(CardName):
     clickonscreen("COLLECTION")
     time.sleep(15)
@@ -172,8 +170,7 @@ def is_MainNavigation_running():
             return True
     except subprocess.CalledProcessError:
         return False
-
-def TradeWithGoatbotsSell:
+def TradeWithGoatbotsSell():
     clickonscreen("Trade")
     i = 11
     while i <= 1:
@@ -181,10 +178,7 @@ def TradeWithGoatbotsSell:
         i = i-1
     pyautogui.press("Goatbots")
     clickonimage("\Images\Open+Sell.png")
-
-
-
-# Specify the title of the browser window
+    pyautogui.click()
 def maximize_MTGO():
     if checkifimagepresent("Images\Maximize.png"):
         clickonimage("Images\Maximize.png")
