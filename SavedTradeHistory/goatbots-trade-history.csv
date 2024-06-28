@@ -1,0 +1,1504 @@
+﻿timestamp,time_cet,bot,get_value,give_value,credits_before,credits_after,method,itemID,name,cardset,rarity,foil,quantity,price
+1719596090,"2024-06-28 19:34:50",GoatBots0,0.032,0,0.915,0.883,get,126245,"Amped Raptor",MH3,Uncommon,0,4,0.008
+1719511745,"2024-06-27 20:09:05",GoatBots9,0.009,0,0.924,0.915,get,109892,"Surge of Salvation",MOM,Uncommon,0,3,0.003
+1718898665,"2024-06-20 17:51:05",GoatBots8,0.003,0,0.927,0.924,get,32322,"Architects of Will",ARB,Common,0,1,0.003
+1718898583,"2024-06-20 17:49:43",GoatBots9,0.01,0,0.937,0.927,get,63700,"Curator of Mysteries",AKH,Rare,0,1,0.01
+1718850442,"2024-06-20 04:27:22",GoatBotsF,31,31.55,0.387,0.937,get,1,"Event Ticket",EVT,Event,0,31,1
+1718850442,"2024-06-20 04:27:22",GoatBotsF,31,31.55,0.387,0.937,give,70261,Entomb,UMA,Rare,0,2,8.51
+1718850442,"2024-06-20 04:27:22",GoatBotsF,31,31.55,0.387,0.937,give,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,5.15
+1718850442,"2024-06-20 04:27:22",GoatBotsF,31,31.55,0.387,0.937,give,43128,Entomb,PD3,Rare,1,2,3.06
+1718850442,"2024-06-20 04:27:22",GoatBotsF,31,31.55,0.387,0.937,give,72386,Ephemerate,MH1,Common,0,2,1.63
+1718835776,"2024-06-20 00:22:56",GoatBotsE,22,22.14,0.247,0.387,get,1,"Event Ticket",EVT,Event,0,22,1
+1718835776,"2024-06-20 00:22:56",GoatBotsE,22,22.14,0.247,0.387,give,90507,Subtlety,MH2,Mythic,0,2,11.07
+1718821621,"2024-06-19 20:27:01",GoatBots5,0.01,0,0.257,0.247,get,126509,"Sink into Stupor",MH3,Uncommon,0,1,0.01
+1718821484,"2024-06-19 20:24:44",GoatBots5,5.44,5,0.697,0.257,get,126111,"White Orchid Phantom",MH3,Rare,0,4,1.36
+1718821484,"2024-06-19 20:24:44",GoatBots5,5.44,5,0.697,0.257,give,1,"Event Ticket",EVT,Event,0,5,1
+1718732998,"2024-06-18 19:49:58",GoatBotsE,11,11.23,0.467,0.697,get,1,"Event Ticket",EVT,Event,0,11,1
+1718732998,"2024-06-18 19:49:58",GoatBotsE,11,11.23,0.467,0.697,give,126417,"Psychic Frog",MH3,Rare,0,1,6.13
+1718732998,"2024-06-18 19:49:58",GoatBotsE,11,11.23,0.467,0.697,give,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,5.1
+1718582483,"2024-06-17 02:01:23",GoatBots4,0.014,0,0.481,0.467,get,125975,Meltdown,MH3,Uncommon,0,2,0.007
+1718566716,"2024-06-16 21:38:36",GoatBotsB,0.008,0,0.489,0.481,get,126167,"Tune the Narrative",MH3,Common,0,4,0.002
+1718566591,"2024-06-16 21:36:31",GoatBots7,0.004,0,0.493,0.489,get,126261,"Galvanic Discharge",MH3,Common,0,2,0.002
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126142,"Flare of Denial",MH3,Rare,1,4,2.49
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126144,"Harbinger of the Seas",MH3,Rare,1,2,2.14
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126397,"Invert Polarity",MH3,Rare,0,4,0.27
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126355,Six,MH3,Rare,0,4,0.18
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126475,"Shifting Woodland",MH3,Rare,0,4,0.16
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126275,"Party Thrasher",MH3,Rare,0,4,0.11
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125717,Powerbalance,MH3,Rare,0,4,0.1
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125985,"Sylvan Safekeeper",MH3,Rare,0,4,0.09
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126069,"Flare of Fortitude",MH3,Rare,0,4,0.08
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125965,"Toxic Deluge",MH3,Rare,0,4,0.08
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126301,"Unstable Amulet",MH3,Uncommon,0,4,0.08
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126237,"Warren Soultrader",MH3,Rare,0,4,0.08
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126251,"Eldrazi Linebreaker",MH3,Rare,0,4,0.06
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126255,"Flare of Duplication",MH3,Rare,0,4,0.05
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125989,"Breya, Etherium Shaper",MH3,Mythic,0,4,0.03
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126479,"Spymaster's Vault",MH3,Rare,0,4,0.03
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126305,"Wheel of Potential",MH3,Rare,0,4,0.03
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126373,"Arna Kennerüd, Skycaptain",MH3,Mythic,0,4,0.02
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126349,"Primal Prayers",MH3,Rare,0,4,0.02
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126249,"Detective's Phoenix",MH3,Rare,0,4,0.01
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126175,"Volatile Stormdrake",MH3,Rare,0,4,0.01
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126187,Crabomination,MH3,Rare,0,4,0.009
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126013,"Deserted Temple",MH3,Rare,0,4,0.009
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126279,Powerbalance,MH3,Rare,0,4,0.009
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126447,"Archway of Innovation",MH3,Rare,0,4,0.008
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126135,"Dreamtide Whale",MH3,Rare,0,4,0.008
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125993,"Emerald Medallion",MH3,Rare,0,4,0.008
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125949,"Estrid's Invocation",MH3,Rare,0,4,0.008
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125999,"Pearl Medallion",MH3,Rare,0,4,0.008
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126005,"Urza's Incubator",MH3,Rare,0,4,0.008
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125981,"Branching Evolution",MH3,Rare,0,4,0.007
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126463,"Monumental Henge",MH3,Rare,0,4,0.007
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126159,"Strix Serenade",MH3,Rare,0,4,0.007
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,126395,"Imskir Iron-Eater",MH3,Rare,0,4,0.006
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,125963,Ophiomancer,MH3,Rare,0,4,0.006
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,get,124179,"Magebane Lizard",OTJ,Uncommon,0,4,0.003
+1718558782,"2024-06-16 19:26:22",GoatBotsDelivery2,20.644,21,0.137,0.493,give,1,"Event Ticket",EVT,Event,0,21,1
+1718486753,"2024-06-15 23:25:53",GoatBotsF,25,24.15,0.987,0.137,get,1,"Event Ticket",EVT,Event,0,25,1
+1718486753,"2024-06-15 23:25:53",GoatBotsF,25,24.15,0.987,0.137,give,91834,Wish,AFR,Rare,0,4,4.41
+1718486753,"2024-06-15 23:25:53",GoatBotsF,25,24.15,0.987,0.137,give,89907,"All Is Dust",SLD,Rare,0,1,2.33
+1718486753,"2024-06-15 23:25:53",GoatBotsF,25,24.15,0.987,0.137,give,57202,"All Is Dust",MM2,Rare,0,1,2.09
+1718486753,"2024-06-15 23:25:53",GoatBotsF,25,24.15,0.987,0.137,give,70075,"All Is Dust",UMA,Rare,0,1,2.09
+1718322748,"2024-06-14 01:52:28",GoatBotsF,15,15.21,0.777,0.987,get,1,"Event Ticket",EVT,Event,0,15,1
+1718322748,"2024-06-14 01:52:28",GoatBotsF,15,15.21,0.777,0.987,give,126493,"Ajani, Nacatl Pariah",MH3,Mythic,0,1,15.21
+1718223084,"2024-06-12 22:11:24",GoatBots7,2.04,2,0.817,0.777,get,126315,"Eladamri, Korvecdal",MH3,Mythic,0,2,0.74
+1718223084,"2024-06-12 22:11:24",GoatBots7,2.04,2,0.817,0.777,get,125733,"Eladamri, Korvecdal",MH3,Mythic,0,1,0.54
+1718223084,"2024-06-12 22:11:24",GoatBots7,2.04,2,0.817,0.777,get,126545,"Disciple of Freyalise",MH3,Uncommon,0,1,0.02
+1718223084,"2024-06-12 22:11:24",GoatBots7,2.04,2,0.817,0.777,give,1,"Event Ticket",EVT,Event,0,2,1
+1718216144,"2024-06-12 20:15:44",GoatBotsBoosters3,9.84,10,0.657,0.817,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,2,4.92
+1718216144,"2024-06-12 20:15:44",GoatBotsBoosters3,9.84,10,0.657,0.817,give,1,"Event Ticket",EVT,Event,0,10,1
+1717875445,"2024-06-08 21:37:25",GoatBotsDelivery3,1.4,2,0.057,0.657,get,61327,"Elder Deep-Fiend",EMN,Rare,1,4,0.2
+1717875445,"2024-06-08 21:37:25",GoatBotsDelivery3,1.4,2,0.057,0.657,get,85552,"Elder Deep-Fiend",CMR,Rare,0,4,0.1
+1717875445,"2024-06-08 21:37:25",GoatBotsDelivery3,1.4,2,0.057,0.657,get,61326,"Elder Deep-Fiend",EMN,Rare,0,4,0.05
+1717875445,"2024-06-08 21:37:25",GoatBotsDelivery3,1.4,2,0.057,0.657,give,1,"Event Ticket",EVT,Event,0,2,1
+1717687152,"2024-06-06 17:19:12",GoatBotsE,10,9.75,0.307,0.057,get,1,"Event Ticket",EVT,Event,0,10,1
+1717687152,"2024-06-06 17:19:12",GoatBotsE,10,9.75,0.307,0.057,give,62245,"Treasure Chest Booster",O99,Booster,0,5,1.95
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,90507,Subtlety,MH2,Mythic,0,4,5.99
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123603,Thoughtseize,OTP,Mythic,0,3,2.31
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123587,"Mindbreak Trap",OTP,Mythic,0,4,0.69
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123613,"Indomitable Creativity",OTP,Mythic,0,4,0.21
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123585,"Mana Drain",OTP,Mythic,0,4,0.1
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,125407,"Lost Jitte",BIG,Mythic,0,4,0.08
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123667,"Oko, Thief of Crowns",OTP,Mythic,0,4,0.06
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123579,"Archmage's Charm",OTP,Rare,0,4,0.02
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123657,"Fractured Identity",OTP,Mythic,0,4,0.02
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123577,"Archive Trap",OTP,Rare,0,4,0.01
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123599,Reanimate,OTP,Rare,0,4,0.008
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123631,"Abrupt Decay",OTP,Rare,0,4,0.007
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123581,Commandeer,OTP,Rare,0,4,0.007
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123693,Mindslaver,OTP,Mythic,0,4,0.007
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123623,"Pest Infestation",OTP,Rare,0,4,0.007
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123647,"Cruel Ultimatum",OTP,Rare,0,4,0.006
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123653,"Detention Sphere",OTP,Rare,0,4,0.006
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123697,"Dust Bowl",OTP,Rare,0,4,0.006
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123609,Electrodominance,OTP,Rare,0,4,0.006
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123575,"Path to Exile",OTP,Rare,0,4,0.006
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,get,123617,Skullcrack,OTP,Rare,0,4,0.006
+1717600831,"2024-06-05 17:20:31",GoatBotsDelivery2,35.938,36,0.245,0.307,give,1,"Event Ticket",EVT,Event,0,36,1
+1717600461,"2024-06-05 17:14:21",GoatBotsF,7,6.55,0.695,0.245,get,1,"Event Ticket",EVT,Event,0,7,1
+1717600461,"2024-06-05 17:14:21",GoatBotsF,7,6.55,0.695,0.245,give,12795,Replenish,UD,Rare,0,1,4.11
+1717600461,"2024-06-05 17:14:21",GoatBotsF,7,6.55,0.695,0.245,give,59133,"Daxos the Returned",PZ1,Rare,0,1,2.44
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,get,1,"Event Ticket",EVT,Event,0,28,1
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,24591,Counterbalance,CSP,Uncommon,0,2,3.67
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,107261,"Mystic Remora",DMR,Rare,0,1,2.66
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,16967,"Moment's Peace",OD,Common,0,1,2
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,102253,"Imperial Seal",PRM,Mythic,0,1,1.79
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,85124,"Crimson Fleet Commodore",CMR,Common,0,2,1.58
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,60813,"Elvish Vanguard",EMA,Common,0,4,1.01
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,61060,"Gorilla Shaman",PRM,Common,0,3,0.99
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,101446,"Death Kiss",CLB,Rare,0,2,0.84
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,100372,"Firbolg Flutist",CLB,Rare,0,1,0.84
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,100592,"Jan Jansen, Chaos Crafter",CLB,Rare,0,1,0.8
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,103078,"Tiller Engine",DMC,Rare,0,1,0.74
+1717600064,"2024-06-05 17:07:44",GoatBotsE,28,28.63,0.065,0.695,give,90984,"Gorilla Shaman",MH2,Uncommon,1,1,0.61
+1717344744,"2024-06-02 18:12:24",GoatBotsFoils,26.96,26.79,0.235,0.065,get,124204,"Slickshot Show-Off",OTJ,Rare,1,4,6.74
+1717344744,"2024-06-02 18:12:24",GoatBotsFoils,26.96,26.79,0.235,0.065,give,62245,"Treasure Chest Booster",O99,Booster,0,11,1.89
+1717344744,"2024-06-02 18:12:24",GoatBotsFoils,26.96,26.79,0.235,0.065,give,1,"Event Ticket",EVT,Event,0,6,1
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,91251,Grief,PRM,Mythic,0,4,8.2
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,119630,"Generous Ent",LTR,Common,0,4,0.45
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,63700,"Curator of Mysteries",AKH,Rare,0,2,0.04
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,29479,"Sunken Ruins",SHM,Rare,0,1,0.01
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,32322,"Architects of Will",ARB,Common,0,3,0.003
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,81395,"Waker of Waves",M21,Uncommon,0,3,0.003
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,get,97378,"Colossal Skyturtle",NEO,Uncommon,0,1,0.003
+1716912044,"2024-05-28 18:00:44",GoatBots4,34.711,34,0.946,0.235,give,1,"Event Ticket",EVT,Event,0,34,1
+1716911686,"2024-05-28 17:54:46",GoatBotsD,19,19.2,0.746,0.946,get,1,"Event Ticket",EVT,Event,0,19,1
+1716911686,"2024-05-28 17:54:46",GoatBotsD,19,19.2,0.746,0.946,give,62245,"Treasure Chest Booster",O99,Booster,0,10,1.92
+1716588664,"2024-05-25 00:11:04",GoatBots8,8.838,9,0.584,0.746,get,90691,Endurance,MH2,Mythic,0,1,5.21
+1716588664,"2024-05-25 00:11:04",GoatBots8,8.838,9,0.584,0.746,get,90419,"Prismatic Ending",MH2,Uncommon,0,2,0.77
+1716588664,"2024-05-25 00:11:04",GoatBots8,8.838,9,0.584,0.746,get,109178,"Cosmic Rebirth",MAT,Uncommon,0,3,0.6
+1716588664,"2024-05-25 00:11:04",GoatBots8,8.838,9,0.584,0.746,get,32953,"Time Warp",M10,Mythic,0,2,0.14
+1716588664,"2024-05-25 00:11:04",GoatBots8,8.838,9,0.584,0.746,get,104714,"Fallaji Archaeologist",BRO,Common,0,4,0.002
+1716588664,"2024-05-25 00:11:04",GoatBots8,8.838,9,0.584,0.746,give,1,"Event Ticket",EVT,Event,0,9,1
+1716582228,"2024-05-24 22:23:48",GoatBotsF,19,19.4,0.184,0.584,get,1,"Event Ticket",EVT,Event,0,19,1
+1716582228,"2024-05-24 22:23:48",GoatBotsF,19,19.4,0.184,0.584,give,62245,"Treasure Chest Booster",O99,Booster,0,10,1.94
+1715695910,"2024-05-14 16:11:50",GoatBotsF,10,9.85,0.334,0.184,get,1,"Event Ticket",EVT,Event,0,10,1
+1715695910,"2024-05-14 16:11:50",GoatBotsF,10,9.85,0.334,0.184,give,62245,"Treasure Chest Booster",O99,Booster,0,5,1.97
+1715695762,"2024-05-14 16:09:22",GoatBotsF,15,15.03,0.304,0.334,get,1,"Event Ticket",EVT,Event,0,15,1
+1715695762,"2024-05-14 16:09:22",GoatBotsF,15,15.03,0.304,0.334,give,110504,"Exsanguinator Cavalry",MOC,Rare,0,1,9.01
+1715695762,"2024-05-14 16:09:22",GoatBotsF,15,15.03,0.304,0.334,give,112576,"Forth Eorlingas!",LTC,Rare,0,1,6.02
+1715353636,"2024-05-10 17:07:16",GoatBots2,0.056,0,0.36,0.304,get,91053,"Inevitable Betrayal",MH2,Rare,0,4,0.008
+1715353636,"2024-05-10 17:07:16",GoatBots2,0.056,0,0.36,0.304,get,90463,"Inevitable Betrayal",MH2,Rare,0,4,0.006
+1715290032,"2024-05-09 23:27:12",GoatBots,7.16,7,0.52,0.36,get,121440,"Meticulous Archive",MKM,Rare,0,1,3.51
+1715290032,"2024-05-09 23:27:12",GoatBots,7.16,7,0.52,0.36,get,98739,"Xander's Lounge",SNC,Rare,0,1,1.97
+1715290032,"2024-05-09 23:27:12",GoatBots,7.16,7,0.52,0.36,get,72692,"Crashing Footfalls",MH1,Rare,0,4,0.42
+1715290032,"2024-05-09 23:27:12",GoatBots,7.16,7,0.52,0.36,give,1,"Event Ticket",EVT,Event,0,7,1
+1715289894,"2024-05-09 23:24:54",GoatBots3,16.36,16,0.88,0.52,get,72048,"Teferi, Time Raveler",WAR,Rare,0,4,4.09
+1715289894,"2024-05-09 23:24:54",GoatBots3,16.36,16,0.88,0.52,give,1,"Event Ticket",EVT,Event,0,16,1
+1715197550,"2024-05-08 21:45:50",GoatBotsF,21,21.45,0.43,0.88,get,1,"Event Ticket",EVT,Event,0,21,1
+1715197550,"2024-05-08 21:45:50",GoatBotsF,21,21.45,0.43,0.88,give,62245,"Treasure Chest Booster",O99,Booster,0,11,1.95
+1714602031,"2024-05-02 00:20:31",GoatBotsC,16.72,17,0.15,0.43,get,91203,Solitude,PRM,Mythic,0,4,4.18
+1714602031,"2024-05-02 00:20:31",GoatBotsC,16.72,17,0.15,0.43,give,1,"Event Ticket",EVT,Event,0,17,1
+1714601433,"2024-05-02 00:10:33",GoatBotsE,16,16,0.15,0.15,get,1,"Event Ticket",EVT,Event,0,16,1
+1714601433,"2024-05-02 00:10:33",GoatBotsE,16,16,0.15,0.15,give,62245,"Treasure Chest Booster",O99,Booster,0,8,2
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121732,"Fugitive Codebreaker",MKM,Rare,0,4,0.16
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121640,"Case of the Stashed Skeleton",MKM,Rare,0,4,0.14
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121750,"Krenko's Buzzcrusher",MKM,Rare,0,4,0.12
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121870,Doppelgang,MKM,Rare,0,4,0.09
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121662,"Long Goodbye",MKM,Uncommon,0,4,0.08
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121850,"Assassin's Trophy",MKM,Rare,0,4,0.07
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121576,"Case of the Ransacked Lab",MKM,Rare,0,4,0.07
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121956,"Warleader's Call",MKM,Rare,0,4,0.06
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121508,"Case of the Uneaten Feast",MKM,Rare,0,4,0.04
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121752,"Lamplight Phoenix",MKM,Rare,0,4,0.04
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,119742,"Sauron's Ransom",LTR,Rare,0,4,0.04
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124271,"Smuggler's Surprise",OTJ,Rare,0,4,0.04
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121776,"Analyze the Pollen",MKM,Rare,0,4,0.03
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,123929,"Dust Animus",OTJ,Rare,0,4,0.03
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121898,"Kellan, Inquisitive Prodigy",MKM,Rare,0,4,0.03
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124107,"Pitiless Carnage",OTJ,Rare,0,4,0.03
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,111778,"Sauron's Ransom",LTR,Rare,0,4,0.03
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124205,"Stingerback Terror",OTJ,Rare,0,4,0.03
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124229,"Colossal Rattlewurm",OTJ,Rare,0,4,0.02
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121600,"Forensic Gadgeteer",MKM,Rare,0,4,0.02
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121906,"Lazav, Wearer of Faces",MKM,Rare,0,4,0.02
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121626,"Reenact the Crime",MKM,Rare,0,4,0.02
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121628,"Steamcore Scholar",MKM,Rare,0,4,0.02
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121782,"Axebane Ferox",MKM,Rare,0,4,0.01
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121828,"Sharp-Eyed Rookie",MKM,Rare,0,4,0.01
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124137,"Vadmir, New Blood",OTJ,Rare,0,4,0.01
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121496,"Assemble the Players",MKM,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,123927,"Claim Jumper",OTJ,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124237,"Freestrider Lookout",OTJ,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124161,"Great Train Heist",OTJ,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121748,"Krenko, Baron of Tin Street",MKM,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124345,"Lilah, Undefeated Slickshot",OTJ,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124367,"Roxanne, Starfall Savant",OTJ,Rare,0,4,0.009
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121808,"Hide in Plain Sight",MKM,Rare,0,4,0.008
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124127,"Tinybones Joins Up",OTJ,Rare,0,4,0.008
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121558,"Unyielding Gatekeeper",MKM,Rare,0,4,0.008
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,123989,"Archmage's Newt",OTJ,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121786,"Case of the Locked Hothouse",MKM,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121872,"Drag the Canal",MKM,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124007,"Fblthp, Lost on the Range",OTJ,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124351,"Marchesa, Dealer of Death",OTJ,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124257,"Outcaster Trailblazer",OTJ,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121672,"Outrageous Robbery",MKM,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121758,"Pyrotechnic Performer",MKM,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124119,"Rush of Dread",OTJ,Rare,0,4,0.007
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124289,"Akul the Unrepentant",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124293,"Annie Joins Up",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,123913,"Another Round",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121700,"Anzrag's Rampage",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121780,"Audience with Trostani",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121852,"Aurelia, the Law Above",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121636,"Barbed Servitor",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121854,"Blood Spatter Analysis",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124305,"Breeches, the Blastmaker",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124307,"Bruse Tarl, Roving Rancher",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124143,"Calamity, Galloping Inferno",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121714,"Connecting the Dots",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121582,"Coveted Falcon",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124315,"Eriette, the Beguiler",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121878,"Ezrim, Agency Chief",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,123935,"Fortune, Loyal Steed",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124163,"Hell to Pay",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124167,"Hellspur Posse Boss",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121650,"Homicide Investigator",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121652,"Hunted Bonebrute",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121654,"Illicit Masquerade",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121892,"Izoni, Center of the Web",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121894,"Judith, Carnage Connoisseur",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124333,"Kambal, Profiteering Mayor",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124335,"Kellan Joins Up",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124341,"Laughing Jasper Flint",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121614,"Lost in the Maze",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124349,"Malcolm, the Eyes",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121914,"Niv-Mizzet, Guildpact",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121542,"No Witnesses",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124355,"Obeka, Splitter of Seconds",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,123955,"One Last Job",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124253,"Ornery Tumblewagg",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124361,"Rakdos Joins Up",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124365,"Riku of Many Paths",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124375,"Seraphic Steed",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124051,"Step Between Worlds",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124379,"Taii Wakeen, Perfect Shot",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121556,"Tenth District Hero",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121942,"Teysa, Opulent Oligarch",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124019,"The Key to the Vault",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121946,"Tolsimir, Midnight's Light",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121948,"Treacherous Greed",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124383,"Vraska Joins Up",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,122038,"Wojek Investigator",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124389,"Wylie Duke, Atiin Hero",OTJ,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,121962,"Yarus, Roar of the Old Gods",MKM,Rare,0,4,0.006
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,get,124397,"Lavaspur Boots",OTJ,Uncommon,0,4,0.004
+1714601270,"2024-05-02 00:07:50",GoatBotsDelivery7,6.784,6,0.934,0.15,give,1,"Event Ticket",EVT,Event,0,6,1
+1714427260,"2024-04-29 23:47:40",GoatBotsC,9.56,10,0.494,0.934,get,91295,Endurance,PRM,Mythic,0,2,4.78
+1714427260,"2024-04-29 23:47:40",GoatBotsC,9.56,10,0.494,0.934,give,1,"Event Ticket",EVT,Event,0,10,1
+1714427154,"2024-04-29 23:45:54",GoatBotsF,10,9.7,0.794,0.494,get,1,"Event Ticket",EVT,Event,0,10,1
+1714427154,"2024-04-29 23:45:54",GoatBotsF,10,9.7,0.794,0.494,give,62245,"Treasure Chest Booster",O99,Booster,0,5,1.94
+1714321335,"2024-04-28 18:22:15",GoatBotsE,19,19.63,0.164,0.794,get,1,"Event Ticket",EVT,Event,0,19,1
+1714321335,"2024-04-28 18:22:15",GoatBotsE,19,19.63,0.164,0.794,give,52120,"Mana Confluence",JOU,Rare,0,1,8.64
+1714321335,"2024-04-28 18:22:15",GoatBotsE,19,19.63,0.164,0.794,give,60787,Pyrokinesis,EMA,Rare,0,1,5.31
+1714321335,"2024-04-28 18:22:15",GoatBotsE,19,19.63,0.164,0.794,give,60788,Pyrokinesis,EMA,Rare,1,1,3.96
+1714321335,"2024-04-28 18:22:15",GoatBotsE,19,19.63,0.164,0.794,give,109890,Sunfall,MOM,Rare,0,1,1.72
+1713797971,"2024-04-22 16:59:31",GoatBotsF,1,0.89,0.274,0.164,get,1,"Event Ticket",EVT,Event,0,1,1
+1713797971,"2024-04-22 16:59:31",GoatBotsF,1,0.89,0.274,0.164,give,121896,"Kaya, Spirits' Justice",MKM,Mythic,0,1,0.89
+1713797786,"2024-04-22 16:56:26",GoatBotsF,8,8.01,0.264,0.274,get,1,"Event Ticket",EVT,Event,0,8,1
+1713797786,"2024-04-22 16:56:26",GoatBotsF,8,8.01,0.264,0.274,give,67208,"Red Elemental Blast",A25,Uncommon,0,1,8.01
+1713189081,"2024-04-15 15:51:21",GoatBots6,0.08,0,0.344,0.264,get,22044,"Oboro, Palace in the Clouds",SOK,Rare,0,1,0.08
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,91658,"Tasha's Hideous Laughter",AFR,Rare,0,3,3.31
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,19315,"Ensnaring Bridge",8ED,Rare,0,1,3.23
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,106329,"Jace, the Perfected Mind",ONE,Mythic,0,1,2.59
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,34812,"Archive Trap",ZEN,Rare,0,4,0.9
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,28707,"Shelldock Isle",LRW,Rare,0,4,0.06
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,90457,"Fractured Sanity",MH2,Rare,0,4,0.05
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,get,34460,"Hedron Crab",ZEN,Uncommon,0,4,0.004
+1713188950,"2024-04-15 15:49:10",GoatBots7,19.806,20,0.15,0.344,give,1,"Event Ticket",EVT,Event,0,20,1
+1712924641,"2024-04-12 14:24:01",GoatBotsD,0.56,0,0.71,0.15,get,15596,Hibernation,7E,Uncommon,0,4,0.14
+1712924237,"2024-04-12 14:17:17",GoatBotsF,7,7.6,0.11,0.71,get,1,"Event Ticket",EVT,Event,0,7,1
+1712924237,"2024-04-12 14:17:17",GoatBotsF,7,7.6,0.11,0.71,give,62245,"Treasure Chest Booster",O99,Booster,0,4,1.9
+1712853005,"2024-04-11 18:30:05",GoatBots4,1.48,1,0.59,0.11,get,73111,"Legion's End",M20,Rare,0,4,0.37
+1712853005,"2024-04-11 18:30:05",GoatBots4,1.48,1,0.59,0.11,give,1,"Event Ticket",EVT,Event,0,1,1
+1712513077,"2024-04-07 20:04:37",GoatBots3,13.92,14,0.51,0.59,get,91309,"Force of Vigor",PRM,Rare,0,4,3.48
+1712513077,"2024-04-07 20:04:37",GoatBots3,13.92,14,0.51,0.59,give,1,"Event Ticket",EVT,Event,0,14,1
+1712366933,"2024-04-06 03:28:53",GoatBots4,19.35,19.1,0.76,0.51,get,80511,"Raugrin Triome",IKO,Rare,0,1,1.51
+1712366933,"2024-04-06 03:28:53",GoatBots4,19.35,19.1,0.76,0.51,get,1,"Event Ticket",EVT,Event,0,16,1
+1712366933,"2024-04-06 03:28:53",GoatBots4,19.35,19.1,0.76,0.51,get,72808,"Altar of Dementia",MH1,Rare,0,4,0.18
+1712366933,"2024-04-06 03:28:53",GoatBots4,19.35,19.1,0.76,0.51,get,121278,"Lamplight Phoenix",MKM,Rare,0,4,0.16
+1712366933,"2024-04-06 03:28:53",GoatBots4,19.35,19.1,0.76,0.51,get,121752,"Lamplight Phoenix",MKM,Rare,0,4,0.12
+1712366933,"2024-04-06 03:28:53",GoatBots4,19.35,19.1,0.76,0.51,give,62245,"Treasure Chest Booster",O99,Booster,0,10,1.91
+1712244328,"2024-04-04 17:25:28",GoatBots3,1.86,2,0.62,0.76,get,121514,"Doorkeeper Thrull",MKM,Rare,0,2,0.93
+1712244328,"2024-04-04 17:25:28",GoatBots3,1.86,2,0.62,0.76,give,1,"Event Ticket",EVT,Event,0,2,1
+1712012931,"2024-04-02 01:08:51",GoatBotsE,10,10.51,0.11,0.62,get,1,"Event Ticket",EVT,Event,0,10,1
+1712012931,"2024-04-02 01:08:51",GoatBotsE,10,10.51,0.11,0.62,give,80945,"Indatha Triome",PRM,Rare,0,1,10.51
+1711739448,"2024-03-29 20:10:48",GoatBots7,3.08,3,0.19,0.11,get,61855,"Inspiring Vantage",KLD,Rare,0,2,1.54
+1711739448,"2024-03-29 20:10:48",GoatBots7,3.08,3,0.19,0.11,give,1,"Event Ticket",EVT,Event,0,3,1
+1711739292,"2024-03-29 20:08:12",GoatBotsD,25.15,25,0.34,0.19,get,83287,"Roiling Vortex",ZNR,Rare,0,4,5.71
+1711739292,"2024-03-29 20:08:12",GoatBotsD,25.15,25,0.34,0.19,get,72866,"Sunbaked Canyon",MH1,Rare,0,1,2.31
+1711739292,"2024-03-29 20:08:12",GoatBotsD,25.15,25,0.34,0.19,give,1,"Event Ticket",EVT,Event,0,25,1
+1711739230,"2024-03-29 20:07:10",GoatBotsE,20,19.8,0.54,0.34,get,1,"Event Ticket",EVT,Event,0,20,1
+1711739230,"2024-03-29 20:07:10",GoatBotsE,20,19.8,0.54,0.34,give,62245,"Treasure Chest Booster",O99,Booster,0,10,1.98
+1711449149,"2024-03-26 11:32:29",GoatBots4,1.02,1,0.56,0.54,get,90651,"Obsidian Charmaw",MH2,Rare,0,3,0.34
+1711449149,"2024-03-26 11:32:29",GoatBots4,1.02,1,0.56,0.54,give,1,"Event Ticket",EVT,Event,0,1,1
+1711322439,"2024-03-25 00:20:39",GoatBotsE,6,6.38,0.18,0.56,get,1,"Event Ticket",EVT,Event,0,6,1
+1711322439,"2024-03-25 00:20:39",GoatBotsE,6,6.38,0.18,0.56,give,12149,Fluctuator,UZ,Rare,0,1,1.52
+1711322439,"2024-03-25 00:20:39",GoatBotsE,6,6.38,0.18,0.56,give,68738,"Zndrsplt, Eye of Wisdom",BBD,Rare,0,1,1.42
+1711322439,"2024-03-25 00:20:39",GoatBotsE,6,6.38,0.18,0.56,give,100598,"Korlessa, Scale Singer",CLB,Uncommon,0,1,1.3
+1711322439,"2024-03-25 00:20:39",GoatBotsE,6,6.38,0.18,0.56,give,65747,"Curse of Bounty",PZ2,Uncommon,0,1,1.08
+1711322439,"2024-03-25 00:20:39",GoatBotsE,6,6.38,0.18,0.56,give,95441,"Millicent, Restless Revenant",PRM,Mythic,0,1,1.06
+1711036306,"2024-03-21 16:51:46",GoatBots3,4.2,4,0.38,0.18,get,90629,Fury,MH2,Mythic,0,4,1.05
+1711036306,"2024-03-21 16:51:46",GoatBots3,4.2,4,0.38,0.18,give,1,"Event Ticket",EVT,Event,0,4,1
+1711036230,"2024-03-21 16:50:30",GoatBots1,6.5,6,0.88,0.38,get,112576,"Forth Eorlingas!",LTC,Rare,0,1,6.5
+1711036230,"2024-03-21 16:50:30",GoatBots1,6.5,6,0.88,0.38,give,1,"Event Ticket",EVT,Event,0,6,1
+1710975777,"2024-03-21 00:02:57",GoatBots3,4.54,5,0.42,0.88,get,122032,"Undercity Sewers",MKM,Rare,0,1,4.54
+1710975777,"2024-03-21 00:02:57",GoatBots3,4.54,5,0.42,0.88,give,1,"Event Ticket",EVT,Event,0,5,1
+1710793914,"2024-03-18 21:31:54",GoatBotsA,72.52,72,0.94,0.42,get,102524,"Leyline Binding",DMU,Rare,0,4,18.13
+1710793914,"2024-03-18 21:31:54",GoatBotsA,72.52,72,0.94,0.42,give,1,"Event Ticket",EVT,Event,0,72,1
+1710793871,"2024-03-18 21:31:11",GoatBotsD,66.572,67,0.512,0.94,get,121908,"Leyline of the Guildpact",MKM,Rare,0,4,12.99
+1710793871,"2024-03-18 21:31:11",GoatBotsD,66.572,67,0.512,0.94,get,90849,"Scion of Draco",MH2,Mythic,0,4,3.65
+1710793871,"2024-03-18 21:31:11",GoatBotsD,66.572,67,0.512,0.94,get,102824,"Nishoba Brawler",DMU,Uncommon,0,4,0.003
+1710793871,"2024-03-18 21:31:11",GoatBotsD,66.572,67,0.512,0.94,give,1,"Event Ticket",EVT,Event,0,67,1
+1710793713,"2024-03-18 21:28:33",GoatBotsE,173,173.09,0.422,0.512,get,1,"Event Ticket",EVT,Event,0,173,1
+1710793713,"2024-03-18 21:28:33",GoatBotsE,173,173.09,0.422,0.512,give,30308,"Underground Sea",ME2,Rare,0,1,30.01
+1710793713,"2024-03-18 21:28:33",GoatBotsE,173,173.09,0.422,0.512,give,56948,"City of Traitors",TPR,Rare,0,1,24.51
+1710793713,"2024-03-18 21:28:33",GoatBotsE,173,173.09,0.422,0.512,give,53097,"Underground Sea",VMA,Rare,0,3,19.51
+1710793713,"2024-03-18 21:28:33",GoatBotsE,173,173.09,0.422,0.512,give,72604,"Yawgmoth, Thran Physician",MH1,Mythic,0,4,8.73
+1710793713,"2024-03-18 21:28:33",GoatBotsE,173,173.09,0.422,0.512,give,62385,"The Rack",PRM,Uncommon,0,4,6.28
+1710756622,"2024-03-18 11:10:22",GoatBotsE,29,29.24,0.182,0.422,get,1,"Event Ticket",EVT,Event,0,29,1
+1710756622,"2024-03-18 11:10:22",GoatBotsE,29,29.24,0.182,0.422,give,56948,"City of Traitors",TPR,Rare,0,1,26.01
+1710756622,"2024-03-18 11:10:22",GoatBotsE,29,29.24,0.182,0.422,give,21737,"Goryo's Vengeance",BOK,Rare,0,1,3.23
+1710706526,"2024-03-17 21:15:26",GoatBots5,0.008,0,0.19,0.182,get,32629,"Tome Scour",M10,Common,0,4,0.002
+1710666210,"2024-03-17 10:03:30",GoatBotsE,4,3.41,0.78,0.19,get,1,"Event Ticket",EVT,Event,0,4,1
+1710666210,"2024-03-17 10:03:30",GoatBotsE,4,3.41,0.78,0.19,give,54727,"Goblin Welder",C14,Rare,0,1,3.41
+1710363930,"2024-03-13 22:05:30",GoatBots9,3.58,4,0.36,0.78,get,12287,"Back to Basics",UZ,Rare,0,1,3.51
+1710363930,"2024-03-13 22:05:30",GoatBots9,3.58,4,0.36,0.78,get,43534,"Phyrexian Dreadnought",PRM,Rare,0,1,0.07
+1710363930,"2024-03-13 22:05:30",GoatBots9,3.58,4,0.36,0.78,give,1,"Event Ticket",EVT,Event,0,4,1
+1710237822,"2024-03-12 11:03:42",GoatBots1,6.62,6,0.98,0.36,get,121446,"Thundering Falls",MKM,Rare,0,2,3.31
+1710237822,"2024-03-12 11:03:42",GoatBots1,6.62,6,0.98,0.36,give,1,"Event Ticket",EVT,Event,0,6,1
+1710237736,"2024-03-12 11:02:16",GoatBots3,0.424,1,0.404,0.98,get,121816,"Pick Your Poison",MKM,Common,0,4,0.1
+1710237736,"2024-03-12 11:02:16",GoatBots3,0.424,1,0.404,0.98,get,69453,"Enhanced Surveillance",GRN,Uncommon,0,4,0.003
+1710237736,"2024-03-12 11:02:16",GoatBots3,0.424,1,0.404,0.98,get,69483,"Thoughtbound Phantasm",GRN,Uncommon,0,4,0.003
+1710237736,"2024-03-12 11:02:16",GoatBots3,0.424,1,0.404,0.98,give,1,"Event Ticket",EVT,Event,0,1,1
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,26700,"Horizon Canopy",FUT,Rare,0,4,0.38
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,69929,"Temple Garden",GRN,Rare,0,4,0.2
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,96960,"Light-Paws, Emperor's Voice",NEO,Rare,0,4,0.09
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,26720,"Daybreak Coronet",FUT,Rare,0,4,0.02
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,47623,"Alpha Authority",GTC,Uncommon,0,4,0.003
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,104956,Audacity,BRO,Uncommon,0,4,0.003
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,41395,"Spirit Mantle",M12,Uncommon,0,4,0.003
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,36756,"Hyena Umbra",ROE,Common,0,4,0.002
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,get,36684,"Spider Umbra",ROE,Common,0,4,0.002
+1710181034,"2024-03-11 19:17:14",GoatBots5,2.812,3,0.216,0.404,give,1,"Event Ticket",EVT,Event,0,3,1
+1710167365,"2024-03-11 15:29:25",GoatBots0,0.016,0,0.232,0.216,get,107233,"Spirit Link",DMR,Common,0,4,0.002
+1710167365,"2024-03-11 15:29:25",GoatBots0,0.016,0,0.232,0.216,get,18141,"Vitality Charm",ONS,Common,0,4,0.002
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,get,121450,"Underground Mortuary",MKM,Rare,0,4,2.12
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,get,121432,"Commercial District",MKM,Rare,0,4,0.81
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,get,121444,"Shadowy Backstreet",MKM,Rare,0,4,0.8
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,get,121438,"Lush Portico",MKM,Rare,0,4,0.43
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,get,121442,"Raucous Theater",MKM,Rare,0,4,0.43
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,get,121434,"Elegant Parlor",MKM,Rare,0,4,0.36
+1710066157,"2024-03-10 11:22:37",GoatBots9,19.8,20,0.032,0.232,give,1,"Event Ticket",EVT,Event,0,20,1
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,get,1,"Event Ticket",EVT,Event,0,17,1
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,give,100702,"Patriar's Seal",CLB,Uncommon,0,1,8.01
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,give,100224,"Agent of the Iron Throne",CLB,Uncommon,0,1,2.56
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,give,100570,"Baba Lysaga, Night Witch",CLB,Rare,0,1,2.33
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,give,92496,"Fey Steed",AFC,Rare,0,1,1.63
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,give,100058,"Legion Loyalty",CLB,Mythic,0,1,1.59
+1710064571,"2024-03-10 10:56:11",GoatBotsE,17,16.84,0.192,0.032,give,90144,"Blossoming Bogbeast",PRM,Rare,0,1,0.72
+1709893776,"2024-03-08 11:29:36",GoatBots3,0.012,0,0.204,0.192,get,83311,"Spikefield Hazard",ZNR,Uncommon,0,4,0.003
+1709711702,"2024-03-06 08:55:02",GoatBotsF,6,6.14,0.064,0.204,get,1,"Event Ticket",EVT,Event,0,6,1
+1709711702,"2024-03-06 08:55:02",GoatBotsF,6,6.14,0.064,0.204,give,100458,"Avenging Hunter",CLB,Common,0,1,4.94
+1709711702,"2024-03-06 08:55:02",GoatBotsF,6,6.14,0.064,0.204,give,28952,Deglamer,MOR,Common,0,3,0.4
+1708778922,"2024-02-24 13:48:42",GoatBots4,4.58,4,0.644,0.064,get,121446,"Thundering Falls",MKM,Rare,0,2,2.29
+1708778922,"2024-02-24 13:48:42",GoatBots4,4.58,4,0.644,0.064,give,1,"Event Ticket",EVT,Event,0,4,1
+1708190466,"2024-02-17 18:21:06",GoatBots9,8.82,9,0.464,0.644,get,99725,"Unlicensed Hearse",PRM,Rare,0,2,4.41
+1708190466,"2024-02-17 18:21:06",GoatBots9,8.82,9,0.464,0.644,give,1,"Event Ticket",EVT,Event,0,9,1
+1708190357,"2024-02-17 18:19:17",GoatBotsF,32,32.35,0.114,0.464,get,1,"Event Ticket",EVT,Event,0,32,1
+1708190357,"2024-02-17 18:19:17",GoatBotsF,32,32.35,0.114,0.464,give,90849,"Scion of Draco",MH2,Mythic,0,4,7.36
+1708190357,"2024-02-17 18:19:17",GoatBotsF,32,32.35,0.114,0.464,give,109846,"Invasion of Gobakhan",MOM,Rare,0,1,2.91
+1705000406,"2024-01-11 20:13:26",GoatBots6,0.012,0,0.126,0.114,get,87549,"Skemfar Shadowsage",KHM,Uncommon,0,4,0.003
+1705000354,"2024-01-11 20:12:34",GoatBots6,1.48,1,0.606,0.126,get,106697,"Soulless Jailer",ONE,Rare,0,4,0.25
+1705000354,"2024-01-11 20:12:34",GoatBots6,1.48,1,0.606,0.126,get,119612,"Elven Chorus",LTR,Rare,0,4,0.06
+1705000354,"2024-01-11 20:12:34",GoatBots6,1.48,1,0.606,0.126,get,112230,"Elven Chorus",LTR,Rare,0,4,0.03
+1705000354,"2024-01-11 20:12:34",GoatBots6,1.48,1,0.606,0.126,get,111764,"Elven Chorus",LTR,Rare,0,4,0.03
+1705000354,"2024-01-11 20:12:34",GoatBots6,1.48,1,0.606,0.126,give,1,"Event Ticket",EVT,Event,0,1,1
+1704034988,"2023-12-31 16:03:08",GoatBotsF,47,47.5,0.106,0.606,get,1,"Event Ticket",EVT,Event,0,47,1
+1704034988,"2023-12-31 16:03:08",GoatBotsF,47,47.5,0.106,0.606,give,86721,"Magus of the Moon",TSR,Rare,0,4,10.67
+1704034988,"2023-12-31 16:03:08",GoatBotsF,47,47.5,0.106,0.606,give,100718,"Trailblazer's Torch",CLB,Common,0,1,4.65
+1704034988,"2023-12-31 16:03:08",GoatBotsF,47,47.5,0.106,0.606,give,72544,Defile,MH1,Common,0,1,0.17
+1702411371,"2023-12-12 21:02:51",GoatBots8,1.012,0.4,0.718,0.106,get,1,"Event Ticket",EVT,Event,0,1,1
+1702411371,"2023-12-12 21:02:51",GoatBots8,1.012,0.4,0.718,0.106,get,98343,"Slip Out the Back",SNC,Uncommon,0,4,0.003
+1702411371,"2023-12-12 21:02:51",GoatBots8,1.012,0.4,0.718,0.106,give,72544,Defile,MH1,Common,0,4,0.1
+1701724204,"2023-12-04 22:10:04",GoatBotsI,13,13.32,0.398,0.718,get,1,"Event Ticket",EVT,Event,0,13,1
+1701724204,"2023-12-04 22:10:04",GoatBotsI,13,13.32,0.398,0.718,give,61797,"Smuggler's Copter",KLD,Rare,0,4,3.16
+1701724204,"2023-12-04 22:10:04",GoatBotsI,13,13.32,0.398,0.718,give,72544,Defile,MH1,Common,0,4,0.17
+1701622887,"2023-12-03 18:01:27",GoatBotsE,9,9.16,0.238,0.398,get,1,"Event Ticket",EVT,Event,0,9,1
+1701622887,"2023-12-03 18:01:27",GoatBotsE,9,9.16,0.238,0.398,give,52647,"Null Rod",VMA,Rare,0,1,5.99
+1701622887,"2023-12-03 18:01:27",GoatBotsE,9,9.16,0.238,0.398,give,100558,"Undermountain Adventurer",CLB,Rare,0,1,1.09
+1701622887,"2023-12-03 18:01:27",GoatBotsE,9,9.16,0.238,0.398,give,100238,"Arms of Hadar",CLB,Common,0,2,0.62
+1701622887,"2023-12-03 18:01:27",GoatBotsE,9,9.16,0.238,0.398,give,72544,Defile,MH1,Common,0,4,0.21
+1701606013,"2023-12-03 13:20:13",GoatBotsF,13,12.4,0.838,0.238,get,1,"Event Ticket",EVT,Event,0,13,1
+1701606013,"2023-12-03 13:20:13",GoatBotsF,13,12.4,0.838,0.238,give,97907,"The Wandering Emperor",PRM,Mythic,0,1,6.47
+1701606013,"2023-12-03 13:20:13",GoatBotsF,13,12.4,0.838,0.238,give,100352,"Breath Weapon",CLB,Common,0,2,1.24
+1701606013,"2023-12-03 13:20:13",GoatBotsF,13,12.4,0.838,0.238,give,72754,"Weather the Storm",MH1,Common,0,3,0.88
+1701606013,"2023-12-03 13:20:13",GoatBotsF,13,12.4,0.838,0.238,give,72755,"Weather the Storm",MH1,Common,1,1,0.81
+1701289348,"2023-11-29 21:22:28",GoatBotsA,0.366,1,0.204,0.838,get,78090,"All That Glitters",ELD,Uncommon,0,4,0.09
+1701289348,"2023-11-29 21:22:28",GoatBotsA,0.366,1,0.204,0.838,get,78584,Gingerbrute,ELD,Common,0,3,0.002
+1701289348,"2023-11-29 21:22:28",GoatBotsA,0.366,1,0.204,0.838,give,1,"Event Ticket",EVT,Event,0,1,1
+1699633965,"2023-11-10 17:32:45",GoatBotsE,9,8.52,0.684,0.204,get,1,"Event Ticket",EVT,Event,0,9,1
+1699633965,"2023-11-10 17:32:45",GoatBotsE,9,8.52,0.684,0.204,give,52919,"Mox Sapphire",VMA,Mythic,0,1,8.52
+1698686071,"2023-10-30 18:14:31",GoatBots3,8.84,9,0.524,0.684,get,107475,"Gemstone Mine",DMR,Rare,0,4,1.87
+1698686071,"2023-10-30 18:14:31",GoatBots3,8.84,9,0.524,0.684,get,81433,"Grim Tutor",M21,Mythic,0,2,0.68
+1698686071,"2023-10-30 18:14:31",GoatBots3,8.84,9,0.524,0.684,give,24717,Commandeer,CSP,Rare,0,4,1.75
+1698686071,"2023-10-30 18:14:31",GoatBots3,8.84,9,0.524,0.684,give,1,"Event Ticket",EVT,Event,0,2,1
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,15660,"Lord of Atlantis",7E,Rare,0,4,1.81
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,90511,"Svyelun of Sea and Sky",MH2,Mythic,0,4,1.65
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,27210,"Hurkyl's Recall",10E,Rare,0,1,0.88
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,102626,"Vodalian Hexcatcher",DMU,Rare,0,4,0.76
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,57912,"Harbinger of the Tides",ORI,Rare,0,4,0.02
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,68285,Mistcaller,M19,Rare,0,4,0.006
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,67577,"Merfolk Trickster",DAR,Uncommon,0,4,0.003
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,28195,"Silvergill Adept",LRW,Uncommon,0,3,0.003
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,get,90517,"Tide Shaper",MH2,Uncommon,0,3,0.003
+1698506442,"2023-10-28 17:20:42",GoatBots0,17.894,18,0.418,0.524,give,1,"Event Ticket",EVT,Event,0,18,1
+1698169078,"2023-10-24 19:37:58",GoatBotsG,50,50.01,0.408,0.418,get,1,"Event Ticket",EVT,Event,0,50,1
+1698169078,"2023-10-24 19:37:58",GoatBotsG,50,50.01,0.408,0.418,give,116872,"Agatha's Soul Cauldron",WOE,Mythic,0,1,50.01
+1697943564,"2023-10-22 04:59:24",GoatBotsD,7.17,6.6,0.978,0.408,get,53089,Taiga,VMA,Rare,0,1,3.01
+1697943564,"2023-10-22 04:59:24",GoatBotsD,7.17,6.6,0.978,0.408,get,1,"Event Ticket",EVT,Event,0,2,1
+1697943564,"2023-10-22 04:59:24",GoatBotsD,7.17,6.6,0.978,0.408,get,116732,"Up the Beanstalk",WOE,Uncommon,0,4,0.54
+1697943564,"2023-10-22 04:59:24",GoatBotsD,7.17,6.6,0.978,0.408,give,112576,"Forth Eorlingas!",LTC,Rare,0,1,6.6
+1697397388,"2023-10-15 21:16:28",GoatBotsE,5,5.58,0.398,0.978,get,1,"Event Ticket",EVT,Event,0,5,1
+1697397388,"2023-10-15 21:16:28",GoatBotsE,5,5.58,0.398,0.978,give,24717,Commandeer,CSP,Rare,0,3,1.86
+1697204019,"2023-10-13 15:33:39",GoatBotsK,7,6.52,0.878,0.398,get,1,"Event Ticket",EVT,Event,0,7,1
+1697204019,"2023-10-13 15:33:39",GoatBotsK,7,6.52,0.878,0.398,give,24717,Commandeer,CSP,Rare,0,4,1.63
+1697203946,"2023-10-13 15:32:26",GoatBotsE,7,7.16,0.718,0.878,get,1,"Event Ticket",EVT,Event,0,7,1
+1697203946,"2023-10-13 15:32:26",GoatBotsE,7,7.16,0.718,0.878,give,24717,Commandeer,CSP,Rare,0,4,1.79
+1696959420,"2023-10-10 19:37:00",GoatBotsE,10,10.32,0.398,0.718,get,1,"Event Ticket",EVT,Event,0,10,1
+1696959420,"2023-10-10 19:37:00",GoatBotsE,10,10.32,0.398,0.718,give,91327,"Grist, the Hunger Tide",PRM,Mythic,0,1,10.32
+1696583203,"2023-10-06 11:06:43",GoatBotsE,21,20.94,0.458,0.398,get,1,"Event Ticket",EVT,Event,0,21,1
+1696583203,"2023-10-06 11:06:43",GoatBotsE,21,20.94,0.458,0.398,give,46930,"Show and Tell",PRM,Rare,0,2,10.47
+1696500949,"2023-10-05 12:15:49",GoatBots7,0.06,0,0.518,0.458,get,109324,"Lurrus of the Dream-Den",MUL,Rare,0,1,0.06
+1696418863,"2023-10-04 13:27:43",GoatBotsE,12,12.041,0.477,0.518,get,1,"Event Ticket",EVT,Event,0,12,1
+1696418863,"2023-10-04 13:27:43",GoatBotsE,12,12.041,0.477,0.518,give,90535,"Dauthi Voidwalker",MH2,Rare,0,1,6.03
+1696418863,"2023-10-04 13:27:43",GoatBotsE,12,12.041,0.477,0.518,give,110096,Sheoldred,MOM,Mythic,0,1,6.01
+1696418863,"2023-10-04 13:27:43",GoatBotsE,12,12.041,0.477,0.518,give,39010,"Avatar - Balance",VAN,Rare,0,1,0.001
+1694433518,"2023-09-11 13:58:38",GoatBots4,4.5,4.58,0.397,0.477,get,72414,"Ranger-Captain of Eos",MH1,Mythic,0,2,2.25
+1694433518,"2023-09-11 13:58:38",GoatBots4,4.5,4.58,0.397,0.477,give,107363,Exploration,DMR,Rare,0,1,3.58
+1694433518,"2023-09-11 13:58:38",GoatBots4,4.5,4.58,0.397,0.477,give,1,"Event Ticket",EVT,Event,0,1,1
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,26700,"Horizon Canopy",FUT,Rare,0,1,1.56
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,87200,"Heliod, Sun-Crowned",SLD,Mythic,1,4,0.79
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,20908,"Auriok Champion",5DN,Rare,0,2,0.49
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,104638,"Kayla's Reconstruction",BRO,Rare,0,4,0.09
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,26117,"Spike Feeder",TSB,Rare,0,4,0.07
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,105018,"Haywire Mite",BRO,Uncommon,0,4,0.06
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,104639,"Kayla's Reconstruction",BRO,Rare,1,4,0.06
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,72782,"Kaya's Guile",MH1,Rare,0,3,0.05
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,111620,"Boromir, Warden of the Tower",LTR,Rare,0,4,0.03
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,111538,"Boromir, Warden of the Tower",LTR,Rare,0,4,0.009
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,111605,"Rosie Cotton of South Lane",LTR,Uncommon,1,4,0.003
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,get,90721,"Scurry Oak",MH2,Uncommon,0,1,0.003
+1694433373,"2023-09-11 13:56:13",GoatBots3,7.141,7,0.538,0.397,give,1,"Event Ticket",EVT,Event,0,7,1
+1694309543,"2023-09-10 03:32:23",GoatBots5,0.7,0.47,0.768,0.538,get,63323,"Craterhoof Behemoth",MM3,Mythic,0,1,0.7
+1694309543,"2023-09-10 03:32:23",GoatBots5,0.7,0.47,0.768,0.538,give,105941,"Sophina, Spearsage Deserter",SLX,Rare,0,1,0.47
+1692561380,"2023-08-20 21:56:20",GoatBots3,0.2,0,0.968,0.768,get,112030,"Lórien Revealed",LTR,Common,0,4,0.05
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112360,"Sauron's Ransom",LTR,Rare,0,4,0.2
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112316,"Flame of Anor",LTR,Rare,0,4,0.17
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112426,"Mount Doom",LTR,Mythic,0,4,0.03
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112354,"Samwise Gamgee",LTR,Rare,0,4,0.02
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112358,"Sauron, the Dark Lord",LTR,Mythic,0,4,0.01
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,111918,"Boromir, Warden of the Tower",LTR,Rare,0,4,0.008
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,111944,"Forge Anew",LTR,Rare,0,4,0.008
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112068,"Call of the Ring",LTR,Rare,0,4,0.007
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112428,Rivendell,LTR,Rare,0,4,0.007
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112430,"The Shire",LTR,Rare,0,4,0.007
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,111946,"Frodo, Sauron's Bane",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112324,"Gandalf the Grey",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112390,"Horn of Gondor",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112256,"Legolas, Master Archer",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112186,"Moria Marauder",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,112346,"Pippin, Guard of the Citadel",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,111914,"The Battle of Bywater",LTR,Rare,0,4,0.006
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,get,111962,Reprieve,LTR,Uncommon,0,4,0.005
+1692505599,"2023-08-20 06:26:39",GoatBotsDelivery2,2.056,3,0.024,0.968,give,1,"Event Ticket",EVT,Event,0,3,1
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,get,1,"Event Ticket",EVT,Event,0,22,1
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,62221,"Time Spiral",PRM,Rare,0,1,5.01
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,43746,Preordain,DDI,Common,0,1,3.01
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,37389,Preordain,M11,Common,1,2,2.37
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,100730,"Basilisk Gate",CLB,Common,0,2,1.85
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,19569,"Merchant Scroll",8ED,Uncommon,0,1,1.81
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,52753,"Mind's Desire",VMA,Rare,0,1,1.46
+1692481166,"2023-08-19 23:39:26",GoatBotsF,22,21.89,0.134,0.024,give,100756,"Sea Gate",CLB,Common,0,2,1.08
+1689253633,"2023-07-13 15:07:13",GoatBotsF,5,5.13,0.004,0.134,get,1,"Event Ticket",EVT,Event,0,5,1
+1689253633,"2023-07-13 15:07:13",GoatBotsF,5,5.13,0.004,0.134,give,61855,"Inspiring Vantage",KLD,Rare,0,1,5.13
+1689250065,"2023-07-13 14:07:45",GoatBots5,5.26,5.13,0.134,0.004,get,109930,"Faerie Mastermind",MOM,Rare,0,2,2.13
+1689250065,"2023-07-13 14:07:45",GoatBots5,5.26,5.13,0.134,0.004,get,1,"Event Ticket",EVT,Event,0,1,1
+1689250065,"2023-07-13 14:07:45",GoatBots5,5.26,5.13,0.134,0.004,give,61855,"Inspiring Vantage",KLD,Rare,0,1,5.13
+1689147690,"2023-07-12 09:41:30",GoatBots4,0.012,0,0.146,0.134,get,112052,"Stern Scolding",LTR,Uncommon,0,4,0.003
+1689107702,"2023-07-11 22:35:02",GoatBots1,0.66,0,0.806,0.146,get,59707,"Cascade Bluffs",EXP,Mythic,0,1,0.66
+1689074483,"2023-07-11 13:21:23",GoatBots5,0.64,1,0.446,0.806,get,24717,Commandeer,CSP,Rare,0,4,0.16
+1689074483,"2023-07-11 13:21:23",GoatBots5,0.64,1,0.446,0.806,give,1,"Event Ticket",EVT,Event,0,1,1
+1689074450,"2023-07-11 13:20:50",GoatBots2,0.56,1,0.006,0.446,get,24717,Commandeer,CSP,Rare,0,4,0.14
+1689074450,"2023-07-11 13:20:50",GoatBots2,0.56,1,0.006,0.446,give,1,"Event Ticket",EVT,Event,0,1,1
+1689074249,"2023-07-11 13:17:29",GoatBotsB,0.48,0,0.486,0.006,get,24717,Commandeer,CSP,Rare,0,4,0.12
+1689074214,"2023-07-11 13:16:54",GoatBots4,0.4,0,0.886,0.486,get,24717,Commandeer,CSP,Rare,0,4,0.1
+1689074183,"2023-07-11 13:16:23",GoatBots7,0.36,1,0.246,0.886,get,24717,Commandeer,CSP,Rare,0,4,0.09
+1689074183,"2023-07-11 13:16:23",GoatBots7,0.36,1,0.246,0.886,give,1,"Event Ticket",EVT,Event,0,1,1
+1689074149,"2023-07-11 13:15:49",GoatBots9,0.36,0,0.606,0.246,get,24717,Commandeer,CSP,Rare,0,4,0.09
+1689074117,"2023-07-11 13:15:17",GoatBotsA,3.27,3.83,0.046,0.606,get,1,"Event Ticket",EVT,Event,0,3,1
+1689074117,"2023-07-11 13:15:17",GoatBotsA,3.27,3.83,0.046,0.606,get,24717,Commandeer,CSP,Rare,0,3,0.09
+1689074117,"2023-07-11 13:15:17",GoatBotsA,3.27,3.83,0.046,0.606,give,83716,"Omnath, Locus of Creation",PRM,Mythic,0,1,3.83
+1688831088,"2023-07-08 17:44:48",GoatBots6,25.92,25.57,0.396,0.046,get,78826,"Brazen Borrower",PRM,Mythic,0,4,6.23
+1688831088,"2023-07-08 17:44:48",GoatBots6,25.92,25.57,0.396,0.046,get,1,"Event Ticket",EVT,Event,0,1,1
+1688831088,"2023-07-08 17:44:48",GoatBots6,25.92,25.57,0.396,0.046,give,53097,"Underground Sea",VMA,Rare,0,1,8.29
+1688831088,"2023-07-08 17:44:48",GoatBots6,25.92,25.57,0.396,0.046,give,83139,"Agadeem's Awakening",ZNR,Mythic,0,2,5.98
+1688831088,"2023-07-08 17:44:48",GoatBots6,25.92,25.57,0.396,0.046,give,82270,"Blood Moon",2XM,Rare,0,1,5.32
+1688826998,"2023-07-08 16:36:38",GoatBots2,0.008,0,0.404,0.396,get,112146,"Cast into the Fire",LTR,Common,0,4,0.002
+1688751679,"2023-07-07 19:41:19",GoatBots3,0.36,0,0.764,0.404,get,111536,"Flame of Anor",LTR,Rare,0,4,0.09
+1688416651,"2023-07-03 22:37:31",GoatBotsE,26,26.38,0.384,0.764,get,1,"Event Ticket",EVT,Event,0,26,1
+1688416651,"2023-07-03 22:37:31",GoatBotsE,26,26.38,0.384,0.764,give,46930,"Show and Tell",PRM,Rare,0,2,13.19
+1688385796,"2023-07-03 14:03:16",GoatBots0,0.06,0,0.444,0.384,get,109350,"Yorion, Sky Nomad",MUL,Rare,0,1,0.06
+1688385741,"2023-07-03 14:02:21",GoatBots9,12.25,12,0.694,0.444,get,97388,"Hidetsugu Consumes All",NEO,Mythic,0,1,4.56
+1688385741,"2023-07-03 14:02:21",GoatBots9,12.25,12,0.694,0.444,get,52647,"Null Rod",VMA,Rare,0,1,3.12
+1688385741,"2023-07-03 14:02:21",GoatBots9,12.25,12,0.694,0.444,get,94594,"Sorin the Mirthless",VOW,Mythic,0,4,0.88
+1688385741,"2023-07-03 14:02:21",GoatBots9,12.25,12,0.694,0.444,get,72572,"Plague Engineer",MH1,Rare,0,1,0.57
+1688385741,"2023-07-03 14:02:21",GoatBots9,12.25,12,0.694,0.444,get,106431,"Sheoldred's Edict",ONE,Uncommon,0,4,0.12
+1688385741,"2023-07-03 14:02:21",GoatBots9,12.25,12,0.694,0.444,give,1,"Event Ticket",EVT,Event,0,12,1
+1688310539,"2023-07-02 17:08:59",GoatBotsC,0.012,0,0.706,0.694,get,106267,Ossification,ONE,Uncommon,0,4,0.003
+1688310486,"2023-07-02 17:08:06",GoatBotsE,32,32.01,0.696,0.706,get,1,"Event Ticket",EVT,Event,0,32,1
+1688310486,"2023-07-02 17:08:06",GoatBotsE,32,32.01,0.696,0.706,give,91251,Grief,PRM,Mythic,0,1,32.01
+1687526113,"2023-06-23 15:15:13",GoatBots7,3.4,4,0.096,0.696,get,110254,"Invasion of Ikoria",MOM,Rare,0,4,0.85
+1687526113,"2023-06-23 15:15:13",GoatBots7,3.4,4,0.096,0.696,give,1,"Event Ticket",EVT,Event,0,4,1
+1687455811,"2023-06-22 19:43:31",GoatBotsH,23,22.4,0.696,0.096,get,1,"Event Ticket",EVT,Event,0,23,1
+1687455811,"2023-06-22 19:43:31",GoatBotsH,23,22.4,0.696,0.096,give,91203,Solitude,PRM,Mythic,0,1,14.74
+1687455811,"2023-06-22 19:43:31",GoatBotsH,23,22.4,0.696,0.096,give,92016,"Hall of Storm Giants",AFR,Rare,0,1,7.66
+1687425583,"2023-06-22 11:19:43",GoatBotsF,1,0.81,0.886,0.696,get,1,"Event Ticket",EVT,Event,0,1,1
+1687425583,"2023-06-22 11:19:43",GoatBotsF,1,0.81,0.886,0.696,give,77142,"Grismold, the Dreadsower",C19,Rare,0,1,0.81
+1686434392,"2023-06-10 23:59:52",GoatBots4,0.008,0,0.894,0.886,get,109980,"Saiba Cryptomancer",MOM,Common,0,4,0.002
+1686405047,"2023-06-10 15:50:47",GoatBotsE,27,27.82,0.074,0.894,get,1,"Event Ticket",EVT,Event,0,27,1
+1686405047,"2023-06-10 15:50:47",GoatBotsE,27,27.82,0.074,0.894,give,100458,"Avenging Hunter",CLB,Common,0,1,26.01
+1686405047,"2023-06-10 15:50:47",GoatBotsE,27,27.82,0.074,0.894,give,100068,"Pegasus Guardian",CLB,Common,0,1,1.81
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,60947,"Ancestral Mask",EMA,Uncommon,0,4,4.38
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,7561,"Freewind Falcon",VI,Common,0,3,0.74
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,16076,"Standard Bearer",AP,Common,0,1,0.65
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,12993,"Rofellos's Gift",UD,Common,0,4,0.006
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,97298,"Commune with Spirits",NEO,Common,0,4,0.002
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,80349,"Ram Through",IKO,Common,0,4,0.002
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,get,96990,"Spirited Companion",NEO,Common,0,2,0.002
+1686276972,"2023-06-09 04:16:12",GoatBots4,20.434,20,0.508,0.074,give,1,"Event Ticket",EVT,Event,0,20,1
+1684934403,"2023-05-24 15:20:03",GoatBotsG,16,16.12,0.388,0.508,get,1,"Event Ticket",EVT,Event,0,16,1
+1684934403,"2023-05-24 15:20:03",GoatBotsG,16,16.12,0.388,0.508,give,59273,"Reckless Bushwhacker",OGW,Uncommon,0,4,4.03
+1683029602,"2023-05-02 14:13:22",GoatBots7,7.7,7.76,0.328,0.388,get,1,"Event Ticket",EVT,Event,0,5,1
+1683029602,"2023-05-02 14:13:22",GoatBots7,7.7,7.76,0.328,0.388,get,106019,"Venerated Rotpriest",ONE,Rare,0,4,0.6
+1683029602,"2023-05-02 14:13:22",GoatBots7,7.7,7.76,0.328,0.388,get,39319,"Phyrexian Crusader",MBS,Rare,0,4,0.07
+1683029602,"2023-05-02 14:13:22",GoatBots7,7.7,7.76,0.328,0.388,get,106397,"Drown in Ichor",ONE,Uncommon,0,4,0.003
+1683029602,"2023-05-02 14:13:22",GoatBots7,7.7,7.76,0.328,0.388,get,38219,"Plague Stinger",SOM,Common,0,4,0.002
+1683029602,"2023-05-02 14:13:22",GoatBots7,7.7,7.76,0.328,0.388,give,81477,"Thieves' Guild Enforcer",M21,Rare,0,4,1.94
+1682799067,"2023-04-29 22:11:07",GoatBotsF,19,19.09,0.238,0.328,get,1,"Event Ticket",EVT,Event,0,19,1
+1682799067,"2023-04-29 22:11:07",GoatBotsF,19,19.09,0.238,0.328,give,109394,"Ragavan, Nimble Pilferer",MUL,Mythic,0,1,12.01
+1682799067,"2023-04-29 22:11:07",GoatBotsF,19,19.09,0.238,0.328,give,50256,Thoughtseize,THS,Rare,0,1,7.08
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,get,110216,"Ancient Imperiosaur",MOM,Rare,0,4,1.2
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,get,1,"Event Ticket",EVT,Event,0,2,1
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,get,90681,Chatterstorm,MH2,Common,0,4,0.002
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,give,72692,"Crashing Footfalls",MH1,Rare,0,1,1.72
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,give,68896,"Sea of Clouds",BBD,Rare,0,2,1.53
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,give,72754,"Weather the Storm",MH1,Common,0,4,0.56
+1682369091,"2023-04-24 22:44:51",GoatBots9,6.808,7.03,0.016,0.238,give,20367,"Echoing Decay",DST,Common,0,1,0.01
+1682099079,"2023-04-21 19:44:39",GoatBotsF,19,18.68,0.336,0.016,get,1,"Event Ticket",EVT,Event,0,19,1
+1682099079,"2023-04-21 19:44:39",GoatBotsF,19,18.68,0.336,0.016,give,57924,"Day's Undoing",ORI,Mythic,0,4,4.67
+1681997067,"2023-04-20 15:24:27",GoatBotsB,3.472,2.91,0.898,0.336,get,72452,"Archmage's Charm",MH1,Rare,0,2,1.73
+1681997067,"2023-04-20 15:24:27",GoatBotsB,3.472,2.91,0.898,0.336,get,98673,"Tainted Indulgence",SNC,Uncommon,0,4,0.003
+1681997067,"2023-04-20 15:24:27",GoatBotsB,3.472,2.91,0.898,0.336,give,63586,"Thorn of the Black Rose",PZ2,Common,0,1,2.91
+1681724920,"2023-04-17 11:48:40",GoatBotsF,11,11.18,0.718,0.898,get,1,"Event Ticket",EVT,Event,0,11,1
+1681724920,"2023-04-17 11:48:40",GoatBotsF,11,11.18,0.718,0.898,give,99683,"Green Sun's Zenith",PRM,Rare,0,1,5.65
+1681724920,"2023-04-17 11:48:40",GoatBotsF,11,11.18,0.718,0.898,give,99579,"Demonic Tutor",STA,Mythic,0,1,5.53
+1681724774,"2023-04-17 11:46:14",GoatBotsD,0.36,1,0.078,0.718,get,29681,"Dramatic Entrance",SHM,Rare,0,4,0.09
+1681724774,"2023-04-17 11:46:14",GoatBotsD,0.36,1,0.078,0.718,give,1,"Event Ticket",EVT,Event,0,1,1
+1681551508,"2023-04-15 11:38:28",GoatBots5,0.012,0,0.09,0.078,get,106483,"Gleeful Demolition",ONE,Uncommon,0,4,0.003
+1681551444,"2023-04-15 11:37:24",GoatBots6,1.58,1.36,0.31,0.09,get,78624,"Castle Embereth",ELD,Rare,0,1,0.92
+1681551444,"2023-04-15 11:37:24",GoatBots6,1.58,1.36,0.31,0.09,get,64886,"Ramunap Ruins",HOU,Uncommon,0,2,0.33
+1681551444,"2023-04-15 11:37:24",GoatBots6,1.58,1.36,0.31,0.09,give,100736,"Citadel Gate",CLB,Common,0,2,0.68
+1681551348,"2023-04-15 11:35:48",GoatBots6,0.56,0.16,0.71,0.31,get,41531,"Goblin Grenade",M12,Uncommon,0,4,0.1
+1681551348,"2023-04-15 11:35:48",GoatBots6,0.56,0.16,0.71,0.31,get,39856,"Darksteel Relic",NPH,Uncommon,0,4,0.04
+1681551348,"2023-04-15 11:35:48",GoatBots6,0.56,0.16,0.71,0.31,give,86467,"Ancestral Vision",TSR,Mythic,0,1,0.16
+1681486383,"2023-04-14 17:33:03",GoatBotsB,0.24,0,0.95,0.71,get,106023,"The Filigree Sylex",ONE,Rare,0,1,0.24
+1681375765,"2023-04-13 10:49:25",GoatBotsE,2,2.73,0.22,0.95,get,1,"Event Ticket",EVT,Event,0,2,1
+1681375765,"2023-04-13 10:49:25",GoatBotsE,2,2.73,0.22,0.95,give,12259,Raze,UZ,Common,0,1,2.73
+1681375644,"2023-04-13 10:47:24",GoatBotsE,4,4.06,0.16,0.22,get,1,"Event Ticket",EVT,Event,0,4,1
+1681375644,"2023-04-13 10:47:24",GoatBotsE,4,4.06,0.16,0.22,give,101416,"Seasoned Dungeoneer",CLB,Rare,0,1,4.06
+1681131013,"2023-04-10 14:50:13",GoatBotsE,7,6.4,0.76,0.16,get,1,"Event Ticket",EVT,Event,0,7,1
+1681131013,"2023-04-10 14:50:13",GoatBotsE,7,6.4,0.76,0.16,give,100356,"Caves of Chaos Adventurer",CLB,Rare,0,1,6.4
+1681029406,"2023-04-09 10:36:46",GoatBotsE,18,18.61,0.15,0.76,get,1,"Event Ticket",EVT,Event,0,18,1
+1681029406,"2023-04-09 10:36:46",GoatBotsE,18,18.61,0.15,0.76,give,101584,"Force of Negation",2X2,Rare,0,1,18.61
+1680362535,"2023-04-01 17:22:15",GoatBots8,49.17,49,0.32,0.15,get,98311,"Ledger Shredder",SNC,Rare,0,3,16.39
+1680362535,"2023-04-01 17:22:15",GoatBots8,49.17,49,0.32,0.15,give,1,"Event Ticket",EVT,Event,0,49,1
+1680362401,"2023-04-01 17:20:01",GoatBotsE,43,42.62,0.7,0.32,get,1,"Event Ticket",EVT,Event,0,43,1
+1680362401,"2023-04-01 17:20:01",GoatBotsE,43,42.62,0.7,0.32,give,102524,"Leyline Binding",DMU,Rare,0,1,23.11
+1680362401,"2023-04-01 17:20:01",GoatBotsE,43,42.62,0.7,0.32,give,103396,"Leyline Binding",PRM,Rare,0,1,19.51
+1680362351,"2023-04-01 17:19:11",GoatBotsA,104.67,105,0.37,0.7,get,99679,"Ragavan, Nimble Pilferer",PRM,Mythic,0,4,21.99
+1680362351,"2023-04-01 17:19:11",GoatBotsA,104.67,105,0.37,0.7,get,99733,"Ledger Shredder",PRM,Rare,0,1,16.71
+1680362351,"2023-04-01 17:19:11",GoatBotsA,104.67,105,0.37,0.7,give,1,"Event Ticket",EVT,Event,0,105,1
+1680361956,"2023-04-01 17:12:36",GoatBotsE,46,46.22,0.15,0.37,get,1,"Event Ticket",EVT,Event,0,46,1
+1680361956,"2023-04-01 17:12:36",GoatBotsE,46,46.22,0.15,0.37,give,102524,"Leyline Binding",DMU,Rare,0,2,23.11
+1680268886,"2023-03-31 15:21:26",GoatBotsE,64,64.02,0.13,0.15,get,1,"Event Ticket",EVT,Event,0,64,1
+1680268886,"2023-03-31 15:21:26",GoatBotsE,64,64.02,0.13,0.15,give,52120,"Mana Confluence",JOU,Rare,0,2,32.01
+1679840884,"2023-03-26 16:28:04",GoatBots,0.008,0,0.138,0.13,get,65108,"Chart a Course",XLN,Uncommon,0,2,0.004
+1677573999,"2023-02-28 09:46:39",GoatBotsE,6,6.05,0.088,0.138,get,1,"Event Ticket",EVT,Event,0,6,1
+1677573999,"2023-02-28 09:46:39",GoatBotsE,6,6.05,0.088,0.138,give,98095,"Shorikai, Genesis Engine",PRM,Mythic,0,1,4.38
+1677573999,"2023-02-28 09:46:39",GoatBotsE,6,6.05,0.088,0.138,give,103488,"Plaza of Heroes",PRM,Rare,0,1,1.67
+1677331882,"2023-02-25 14:31:22",GoatBotsA,2.752,2,0.84,0.088,get,102760,"Rundvelt Hordemaster",DMU,Rare,0,4,0.68
+1677331882,"2023-02-25 14:31:22",GoatBotsA,2.752,2,0.84,0.088,get,91766,"Battle Cry Goblin",AFR,Uncommon,0,4,0.003
+1677331882,"2023-02-25 14:31:22",GoatBotsA,2.752,2,0.84,0.088,get,97500,"Secluded Courtyard",NEO,Uncommon,0,4,0.003
+1677331882,"2023-02-25 14:31:22",GoatBotsA,2.752,2,0.84,0.088,get,29020,"Frogtosser Banneret",MOR,Common,0,4,0.002
+1677331882,"2023-02-25 14:31:22",GoatBotsA,2.752,2,0.84,0.088,give,1,"Event Ticket",EVT,Event,0,2,1
+1677331782,"2023-02-25 14:29:42",GoatBotsE,16,16.19,0.65,0.84,get,1,"Event Ticket",EVT,Event,0,16,1
+1677331782,"2023-02-25 14:29:42",GoatBotsE,16,16.19,0.65,0.84,give,102524,"Leyline Binding",DMU,Rare,0,1,16.19
+1676893963,"2023-02-20 12:52:43",GoatBots5,0.008,0,0.658,0.65,get,102764,"Smash to Dust",DMU,Common,0,4,0.002
+1676893840,"2023-02-20 12:50:40",GoatBots6,0.02,0,0.678,0.658,get,106343,"Minor Misstep",ONE,Uncommon,0,4,0.005
+1676893708,"2023-02-20 12:48:28",GoatBotsA,0.008,0,0.686,0.678,get,97166,"Reckoner's Bargain",NEO,Common,0,4,0.002
+1676893638,"2023-02-20 12:47:18",GoatBotsE,18,17.9,0.786,0.686,get,1,"Event Ticket",EVT,Event,0,18,1
+1676893638,"2023-02-20 12:47:18",GoatBotsE,18,17.9,0.786,0.686,give,23865,"Shattering Spree",GPT,Uncommon,0,3,5.03
+1676893638,"2023-02-20 12:47:18",GoatBotsE,18,17.9,0.786,0.686,give,51739,"Brimaz, King of Oreskos",BNG,Mythic,0,1,2.81
+1676763382,"2023-02-19 00:36:22",GoatBots2,5.806,6,0.592,0.786,get,91834,Wish,AFR,Rare,0,4,1.45
+1676763382,"2023-02-19 00:36:22",GoatBots2,5.806,6,0.592,0.786,get,90663,"Strike It Rich",MH2,Uncommon,0,2,0.003
+1676763382,"2023-02-19 00:36:22",GoatBots2,5.806,6,0.592,0.786,give,1,"Event Ticket",EVT,Event,0,6,1
+1676762880,"2023-02-19 00:28:00",GoatBotsE,20,20.51,0.082,0.592,get,1,"Event Ticket",EVT,Event,0,20,1
+1676762880,"2023-02-19 00:28:00",GoatBotsE,20,20.51,0.082,0.592,give,98009,"Fable of the Mirror-Breaker",PRM,Rare,0,1,20.51
+1675542156,"2023-02-04 21:22:36",GoatBots6,0.014,0,0.096,0.082,get,46757,"Mana Bloom",RTR,Rare,0,1,0.006
+1675542156,"2023-02-04 21:22:36",GoatBots6,0.014,0,0.096,0.082,get,104872,"Bitter Reunion",BRO,Common,0,4,0.002
+1674910115,"2023-01-28 13:48:35",GoatBots2,0.024,0,0.12,0.096,get,35984,"Blood Knight",PRM,Uncommon,0,4,0.006
+1674500152,"2023-01-23 19:55:52",GoatBots,0.008,0,0.128,0.12,get,104880,"Dwarven Forge-Chanter",BRO,Common,0,4,0.002
+1674391987,"2023-01-22 13:53:07",GoatBots2,0.02,0,0.148,0.128,get,105068,"Third Path Iconoclast",BRO,Uncommon,0,4,0.005
+1673902764,"2023-01-16 21:59:24",GoatBots8,42.3,42,0.448,0.148,get,102524,"Leyline Binding",DMU,Rare,0,3,14.1
+1673902764,"2023-01-16 21:59:24",GoatBots8,42.3,42,0.448,0.148,give,1,"Event Ticket",EVT,Event,0,42,1
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,69929,"Temple Garden",GRN,Rare,0,2,0.53
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,72412,"On Thin Ice",MH1,Rare,0,1,0.47
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,90809,"Sythis, Harvest's Hand",MH2,Rare,0,3,0.13
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,90719,"Sanctum Weaver",MH2,Rare,0,4,0.11
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,23026,"Suppression Field",RAV,Uncommon,0,1,0.08
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,81283,"Nine Lives",M21,Rare,0,4,0.03
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,90989,"Enchantress's Presence",MH2,Rare,0,4,0.01
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,get,79460,"Destiny Spinner",THB,Uncommon,0,3,0.003
+1673511617,"2023-01-12 09:20:17",GoatBots0,2.609,3,0.057,0.448,give,1,"Event Ticket",EVT,Event,0,3,1
+1670738285,"2022-12-11 06:58:05",GoatBotsE,109,108.8,0.257,0.057,get,1,"Event Ticket",EVT,Event,0,109,1
+1670738285,"2022-12-11 06:58:05",GoatBotsE,109,108.8,0.257,0.057,give,102690,"Sheoldred, the Apocalypse",DMU,Mythic,0,1,73.26
+1670738285,"2022-12-11 06:58:05",GoatBotsE,109,108.8,0.257,0.057,give,52697,"Ancient Tomb",VMA,Rare,0,2,17.77
+1669816211,"2022-11-30 14:50:11",GoatBotsE,52,52.01,0.247,0.257,get,1,"Event Ticket",EVT,Event,0,52,1
+1669816211,"2022-11-30 14:50:11",GoatBotsE,52,52.01,0.247,0.257,give,90899,"Urza's Saga",MH2,Rare,0,1,52.01
+1669547533,"2022-11-27 12:12:13",GoatBots5,0.008,0,0.255,0.247,get,81629,"Run Afoul",M21,Common,0,4,0.002
+1669547316,"2022-11-27 12:08:36",GoatBots3,0.08,0,0.335,0.255,get,90733,"Thrasta, Tempest's Roar",MH2,Mythic,0,4,0.02
+1669478593,"2022-11-26 17:03:13",GoatBots3,3.88,4,0.215,0.335,get,23865,"Shattering Spree",GPT,Uncommon,0,2,1.94
+1669478593,"2022-11-26 17:03:13",GoatBots3,3.88,4,0.215,0.335,give,1,"Event Ticket",EVT,Event,0,4,1
+1669221553,"2022-11-23 17:39:13",GoatBots5,2.6,2,0.815,0.215,get,79446,"Underworld Breach",THB,Rare,0,4,0.65
+1669221553,"2022-11-23 17:39:13",GoatBots5,2.6,2,0.815,0.215,give,1,"Event Ticket",EVT,Event,0,2,1
+1668776724,"2022-11-18 14:05:24",GoatBotsD,9.81,10,0.625,0.815,get,99673,"Mishra's Bauble",PRM,Uncommon,0,3,3.27
+1668776724,"2022-11-18 14:05:24",GoatBotsD,9.81,10,0.625,0.815,give,1,"Event Ticket",EVT,Event,0,10,1
+1668776554,"2022-11-18 14:02:34",GoatBotsF,22,22.26,0.365,0.625,get,1,"Event Ticket",EVT,Event,0,22,1
+1668776554,"2022-11-18 14:02:34",GoatBotsF,22,22.26,0.365,0.625,give,97388,"Hidetsugu Consumes All",NEO,Mythic,0,2,11.13
+1668414910,"2022-11-14 09:35:10",GoatBotsE,12,11.92,0.445,0.365,get,1,"Event Ticket",EVT,Event,0,12,1
+1668414910,"2022-11-14 09:35:10",GoatBotsE,12,11.92,0.445,0.365,give,83533,"Riverglide Pathway",ZNR,Rare,0,2,5.96
+1668108114,"2022-11-10 20:21:54",GoatBotsG,9,9.22,0.225,0.445,get,1,"Event Ticket",EVT,Event,0,9,1
+1668108114,"2022-11-10 20:21:54",GoatBotsG,9,9.22,0.225,0.445,give,81555,"Terror of the Peaks",M21,Mythic,0,2,4.61
+1667935400,"2022-11-08 20:23:20",GoatBotsL,16,16.17,0.055,0.225,get,1,"Event Ticket",EVT,Event,0,16,1
+1667935400,"2022-11-08 20:23:20",GoatBotsL,16,16.17,0.055,0.225,give,83023,"Skyclave Apparition",ZNR,Rare,0,1,8.75
+1667935400,"2022-11-08 20:23:20",GoatBotsL,16,16.17,0.055,0.225,give,15083,"Diabolic Intent",PS,Rare,0,1,7.42
+1667770749,"2022-11-06 22:39:09",GoatBots0,0.008,0,0.063,0.055,get,94710,"Voldaren Epicure",VOW,Common,0,4,0.002
+1667760966,"2022-11-06 19:56:06",GoatBotsA,0.012,0,0.075,0.063,get,42568,"Moorland Haunt",ISD,Rare,0,2,0.006
+1667760905,"2022-11-06 19:55:05",GoatBots9,0.836,0,0.911,0.075,get,48998,"Kataki, War's Wage",MMA,Rare,0,2,0.35
+1667760905,"2022-11-06 19:55:05",GoatBots9,0.836,0,0.911,0.075,get,28207,"Burrenton Forge-Tender",LRW,Uncommon,0,1,0.1
+1667760905,"2022-11-06 19:55:05",GoatBots9,0.836,0,0.911,0.075,get,73051,"Spectral Sailor",M20,Uncommon,0,4,0.009
+1667736211,"2022-11-06 13:03:31",GoatBotsE,1,1.54,0.371,0.911,get,1,"Event Ticket",EVT,Event,0,1,1
+1667736211,"2022-11-06 13:03:31",GoatBotsE,1,1.54,0.371,0.911,give,20491,Trinisphere,DST,Rare,0,1,1.54
+1667684542,"2022-11-05 22:42:22",GoatBots,0.066,0,0.437,0.371,get,62441,Snap,PRM,Common,0,1,0.05
+1667684542,"2022-11-05 22:42:22",GoatBots,0.066,0,0.437,0.371,get,87423,"Brinebarrow Intruder",KHM,Common,0,4,0.002
+1667684542,"2022-11-05 22:42:22",GoatBots,0.066,0,0.437,0.371,get,97054,"Moon-Circuit Hacker",NEO,Common,0,4,0.002
+1667243594,"2022-10-31 20:13:14",GoatBots3,0.88,1,0.317,0.437,get,39998,"Torpor Orb",NPH,Rare,0,1,0.88
+1667243594,"2022-10-31 20:13:14",GoatBots3,0.88,1,0.317,0.437,give,1,"Event Ticket",EVT,Event,0,1,1
+1666961826,"2022-10-28 14:57:06",GoatBotsE,29,28.46,0.857,0.317,get,1,"Event Ticket",EVT,Event,0,29,1
+1666961826,"2022-10-28 14:57:06",GoatBotsE,29,28.46,0.857,0.317,give,13535,Unmask,MM,Rare,0,2,14.23
+1666447724,"2022-10-22 16:08:44",GoatBotsE,18,18.51,0.347,0.857,get,1,"Event Ticket",EVT,Event,0,18,1
+1666447724,"2022-10-22 16:08:44",GoatBotsE,18,18.51,0.347,0.857,give,77967,"Teferi, Time Raveler",PRM,Rare,0,1,18.51
+1665567705,"2022-10-12 11:41:45",GoatBotsE,10,10.32,0.027,0.347,get,1,"Event Ticket",EVT,Event,0,10,1
+1665567705,"2022-10-12 11:41:45",GoatBotsE,10,10.32,0.027,0.347,give,79582,"Uro, Titan of Nature's Wrath",THB,Mythic,0,1,2.64
+1665567705,"2022-10-12 11:41:45",GoatBotsE,10,10.32,0.027,0.347,give,82808,"Urza's Tower",PRM,Rare,0,1,2.33
+1665567705,"2022-10-12 11:41:45",GoatBotsE,10,10.32,0.027,0.347,give,45082,"Felidar Umbra",PC2,Uncommon,0,1,2.23
+1665567705,"2022-10-12 11:41:45",GoatBotsE,10,10.32,0.027,0.347,give,82810,"Urza's Mine",PRM,Rare,0,1,2.03
+1665567705,"2022-10-12 11:41:45",GoatBotsE,10,10.32,0.027,0.347,give,15447,"Crypt Rats",7E,Uncommon,1,1,1.09
+1665438761,"2022-10-10 23:52:41",GoatBots7,0.012,0,0.039,0.027,get,91902,"Prosperous Innkeeper",AFR,Uncommon,0,4,0.003
+1665438390,"2022-10-10 23:46:30",GoatBotsE,4,3.51,0.529,0.039,get,1,"Event Ticket",EVT,Event,0,4,1
+1665438390,"2022-10-10 23:46:30",GoatBotsE,4,3.51,0.529,0.039,give,93224,"Bloodthirsty Adversary",MID,Mythic,0,1,3.51
+1664874145,"2022-10-04 11:02:25",GoatBots5,65.72,66,0.249,0.529,get,90473,"Murktide Regent",MH2,Mythic,0,4,16.43
+1664874145,"2022-10-04 11:02:25",GoatBots5,65.72,66,0.249,0.529,give,1,"Event Ticket",EVT,Event,0,66,1
+1664873968,"2022-10-04 10:59:28",GoatBotsE,75,75.05,0.199,0.249,get,1,"Event Ticket",EVT,Event,0,75,1
+1664873968,"2022-10-04 10:59:28",GoatBotsE,75,75.05,0.199,0.249,give,102317,"Wrenn and Six",PRM,Mythic,0,1,30.51
+1664873968,"2022-10-04 10:59:28",GoatBotsE,75,75.05,0.199,0.249,give,93536,"Haunted Ridge",MID,Rare,0,1,23.03
+1664873968,"2022-10-04 10:59:28",GoatBotsE,75,75.05,0.199,0.249,give,97907,"The Wandering Emperor",PRM,Mythic,0,1,21.51
+1664539801,"2022-09-30 14:10:01",GoatBotsE,1,0.75,0.449,0.199,get,1,"Event Ticket",EVT,Event,0,1,1
+1664539801,"2022-09-30 14:10:01",GoatBotsE,1,0.75,0.449,0.199,give,57876,"Kytheon, Hero of Akros",ORI,Mythic,0,1,0.75
+1664050651,"2022-09-24 22:17:31",GoatBotsF,28,28.02,0.429,0.449,get,1,"Event Ticket",EVT,Event,0,28,1
+1664050651,"2022-09-24 22:17:31",GoatBotsF,28,28.02,0.429,0.449,give,13535,Unmask,MM,Rare,0,2,14.01
+1664035606,"2022-09-24 18:06:46",GoatBotsA,0.008,0,0.437,0.429,get,79450,"Underworld Rage-Hound",THB,Common,0,4,0.002
+1664035496,"2022-09-24 18:04:56",GoatBotsF,1,1.32,0.117,0.437,get,1,"Event Ticket",EVT,Event,0,1,1
+1664035496,"2022-09-24 18:04:56",GoatBotsF,1,1.32,0.117,0.437,give,17450,"Mental Note",JUD,Common,0,2,0.66
+1664035383,"2022-09-24 18:03:03",GoatBots4,0.008,0,0.125,0.117,get,94648,"End the Festivities",VOW,Common,0,4,0.002
+1664022580,"2022-09-24 14:29:40",GoatBots4,13.41,13,0.535,0.125,get,94126,"Adeline, Resplendent Cathar",MID,Rare,0,2,4.58
+1664022580,"2022-09-24 14:29:40",GoatBots4,13.41,13,0.535,0.125,get,98243,"Extraction Specialist",SNC,Rare,0,1,1.33
+1664022580,"2022-09-24 14:29:40",GoatBots4,13.41,13,0.535,0.125,get,20908,"Auriok Champion",5DN,Rare,0,2,1.06
+1664022580,"2022-09-24 14:29:40",GoatBots4,13.41,13,0.535,0.125,get,90985,"Imperial Recruiter",MH2,Mythic,0,4,0.2
+1664022580,"2022-09-24 14:29:40",GoatBots4,13.41,13,0.535,0.125,give,1,"Event Ticket",EVT,Event,0,13,1
+1664022226,"2022-09-24 14:23:46",GoatBotsF,21,21.51,0.025,0.535,get,1,"Event Ticket",EVT,Event,0,21,1
+1664022226,"2022-09-24 14:23:46",GoatBotsF,21,21.51,0.025,0.535,give,90523,"Archon of Cruelty",MH2,Mythic,0,1,21.51
+1663939000,"2022-09-23 15:16:40",GoatBotsE,19,19,0.025,0.025,get,1,"Event Ticket",EVT,Event,0,19,1
+1663939000,"2022-09-23 15:16:40",GoatBotsE,19,19,0.025,0.025,give,90523,"Archon of Cruelty",MH2,Mythic,0,1,19
+1663845454,"2022-09-22 13:17:34",GoatBots3,1.04,1,0.065,0.025,get,91568,"Portable Hole",AFR,Uncommon,0,4,0.26
+1663845454,"2022-09-22 13:17:34",GoatBots3,1.04,1,0.065,0.025,give,1,"Event Ticket",EVT,Event,0,1,1
+1663519690,"2022-09-18 18:48:10",GoatBotsA,4.64,4,0.705,0.065,get,87671,"Elvish Warmaster",KHM,Rare,0,1,4.64
+1663519690,"2022-09-18 18:48:10",GoatBotsA,4.64,4,0.705,0.065,give,1,"Event Ticket",EVT,Event,0,4,1
+1663519472,"2022-09-18 18:44:32",GoatBotsE,18,18.51,0.195,0.705,get,1,"Event Ticket",EVT,Event,0,18,1
+1663519472,"2022-09-18 18:44:32",GoatBotsE,18,18.51,0.195,0.705,give,56432,"Lotus Petal",TPR,Uncommon,0,1,18.51
+1662808908,"2022-09-10 13:21:48",GoatBots3,34.86,35,0.055,0.195,get,87671,"Elvish Warmaster",KHM,Rare,0,3,6.93
+1662808908,"2022-09-10 13:21:48",GoatBots3,34.86,35,0.055,0.195,get,87719,Realmwalker,KHM,Rare,0,1,4.55
+1662808908,"2022-09-10 13:21:48",GoatBots3,34.86,35,0.055,0.195,get,102810,"Leaf-Crowned Visionary",DMU,Rare,0,4,2.38
+1662808908,"2022-09-10 13:21:48",GoatBots3,34.86,35,0.055,0.195,give,1,"Event Ticket",EVT,Event,0,35,1
+1662751417,"2022-09-09 21:23:37",GoatBots8,0.012,0,0.067,0.055,get,93370,"Outland Liberator",MID,Uncommon,0,4,0.003
+1662281842,"2022-09-04 10:57:22",GoatBotsE,57,57.02,0.047,0.067,get,1,"Event Ticket",EVT,Event,0,57,1
+1662281842,"2022-09-04 10:57:22",GoatBotsE,57,57.02,0.047,0.067,give,42616,"Liliana of the Veil",ISD,Mythic,0,2,28.51
+1662192280,"2022-09-03 10:04:40",GoatBotsE,18,18.01,0.037,0.047,get,1,"Event Ticket",EVT,Event,0,18,1
+1662192280,"2022-09-03 10:04:40",GoatBotsE,18,18.01,0.037,0.047,give,58851,"Scalding Tarn",EXP,Mythic,0,1,18.01
+1662151183,"2022-09-02 22:39:43",GoatBotsE,6,5.65,0.387,0.037,get,1,"Event Ticket",EVT,Event,0,6,1
+1662151183,"2022-09-02 22:39:43",GoatBotsE,6,5.65,0.387,0.037,give,81994,"Elder Gargaroth",PRM,Mythic,0,1,3.2
+1662151183,"2022-09-02 22:39:43",GoatBotsE,6,5.65,0.387,0.037,give,40186,"Spidersilk Armor",DDG,Common,0,1,2.45
+1661677893,"2022-08-28 11:11:33",GoatBots8,7.43,7,0.817,0.387,get,90577,"Tourach, Dread Cantor",MH2,Mythic,0,1,5.03
+1661677893,"2022-08-28 11:11:33",GoatBots8,7.43,7,0.817,0.387,get,90865,"Void Mirror",MH2,Rare,0,3,0.8
+1661677893,"2022-08-28 11:11:33",GoatBots8,7.43,7,0.817,0.387,give,1,"Event Ticket",EVT,Event,0,7,1
+1661540048,"2022-08-26 20:54:08",GoatBots6,0.32,1,0.137,0.817,get,49231,"Ratchet Bomb",M14,Rare,0,4,0.08
+1661540048,"2022-08-26 20:54:08",GoatBots6,0.32,1,0.137,0.817,give,1,"Event Ticket",EVT,Event,0,1,1
+1661513035,"2022-08-26 13:23:55",GoatBotsC,6.04,6,0.177,0.137,get,83792,"Scourge of the Skyclaves",PRM,Mythic,0,4,1.51
+1661513035,"2022-08-26 13:23:55",GoatBotsC,6.04,6,0.177,0.137,give,1,"Event Ticket",EVT,Event,0,6,1
+1661512911,"2022-08-26 13:21:51",GoatBotsF,21,20.4,0.777,0.177,get,1,"Event Ticket",EVT,Event,0,21,1
+1661512911,"2022-08-26 13:21:51",GoatBotsF,21,20.4,0.777,0.177,give,90547,Grief,MH2,Mythic,0,1,16.62
+1661512911,"2022-08-26 13:21:51",GoatBotsF,21,20.4,0.777,0.177,give,7589,Impulse,VI,Common,0,3,1.26
+1661370775,"2022-08-24 21:52:55",GoatBotsD,8.832,9,0.609,0.777,get,39944,Dismember,NPH,Uncommon,0,2,2.99
+1661370775,"2022-08-24 21:52:55",GoatBotsD,8.832,9,0.609,0.777,get,39742,"Hex Parasite",NPH,Rare,0,4,0.48
+1661370775,"2022-08-24 21:52:55",GoatBotsD,8.832,9,0.609,0.777,get,98407,"Shadow of Mortality",SNC,Rare,0,4,0.23
+1661370775,"2022-08-24 21:52:55",GoatBotsD,8.832,9,0.609,0.777,get,93174,"Infernal Grasp",MID,Uncommon,0,4,0.003
+1661370775,"2022-08-24 21:52:55",GoatBotsD,8.832,9,0.609,0.777,give,1,"Event Ticket",EVT,Event,0,9,1
+1661370571,"2022-08-24 21:49:31",GoatBotsF,16,16.5,0.109,0.609,get,1,"Event Ticket",EVT,Event,0,16,1
+1661370571,"2022-08-24 21:49:31",GoatBotsF,16,16.5,0.109,0.609,give,90507,Subtlety,MH2,Mythic,0,1,16.5
+1661171749,"2022-08-22 14:35:49",GoatBotsF,2,1.45,0.659,0.109,get,1,"Event Ticket",EVT,Event,0,2,1
+1661171749,"2022-08-22 14:35:49",GoatBotsF,2,1.45,0.659,0.109,give,17474,"Cunning Wish",JUD,Rare,0,1,1.45
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,81555,"Terror of the Peaks",M21,Mythic,0,2,3.99
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,80509,"Ketria Triome",IKO,Rare,0,2,3.25
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,83395,"Scute Swarm",ZNR,Rare,0,4,0.69
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,58779,"Omnath, Locus of Rage",BFZ,Mythic,0,2,0.08
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,91087,"Glimpse of Tomorrow",MH2,Rare,0,4,0.06
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,39816,"Chancellor of the Forge",NPH,Rare,0,4,0.05
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,93386,"Saryth, the Viper's Fang",MID,Rare,0,2,0.04
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,59543,"Goblin Dark-Dwellers",OGW,Rare,0,4,0.03
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,90697,"Foundation Breaker",MH2,Uncommon,0,4,0.008
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,38307,"Myr Battlesphere",SOM,Rare,0,4,0.008
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,98429,"Devilish Valet",SNC,Rare,0,4,0.007
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,97044,"Mirrorshell Crab",NEO,Common,0,4,0.002
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,get,90815,Wavesifter,MH2,Common,0,4,0.002
+1660529532,"2022-08-15 04:12:12",GoatBots3,18.148,18,0.807,0.659,give,1,"Event Ticket",EVT,Event,0,18,1
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101730,"Seasoned Pyromancer",2X2,Mythic,0,4,9.11
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101748,"Allosaurus Shepherd",2X2,Mythic,0,3,6.79
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101672,"Surgical Extraction",2X2,Rare,0,4,4.02
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,73237,"Elvish Reclaimer",M20,Rare,0,4,3.27
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101486,"Emrakul, the Aeons Torn",2X2,Mythic,0,4,2.03
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,90423,"Sanctifier en-Vec",MH2,Rare,0,4,1.58
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101488,"Kozilek, Butcher of Truth",2X2,Mythic,0,4,1.41
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101962,"Kolaghan's Command",2X2,Rare,0,4,1.19
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101526,"Monastery Mentor",2X2,Mythic,0,4,1.19
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101646,"Liliana, the Last Hope",2X2,Mythic,0,4,1.08
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101598,"Mana Drain",2X2,Mythic,0,4,0.83
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,102126,"City of Brass",2X2,Rare,0,4,0.71
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101834,"Assassin's Trophy",2X2,Rare,0,4,0.61
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101622,Bitterblossom,2X2,Mythic,0,4,0.42
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101784,"Green Sun's Zenith",2X2,Rare,0,4,0.31
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101644,"Inquisition of Kozilek",2X2,Uncommon,0,4,0.27
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,102106,"Phyrexian Altar",2X2,Rare,0,4,0.24
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101560,"As Foretold",2X2,Mythic,0,4,0.2
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101630,Damnation,2X2,Rare,0,4,0.18
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,101722,"Monastery Swiftspear",2X2,Common,0,4,0.18
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,102090,"Crucible of Worlds",2X2,Mythic,0,4,0.16
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,get,32537,Shriekmaw,PRM,Uncommon,0,4,0.008
+1660422976,"2022-08-13 22:36:16",GoatBotsDelivery8,136.362,137,0.169,0.807,give,1,"Event Ticket",EVT,Event,0,137,1
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,get,1,"Event Ticket",EVT,Event,0,173,1
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,9475,"Lotus Petal",TE,Common,0,4,30.76
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,11961,"Phyrexian Tower",UZ,Rare,0,1,11.12
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,11975,"Gilded Drake",UZ,Rare,0,1,9.16
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,54194,"Flooded Strand",KTK,Rare,0,1,6.9
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,69943,"Rhystic Study",PRM,Rare,0,1,5.84
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,17390,"Prismatic Strands",JUD,Common,0,1,5.58
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,67298,"Utopia Sprawl",A25,Uncommon,0,1,2.81
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,24297,"Utopia Sprawl",DIS,Common,0,2,2.28
+1660399985,"2022-08-13 16:13:05",GoatBotsF,173,173.07,0.099,0.169,give,60603,"Relic of Progenitus",EMA,Uncommon,0,2,2.03
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102090,"Crucible of Worlds",2X2,Mythic,0,4,0.16
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101630,Damnation,2X2,Rare,0,4,0.16
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101906,"Ezuri, Claw of Progress",2X2,Mythic,0,4,0.12
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101998,"Mizzix of the Izmagnus",2X2,Mythic,0,3,0.1
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101688,"Anger of the Gods",2X2,Rare,0,4,0.09
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102112,"Sensei's Divining Top",2X2,Rare,0,4,0.09
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101888,"Dragonlord Dromoka",2X2,Mythic,0,4,0.08
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101928,"Grim Flayer",2X2,Rare,0,4,0.08
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101694,"Chaos Warp",2X2,Rare,0,4,0.07
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101954,"Kaalia of the Vast",2X2,Mythic,0,4,0.07
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102012,"Prized Amalgam",2X2,Rare,0,4,0.07
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101752,"Annoyed Altisaur",2X2,Common,0,4,0.05
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102130,"Forbidden Orchard",2X2,Rare,0,4,0.05
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101920,"Glimpse the Unthinkable",2X2,Rare,0,4,0.05
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102108,"Pithing Needle",2X2,Rare,0,4,0.05
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101836,"Atarka's Command",2X2,Rare,0,4,0.04
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101774,"Eternal Witness",2X2,Uncommon,0,4,0.04
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101586,"Gifts Ungiven",2X2,Rare,0,4,0.04
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101830,"Ashen Rider",2X2,Rare,0,4,0.03
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101706,"Greater Gargadon",2X2,Rare,0,4,0.03
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101828,"Arjun, the Shifting Flame",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101838,"Atla Palani, Nest Tender",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102088,"Conqueror's Flail",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101896,"Dromoka's Command",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101900,"Elsha of the Infinite",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101516,"Leonin Arbiter",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101988,"Mathas, Fiend Seeker",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102000,"Muldrotha, the Gravetide",2X2,Mythic,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102004,"Nicol Bolas, God-Pharaoh",2X2,Mythic,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102140,"Pillar of the Paruns",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102034,"Shattergang Brothers",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102046,"Tariel, Reckoner of Souls",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101992,"The Mimeoplasm",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102066,"Varina, Lich Queen",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102070,"Wasitora, Nekoru Queen",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101552,"Weathered Wayfarer",2X2,Rare,0,4,0.02
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101914,"Firesong and Sunspeaker",2X2,Rare,0,4,0.01
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101792,"Oracle of Mul Daya",2X2,Rare,0,4,0.01
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102024,"Roon of the Hidden Realm",2X2,Rare,0,4,0.01
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101760,"Bloom Tender",2X2,Rare,0,4,0.009
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101520,"Mikaeus, the Lunarch",2X2,Rare,0,4,0.009
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101534,"Restoration Angel",2X2,Rare,0,4,0.009
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101860,"Bring to Light",2X2,Rare,0,4,0.008
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101984,"Master Biomancer",2X2,Rare,0,4,0.008
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101530,"Path to Exile",2X2,Uncommon,0,4,0.008
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102114,"Thrumming Stone",2X2,Rare,0,4,0.008
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101692,"Bedlam Reveler",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101886,"Doran, the Siege Tower",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101946,"Jeskai Ascendancy",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101958,"Kambal, Consul of Allocation",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102104,Panharmonicon,2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102110,"Planar Bridge",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101536,Reveillark,2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102036,"Sidisi, Brood Tyrant",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102056,"Thousand-Year Storm",2X2,Rare,0,4,0.007
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101684,"Abbot of Keral Keep",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101814,"Abzan Ascendancy",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101824,"Anguished Unmaking",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102092,"Darksteel Plate",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101882,"Dauntless Escort",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101908,"Fiery Justice",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101926,"Grand Arbiter Augustin IV",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101932,"Guided Passage",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101938,"Hostage Taker",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101952,"Judith, the Scourge Diva",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101956,"Kaervek the Merciless",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101968,"Legion's Initiative",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101650,"Necrotic Ooze",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101652,"Ob Nixilis, Unshackled",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102008,"Phyrexian Tyranny",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102010,"Privileged Position",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101608,"Pull from Tomorrow",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102020,"Rafiq of the Many",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,101798,"Rishkar, Peema Renegade",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102026,"Ruric Thar, the Unbowed",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102048,"Teneb, the Harvester",2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,get,102058,Thraximundar,2X2,Rare,0,4,0.006
+1660270146,"2022-08-12 04:09:06",GoatBotsDelivery3,8.196,8,0.295,0.099,give,1,"Event Ticket",EVT,Event,0,8,1
+1660096015,"2022-08-10 03:46:55",GoatBots5,70.88,70.8,0.375,0.295,get,101584,"Force of Negation",2X2,Rare,0,4,17.72
+1660096015,"2022-08-10 03:46:55",GoatBots5,70.88,70.8,0.375,0.295,give,91041,"Prismatic Ending",MH2,Uncommon,0,1,12.8
+1660096015,"2022-08-10 03:46:55",GoatBots5,70.88,70.8,0.375,0.295,give,1,"Event Ticket",EVT,Event,0,58,1
+1659922169,"2022-08-08 03:29:29",GoatBotsA,10.7,11,0.075,0.375,get,97388,"Hidetsugu Consumes All",NEO,Mythic,0,2,5.35
+1659922169,"2022-08-08 03:29:29",GoatBotsA,10.7,11,0.075,0.375,give,1,"Event Ticket",EVT,Event,0,11,1
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,80945,"Indatha Triome",PRM,Rare,0,1,3.34
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,80453,"Jegantha, the Wellspring",IKO,Rare,0,1,1.83
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,69677,"Assassin's Trophy",GRN,Rare,0,2,0.67
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,80515,"Savai Triome",IKO,Rare,0,1,0.61
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,90849,"Scion of Draco",MH2,Mythic,0,4,0.47
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,71322,Cindervines,RNA,Rare,0,1,0.1
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,91011,"Shardless Agent",MH2,Rare,0,2,0.08
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,32430,"Bloodbraid Elf",ARB,Uncommon,0,2,0.03
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,90773,"General Ferrous Rokiric",MH2,Rare,0,2,0.009
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,get,83447,"Linvala, Shield of Sea Gate",ZNR,Rare,0,1,0.006
+1659921736,"2022-08-08 03:22:16",GoatBotsB,9.344,9,0.419,0.075,give,1,"Event Ticket",EVT,Event,0,9,1
+1659901995,"2022-08-07 21:53:15",GoatBotsF,96,96.04,0.379,0.419,get,1,"Event Ticket",EVT,Event,0,96,1
+1659901995,"2022-08-07 21:53:15",GoatBotsF,96,96.04,0.379,0.419,give,52973,Flusterstorm,VMA,Rare,0,4,24.01
+1659723629,"2022-08-05 20:20:29",GoatBotsF,10,9.51,0.869,0.379,get,1,"Event Ticket",EVT,Event,0,10,1
+1659723629,"2022-08-05 20:20:29",GoatBotsF,10,9.51,0.869,0.379,give,87870,"Hengegate Pathway",KHM,Rare,1,1,9.51
+1658396408,"2022-07-21 11:40:08",GoatBotsF,1,1.81,0.059,0.869,get,1,"Event Ticket",EVT,Event,0,1,1
+1658396408,"2022-07-21 11:40:08",GoatBotsF,1,1.81,0.059,0.869,give,88404,"Barkchannel Pathway",PRM,Rare,0,1,1.81
+1658396142,"2022-07-21 11:35:42",GoatBotsBoosters,5.48,5,0.539,0.059,get,102377,"Double Masters 2022 Booster",2X2,Booster,0,1,5.48
+1658396142,"2022-07-21 11:35:42",GoatBotsBoosters,5.48,5,0.539,0.059,give,1,"Event Ticket",EVT,Event,0,5,1
+1658324363,"2022-07-20 15:39:23",GoatBotsE,10,10.41,0.129,0.539,get,1,"Event Ticket",EVT,Event,0,10,1
+1658324363,"2022-07-20 15:39:23",GoatBotsE,10,10.41,0.129,0.539,give,88408,"Hengegate Pathway",PRM,Rare,0,1,10.41
+1658321481,"2022-07-20 14:51:21",GoatBotsBoosters,5.41,5,0.539,0.129,get,102377,"Double Masters 2022 Booster",2X2,Booster,0,1,5.41
+1658321481,"2022-07-20 14:51:21",GoatBotsBoosters,5.41,5,0.539,0.129,give,1,"Event Ticket",EVT,Event,0,5,1
+1658266496,"2022-07-19 23:34:56",GoatBotsG,35,34.76,0.779,0.539,get,1,"Event Ticket",EVT,Event,0,35,1
+1658266496,"2022-07-19 23:34:56",GoatBotsG,35,34.76,0.779,0.539,give,72700,"Force of Vigor",MH1,Rare,0,1,34.76
+1652637074,"2022-05-15 19:51:14",GoatBotsE,8,8.75,0.029,0.779,get,1,"Event Ticket",EVT,Event,0,8,1
+1652637074,"2022-05-15 19:51:14",GoatBotsE,8,8.75,0.029,0.779,give,83852,"Branchloft Pathway",PRM,Rare,0,1,8.75
+1652551790,"2022-05-14 20:09:50",GoatBotsA,12.06,12,0.089,0.029,get,79418,"Ox of Agonas",THB,Mythic,0,1,3.17
+1652551790,"2022-05-14 20:09:50",GoatBotsA,12.06,12,0.089,0.029,get,36540,Vengevine,ROE,Mythic,0,3,2.64
+1652551790,"2022-05-14 20:09:50",GoatBotsA,12.06,12,0.089,0.029,get,90749,Asmoranomardicadaistinaculdacar,MH2,Rare,0,4,0.24
+1652551790,"2022-05-14 20:09:50",GoatBotsA,12.06,12,0.089,0.029,get,60743,Wonder,EMA,Uncommon,0,1,0.004
+1652551790,"2022-05-14 20:09:50",GoatBotsA,12.06,12,0.089,0.029,get,90603,"Blazing Rootwalla",MH2,Uncommon,0,2,0.003
+1652551790,"2022-05-14 20:09:50",GoatBotsA,12.06,12,0.089,0.029,give,1,"Event Ticket",EVT,Event,0,12,1
+1652551563,"2022-05-14 20:06:03",GoatBotsM,16,15.58,0.509,0.089,get,1,"Event Ticket",EVT,Event,0,16,1
+1652551563,"2022-05-14 20:06:03",GoatBotsM,16,15.58,0.509,0.089,give,88342,"Esika's Chariot",PRM,Rare,0,1,6.83
+1652551563,"2022-05-14 20:06:03",GoatBotsM,16,15.58,0.509,0.089,give,61058,Doomsday,PRM,Rare,0,1,5.94
+1652551563,"2022-05-14 20:06:03",GoatBotsM,16,15.58,0.509,0.089,give,87371,"Righteous Valkyrie",KHM,Rare,0,1,2.81
+1651360577,"2022-05-01 01:16:17",GoatBotsC,2.36,2,0.869,0.509,get,53001,"Burning Wish",VMA,Rare,0,2,0.89
+1651360577,"2022-05-01 01:16:17",GoatBotsC,2.36,2,0.869,0.509,get,81461,"Peer into the Abyss",M21,Rare,0,1,0.58
+1651360577,"2022-05-01 01:16:17",GoatBotsC,2.36,2,0.869,0.509,give,1,"Event Ticket",EVT,Event,0,2,1
+1651360503,"2022-05-01 01:15:03",GoatBotsE,6,6.35,0.519,0.869,get,1,"Event Ticket",EVT,Event,0,6,1
+1651360503,"2022-05-01 01:15:03",GoatBotsE,6,6.35,0.519,0.869,give,91425,"Modern Horizons 2 Booster",MH2,Booster,0,1,6.35
+1649350674,"2022-04-07 18:57:54",GoatBots1,0.04,0,0.559,0.519,get,65937,"Seeker of the Way",IMA,Common,0,4,0.01
+1649350599,"2022-04-07 18:56:39",GoatBots2,0.008,0,0.567,0.559,get,97204,"Experimental Synthesizer",NEO,Common,0,4,0.001
+1649350599,"2022-04-07 18:56:39",GoatBots2,0.008,0,0.567,0.559,get,89043,"Lorehold Campus",STX,Common,0,4,0.001
+1649347864,"2022-04-07 18:11:04",GoatBots0,0.062,0,0.629,0.567,get,18475,"Flamewave Invoker",LGN,Common,0,4,0.007
+1649347864,"2022-04-07 18:11:04",GoatBots0,0.062,0,0.629,0.567,get,90873,"Drossforge Bridge",MH2,Common,0,2,0.007
+1649347864,"2022-04-07 18:11:04",GoatBots0,0.062,0,0.629,0.567,get,65652,"Cuombajj Witches",PRM,Common,0,4,0.002
+1649347864,"2022-04-07 18:11:04",GoatBots0,0.062,0,0.629,0.567,get,88681,"First Day of Class",STX,Common,0,4,0.001
+1649347864,"2022-04-07 18:11:04",GoatBots0,0.062,0,0.629,0.567,get,88483,"Introduction to Prophecy",STX,Common,0,4,0.001
+1649347864,"2022-04-07 18:11:04",GoatBots0,0.062,0,0.629,0.567,get,87711,"Masked Vandal",KHM,Common,0,4,0.001
+1649340805,"2022-04-07 16:13:25",GoatBotsM,17,16.91,0.719,0.629,get,1,"Event Ticket",EVT,Event,0,17,1
+1649340805,"2022-04-07 16:13:25",GoatBotsM,17,16.91,0.719,0.629,give,93536,"Haunted Ridge",MID,Rare,0,1,8.96
+1649340805,"2022-04-07 16:13:25",GoatBotsM,17,16.91,0.719,0.629,give,93402,"Tovolar's Huntmaster",MID,Rare,0,1,7.95
+1644180638,"2022-02-06 21:50:38",GoatBots3,76.77,77,0.489,0.719,get,83023,"Skyclave Apparition",ZNR,Rare,0,4,16.5
+1644180638,"2022-02-06 21:50:38",GoatBots3,76.77,77,0.489,0.719,get,66359,"Horizon Canopy",IMA,Rare,0,1,6.73
+1644180638,"2022-02-06 21:50:38",GoatBots3,76.77,77,0.489,0.719,get,48998,"Kataki, War's Wage",MMA,Rare,0,2,1.09
+1644180638,"2022-02-06 21:50:38",GoatBots3,76.77,77,0.489,0.719,get,81367,Shacklegeist,M21,Rare,0,2,0.62
+1644180638,"2022-02-06 21:50:38",GoatBots3,76.77,77,0.489,0.719,get,28207,"Burrenton Forge-Tender",LRW,Uncommon,0,2,0.31
+1644180638,"2022-02-06 21:50:38",GoatBots3,76.77,77,0.489,0.719,give,1,"Event Ticket",EVT,Event,0,77,1
+1644084510,"2022-02-05 19:08:30",GoatBots7,2.85,3,0.339,0.489,get,81505,"Conspicuous Snoop",M21,Rare,0,4,0.69
+1644084510,"2022-02-05 19:08:30",GoatBots7,2.85,3,0.339,0.489,get,28255,"Boggart Harbinger",LRW,Uncommon,0,4,0.02
+1644084510,"2022-02-05 19:08:30",GoatBots7,2.85,3,0.339,0.489,get,78528,"Grumgully, the Generous",ELD,Uncommon,0,4,0.002
+1644084510,"2022-02-05 19:08:30",GoatBots7,2.85,3,0.339,0.489,get,48766,"Murderous Redcap",MMA,Uncommon,0,1,0.002
+1644084510,"2022-02-05 19:08:30",GoatBots7,2.85,3,0.339,0.489,give,1,"Event Ticket",EVT,Event,0,3,1
+1643883837,"2022-02-03 11:23:57",GoatBots8,17.24,17.27,0.309,0.339,get,1,"Event Ticket",EVT,Event,0,17,1
+1643883837,"2022-02-03 11:23:57",GoatBots8,17.24,17.27,0.309,0.339,get,93020,Consider,MID,Common,0,4,0.06
+1643883837,"2022-02-03 11:23:57",GoatBots8,17.24,17.27,0.309,0.339,give,90393,"Esper Sentinel",MH2,Rare,0,1,9.31
+1643883837,"2022-02-03 11:23:57",GoatBots8,17.24,17.27,0.309,0.339,give,95558,"Innistrad: Crimson Vow Booster",VOW,Booster,0,1,3.04
+1643883837,"2022-02-03 11:23:57",GoatBots8,17.24,17.27,0.309,0.339,give,61282,"Sigarda's Aid",EMN,Rare,0,2,2.46
+1643664128,"2022-01-31 22:22:08",GoatBots4,0.036,0,0.345,0.309,get,64724,"Hour of Promise",HOU,Rare,0,4,0.009
+1643066714,"2022-01-25 00:25:14",GoatBots,10.616,10,0.961,0.345,get,79418,"Ox of Agonas",THB,Mythic,0,2,5.06
+1643066714,"2022-01-25 00:25:14",GoatBots,10.616,10,0.961,0.345,get,23170,Darkblast,RAV,Uncommon,0,2,0.24
+1643066714,"2022-01-25 00:25:14",GoatBots,10.616,10,0.961,0.345,get,81471,"Silversmote Ghoul",M21,Uncommon,0,4,0.002
+1643066714,"2022-01-25 00:25:14",GoatBots,10.616,10,0.961,0.345,get,93076,"Otherworldly Gaze",MID,Common,0,4,0.001
+1643066714,"2022-01-25 00:25:14",GoatBots,10.616,10,0.961,0.345,get,88993,"Thrilling Discovery",STX,Common,0,4,0.001
+1643066714,"2022-01-25 00:25:14",GoatBots,10.616,10,0.961,0.345,give,1,"Event Ticket",EVT,Event,0,10,1
+1642992414,"2022-01-24 03:46:54",GoatBotsM,146,146.67,0.291,0.961,get,1,"Event Ticket",EVT,Event,0,146,1
+1642992414,"2022-01-24 03:46:54",GoatBotsM,146,146.67,0.291,0.961,give,82582,"Mishra's Bauble",2XM,Uncommon,0,2,33.56
+1642992414,"2022-01-24 03:46:54",GoatBotsM,146,146.67,0.291,0.961,give,24821,"Mishra's Bauble",CSP,Uncommon,0,2,32.26
+1642992414,"2022-01-24 03:46:54",GoatBotsM,146,146.67,0.291,0.961,give,80461,"Lurrus of the Dream-Den",IKO,Rare,0,1,15.03
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,39581,"Green Sun's Zenith",MBS,Rare,0,4,2.14
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,66355,"Grove of the Burnwillows",IMA,Rare,0,4,1.77
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,39796,"Birthing Pod",NPH,Rare,0,4,1.69
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,57186,"Splinter Twin",MM2,Rare,0,4,1.62
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,46252,"Grove of the Burnwillows",V12,Mythic,0,4,1.58
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,36426,"Splinter Twin",ROE,Rare,0,4,1.53
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,21603,"Umezawa's Jitte",BOK,Rare,0,4,1.44
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,37945,"Umezawa's Jitte",TD0,Rare,0,4,1.25
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,60793,"Deathrite Shaman",EMA,Rare,0,4,0.5
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,21105,"Glimpse of Nature",CHK,Rare,0,4,0.44
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,46777,"Deathrite Shaman",RTR,Rare,0,4,0.43
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,78478,"Once Upon a Time",ELD,Rare,0,4,0.2
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,21713,"Blazing Shoal",BOK,Rare,0,4,0.09
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,40482,"Punishing Fire",CMD,Uncommon,0,4,0.08
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,86795,Hypergenesis,TSR,Mythic,0,4,0.04
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,58955,"Punishing Fire",PZ1,Uncommon,0,3,0.04
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,25645,Hypergenesis,TSP,Rare,0,4,0.006
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,34344,"Punishing Fire",ZEN,Uncommon,0,4,0.006
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,get,20269,"Second Sunrise",MRD,Rare,0,4,0.005
+1642955493,"2022-01-23 17:31:33",GoatBots6,59.388,59,0.679,0.291,give,1,"Event Ticket",EVT,Event,0,59,1
+1642954997,"2022-01-23 17:23:17",GoatBotsK,52,51.76,0.919,0.679,get,1,"Event Ticket",EVT,Event,0,52,1
+1642954997,"2022-01-23 17:23:17",GoatBotsK,52,51.76,0.919,0.679,give,72700,"Force of Vigor",MH1,Rare,0,1,51.76
+1642954054,"2022-01-23 17:07:34",GoatBotsM,36,36.09,0.829,0.919,get,1,"Event Ticket",EVT,Event,0,36,1
+1642954054,"2022-01-23 17:07:34",GoatBotsM,36,36.09,0.829,0.919,give,62271,"Recruiter of the Guard",PZ2,Rare,0,3,12.03
+1642348602,"2022-01-16 16:56:42",GoatBots1,18.62,19,0.449,0.829,get,91253,"Tourach, Dread Cantor",PRM,Mythic,0,1,6.05
+1642348602,"2022-01-16 16:56:42",GoatBots1,18.62,19,0.449,0.829,get,90447,"Dress Down",MH2,Rare,0,3,4.19
+1642348602,"2022-01-16 16:56:42",GoatBots1,18.62,19,0.449,0.829,give,1,"Event Ticket",EVT,Event,0,19,1
+1642348461,"2022-01-16 16:54:21",GoatBotsJ,20,19.51,0.939,0.449,get,1,"Event Ticket",EVT,Event,0,20,1
+1642348461,"2022-01-16 16:54:21",GoatBotsJ,20,19.51,0.939,0.449,give,80461,"Lurrus of the Dream-Den",IKO,Rare,0,1,19.51
+1641943969,"2022-01-12 00:32:49",GoatBotsD,28.33,29,0.269,0.939,get,90781,"Grist, the Hunger Tide",MH2,Mythic,0,3,5.88
+1641943969,"2022-01-12 00:32:49",GoatBotsD,28.33,29,0.269,0.939,get,90709,"Ignoble Hierarch",MH2,Rare,0,3,3.35
+1641943969,"2022-01-12 00:32:49",GoatBotsD,28.33,29,0.269,0.939,get,93318,"Augur of Autumn",MID,Rare,0,1,0.64
+1641943969,"2022-01-12 00:32:49",GoatBotsD,28.33,29,0.269,0.939,give,1,"Event Ticket",EVT,Event,0,29,1
+1641943864,"2022-01-12 00:31:04",GoatBotsF,18,17.87,0.399,0.269,get,1,"Event Ticket",EVT,Event,0,18,1
+1641943864,"2022-01-12 00:31:04",GoatBotsF,18,17.87,0.399,0.269,give,80511,"Raugrin Triome",IKO,Rare,0,1,12.77
+1641943864,"2022-01-12 00:31:04",GoatBotsF,18,17.87,0.399,0.269,give,80509,"Ketria Triome",IKO,Rare,0,1,5.1
+1641770790,"2022-01-10 00:26:30",GoatBotsF,12,11.48,0.919,0.399,get,1,"Event Ticket",EVT,Event,0,12,1
+1641770790,"2022-01-10 00:26:30",GoatBotsF,12,11.48,0.919,0.399,give,91425,"Modern Horizons 2 Booster",MH2,Booster,0,2,5.74
+1639935732,"2021-12-19 18:42:12",GoatBots7,0.004,0,0.923,0.919,get,94670,"Kessig Flamebreather",VOW,Common,0,4,0.001
+1639935440,"2021-12-19 18:37:20",GoatBotsE,33,33.52,0.403,0.923,get,1,"Event Ticket",EVT,Event,0,33,1
+1639935440,"2021-12-19 18:37:20",GoatBotsE,33,33.52,0.403,0.923,give,77102,"Dockside Extortionist",C19,Rare,0,1,16.01
+1639935440,"2021-12-19 18:37:20",GoatBotsE,33,33.52,0.403,0.923,give,77120,"Ohran Frostfang",C19,Rare,0,1,12.27
+1639935440,"2021-12-19 18:37:20",GoatBotsE,33,33.52,0.403,0.923,give,51396,"Tempt with Discovery",C13,Rare,0,1,5.24
+1639285432,"2021-12-12 06:03:52",GoatBots0,0.003,0,0.406,0.403,get,87897,"Volatile Fjord",KHM,Common,0,3,0.001
+1639285342,"2021-12-12 06:02:22",GoatBots1,4.76,5,0.166,0.406,get,85124,"Crimson Fleet Commodore",CMR,Common,0,2,2.26
+1639285342,"2021-12-12 06:02:22",GoatBots1,4.76,5,0.166,0.406,get,61060,"Gorilla Shaman",PRM,Common,0,3,0.08
+1639285342,"2021-12-12 06:02:22",GoatBots1,4.76,5,0.166,0.406,give,1,"Event Ticket",EVT,Event,0,5,1
+1628322923,"2021-08-07 09:55:23",GoatBots3,0.004,0,0.17,0.166,get,80129,"Of One Mind",IKO,Common,0,4,0.001
+1628322873,"2021-08-07 09:54:33",GoatBots4,11,10.78,0.39,0.17,get,1,"Event Ticket",EVT,Event,0,11,1
+1628322873,"2021-08-07 09:54:33",GoatBots4,11,10.78,0.39,0.17,give,34952,"Snuff Out",DDD,Common,0,1,10.78
+1628240759,"2021-08-06 11:05:59",GoatBots1,11.92,12,0.31,0.39,get,21827,"Ninja of the Deep Hours",BOK,Common,0,4,2.98
+1628240759,"2021-08-06 11:05:59",GoatBots1,11.92,12,0.31,0.39,give,1,"Event Ticket",EVT,Event,0,12,1
+1627074958,"2021-07-23 23:15:58",GoatBotsBoosters3,7,7,0.31,0.31,get,91425,"Modern Horizons 2 Booster",MH2,Booster,0,1,7
+1627074958,"2021-07-23 23:15:58",GoatBotsBoosters3,7,7,0.31,0.31,give,1,"Event Ticket",EVT,Event,0,7,1
+1626888734,"2021-07-21 19:32:14",GoatBotsB,47,46.51,0.8,0.31,get,1,"Event Ticket",EVT,Event,0,47,1
+1626888734,"2021-07-21 19:32:14",GoatBotsB,47,46.51,0.8,0.31,give,90899,"Urza's Saga",MH2,Rare,0,1,46.51
+1619523568,"2021-04-27 13:39:28",GoatBots4,0.028,0,0.828,0.8,get,88879,"Expressive Iteration",STX,Uncommon,0,4,0.007
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,get,1,"Event Ticket",EVT,Event,0,10,1
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,83139,"Agadeem's Awakening",ZNR,Mythic,0,1,7.83
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,81683,"Chromatic Orrery",M21,Mythic,0,1,1.26
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,46503,"Hallowed Fountain",RTR,Rare,0,1,0.71
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,38451,"Leonin Arbiter",SOM,Rare,0,1,0.53
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,37478,"Obstinate Baloth",M11,Rare,0,1,0.17
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,28503,"Mistbind Clique",LRW,Rare,0,1,0.04
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,81747,"Rin and Seri, Inseparable",M21,Mythic,0,1,0.01
+1617807274,"2021-04-07 16:54:34",GoatBotsF,10,10.552,0.276,0.828,give,55604,"Flamewake Phoenix",FRF,Rare,0,1,0.002
+1617531653,"2021-04-04 12:20:53",GoatBotsJ,255,254.55,0.726,0.276,get,1,"Event Ticket",EVT,Event,0,255,1
+1617531653,"2021-04-04 12:20:53",GoatBotsJ,255,254.55,0.726,0.276,give,83213,"Scourge of the Skyclaves",ZNR,Mythic,0,4,52.01
+1617531653,"2021-04-04 12:20:53",GoatBotsJ,255,254.55,0.726,0.276,give,83792,"Scourge of the Skyclaves",PRM,Mythic,0,1,46.51
+1605997609,"2020-11-21 23:26:49",GoatBotsD,0.004,0,0.73,0.726,get,83167,"Feed the Swarm",ZNR,Common,0,4,0.001
+1605997460,"2020-11-21 23:24:20",GoatBotsF,10,9.83,0.9,0.73,get,1,"Event Ticket",EVT,Event,0,10,1
+1605997460,"2020-11-21 23:24:20",GoatBotsF,10,9.83,0.9,0.73,give,7163,"Mystical Tutor",MI,Uncommon,0,1,2.72
+1605997460,"2020-11-21 23:24:20",GoatBotsF,10,9.83,0.9,0.73,give,60891,"Mystical Tutor",EMA,Rare,0,1,2.43
+1605997460,"2020-11-21 23:24:20",GoatBotsF,10,9.83,0.9,0.73,give,13809,"Tangle Wire",NE,Rare,0,1,1.51
+1605997460,"2020-11-21 23:24:20",GoatBotsF,10,9.83,0.9,0.73,give,68876,"Archon of Valor's Reach",BBD,Rare,0,2,1.25
+1605997460,"2020-11-21 23:24:20",GoatBotsF,10,9.83,0.9,0.73,give,79941,"Archon of Sun's Grace",PRM,Rare,0,1,0.67
+1595166071,"2020-07-19 15:41:11",GoatBotsC,90.3,91,0.2,0.9,get,78538,"Oko, Thief of Crowns",ELD,Mythic,0,2,19.67
+1595166071,"2020-07-19 15:41:11",GoatBotsC,90.3,91,0.2,0.9,get,34622,"Misty Rainforest",ZEN,Rare,0,4,12.74
+1595166071,"2020-07-19 15:41:11",GoatBotsC,90.3,91,0.2,0.9,give,1,"Event Ticket",EVT,Event,0,91,1
+1595165951,"2020-07-19 15:39:11",GoatBotsE,135,135.02,0.18,0.2,get,1,"Event Ticket",EVT,Event,0,135,1
+1595165951,"2020-07-19 15:39:11",GoatBotsE,135,135.02,0.18,0.2,give,72476,"Force of Negation",MH1,Rare,0,2,67.51
+1585393458,"2020-03-28 12:04:18",GoatBotsA,15,15.13,0.05,0.18,get,1,"Event Ticket",EVT,Event,0,15,1
+1585393458,"2020-03-28 12:04:18",GoatBotsA,15,15.13,0.05,0.18,give,72708,Hexdrinker,MH1,Mythic,0,1,10.36
+1585393458,"2020-03-28 12:04:18",GoatBotsA,15,15.13,0.05,0.18,give,72604,"Yawgmoth, Thran Physician",MH1,Mythic,0,1,4.77
+1585257165,"2020-03-26 22:12:45",GoatBotsB,10,9.25,0.8,0.05,get,1,"Event Ticket",EVT,Event,0,10,1
+1585257165,"2020-03-26 22:12:45",GoatBotsB,10,9.25,0.8,0.05,give,71558,"Stomping Ground",RNA,Rare,0,2,3.28
+1585257165,"2020-03-26 22:12:45",GoatBotsB,10,9.25,0.8,0.05,give,23709,"Stomping Ground",GPT,Rare,0,1,2.69
+1584626961,"2020-03-19 15:09:21",GoatBotsH,15,15.46,0.34,0.8,get,1,"Event Ticket",EVT,Event,0,15,1
+1584626961,"2020-03-19 15:09:21",GoatBotsH,15,15.46,0.34,0.8,give,61573,"Chandra, Torch of Defiance",KLD,Mythic,0,2,4.75
+1584626961,"2020-03-19 15:09:21",GoatBotsH,15,15.46,0.34,0.8,give,71542,"Hallowed Fountain",RNA,Rare,0,1,2.1
+1584626961,"2020-03-19 15:09:21",GoatBotsH,15,15.46,0.34,0.8,give,24001,"Hallowed Fountain",DIS,Rare,0,2,1.93
+1584397057,"2020-03-16 23:17:37",GoatBotsA,6,5.55,0.79,0.34,get,1,"Event Ticket",EVT,Event,0,6,1
+1584397057,"2020-03-16 23:17:37",GoatBotsA,6,5.55,0.79,0.34,give,69799,"Vraska, Golgari Queen",GRN,Mythic,0,2,2.26
+1584397057,"2020-03-16 23:17:37",GoatBotsA,6,5.55,0.79,0.34,give,73319,"Kaalia, Zenith Seeker",M20,Mythic,0,1,0.48
+1584397057,"2020-03-16 23:17:37",GoatBotsA,6,5.55,0.79,0.34,give,73618,"Rienne, Angel of Rebirth",M20,Mythic,0,1,0.29
+1584397057,"2020-03-16 23:17:37",GoatBotsA,6,5.55,0.79,0.34,give,71401,"Ravager Wurm",RNA,Mythic,1,1,0.26
+1584140187,"2020-03-13 23:56:27",GoatBotsD,17,17.72,0.07,0.79,get,1,"Event Ticket",EVT,Event,0,17,1
+1584140187,"2020-03-13 23:56:27",GoatBotsD,17,17.72,0.07,0.79,give,73397,"Lotus Field",M20,Rare,0,4,4.43
+1583436381,"2020-03-05 20:26:21",GoatBotsB,7,6.94,0.13,0.07,get,1,"Event Ticket",EVT,Event,0,7,1
+1583436381,"2020-03-05 20:26:21",GoatBotsB,7,6.94,0.13,0.07,give,20840,"Grinding Station",5DN,Uncommon,0,1,5.61
+1583436381,"2020-03-05 20:26:21",GoatBotsB,7,6.94,0.13,0.07,give,9347,Serenity,WL,Rare,0,1,1.33
+1579555019,"2020-01-20 22:16:59",GoatBotsC,22,21.19,0.94,0.13,get,1,"Event Ticket",EVT,Event,0,22,1
+1579555019,"2020-01-20 22:16:59",GoatBotsC,22,21.19,0.94,0.13,give,52120,"Mana Confluence",JOU,Rare,0,1,21.19
+1579383756,"2020-01-18 22:42:36",GoatBotsD,6,6.78,0.16,0.94,get,1,"Event Ticket",EVT,Event,0,6,1
+1579383756,"2020-01-18 22:42:36",GoatBotsD,6,6.78,0.16,0.94,give,35737,"Stoneforge Mystic",WWK,Rare,0,1,2.02
+1579383756,"2020-01-18 22:42:36",GoatBotsD,6,6.78,0.16,0.94,give,62499,"Stoneforge Mystic",PRM,Rare,0,4,1.19
+1574571634,"2019-11-24 06:00:34",GoatBots0,0.008,0,0.168,0.16,get,72056,"Tyrant's Scorn",WAR,Uncommon,0,4,0.002
+1567957896,"2019-09-08 17:51:36",GoatBotsD,10,9.57,0.598,0.168,get,1,"Event Ticket",EVT,Event,0,10,1
+1567957896,"2019-09-08 17:51:36",GoatBotsD,10,9.57,0.598,0.168,give,77138,"Ghired, Conclave Exile",C19,Mythic,0,1,8.25
+1567957896,"2019-09-08 17:51:36",GoatBotsD,10,9.57,0.598,0.168,give,68730,"Will Kenrith",BBD,Mythic,0,1,1.32
+1567360514,"2019-09-01 19:55:14",GoatBots5,0.006,0,0.604,0.598,get,46365,"Blistercoil Weird",RTR,Uncommon,0,3,0.002
+1567360469,"2019-09-01 19:54:29",GoatBots7,4.74,5,0.344,0.604,get,63898,"Soul-Scar Mage",AKH,Rare,0,3,1.58
+1567360469,"2019-09-01 19:54:29",GoatBots7,4.74,5,0.344,0.604,give,1,"Event Ticket",EVT,Event,0,5,1
+1567360393,"2019-09-01 19:53:13",GoatBots4,9.45,9,0.794,0.344,get,71214,"Light Up the Stage",RNA,Uncommon,0,4,1.26
+1567360393,"2019-09-01 19:53:13",GoatBots4,9.45,9,0.794,0.344,get,23865,"Shattering Spree",GPT,Uncommon,0,1,1.01
+1567360393,"2019-09-01 19:53:13",GoatBots4,9.45,9,0.794,0.344,get,68417,"Alpine Moon",M19,Rare,0,4,0.85
+1567360393,"2019-09-01 19:53:13",GoatBots4,9.45,9,0.794,0.344,give,1,"Event Ticket",EVT,Event,0,9,1
+1566924854,"2019-08-27 18:54:14",GoatBots2,0.57,1,0.364,0.794,get,68778,Brightling,BBD,Mythic,0,1,0.48
+1566924854,"2019-08-27 18:54:14",GoatBots2,0.57,1,0.364,0.794,get,39453,"Mirran Crusader",MBS,Rare,0,1,0.09
+1566924854,"2019-08-27 18:54:14",GoatBots2,0.57,1,0.364,0.794,give,1,"Event Ticket",EVT,Event,0,1,1
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,42712,"Past in Flames",ISD,Mythic,0,1,5.11
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,73397,"Lotus Field",M20,Rare,0,4,3.13
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,22192,"Ideas Unbound",SOK,Common,0,4,1.74
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,20107,"Dream's Grip",MRD,Common,0,2,0.22
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,21511,"Psychic Puppetry",CHK,Common,0,4,0.19
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,73179,Fry,M20,Uncommon,0,2,0.06
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,get,21435,"Reach Through Mists",CHK,Common,0,4,0.05
+1566063439,"2019-08-17 19:37:19",GoatBots5,26.11,26,0.474,0.364,give,1,"Event Ticket",EVT,Event,0,26,1
+1565999388,"2019-08-17 01:49:48",GoatBots9,6.4,6,0.874,0.474,get,72894,"Modern Horizons Booster",MH1,Booster,0,1,6.4
+1565999388,"2019-08-17 01:49:48",GoatBots9,6.4,6,0.874,0.474,give,1,"Event Ticket",EVT,Event,0,6,1
+1565818431,"2019-08-14 23:33:51",GoatBots0,6.18,7,0.054,0.874,get,72776,"Hogaak, Arisen Necropolis",MH1,Rare,0,3,2.06
+1565818431,"2019-08-14 23:33:51",GoatBots0,6.18,7,0.054,0.874,give,1,"Event Ticket",EVT,Event,0,7,1
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,get,72700,"Force of Vigor",MH1,Rare,0,2,6.18
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,get,27813,"Nether Shadow",MED,Uncommon,0,4,0.61
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,get,21683,"Sickening Shoal",BOK,Rare,0,2,0.61
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,get,53045,Gigapede,VMA,Rare,0,2,0.005
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,get,26355,Phantasmagorian,PLC,Uncommon,0,3,0.002
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,get,23404,"Shambling Shell",RAV,Common,0,4,0.001
+1565818354,"2019-08-14 23:32:34",GoatBots0,16.04,16,0.094,0.054,give,1,"Event Ticket",EVT,Event,0,16,1
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,13535,Unmask,MM,Rare,0,4,9.42
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,13777,"Reverent Silence",NE,Common,0,3,1.43
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,43128,Entomb,PD3,Rare,1,2,1.27
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,43102,Exhume,PD3,Common,1,4,0.49
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,57158,"Iona, Shield of Emeria",MM2,Mythic,0,1,0.33
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,50570,"Ashen Rider",THS,Mythic,0,1,0.32
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,60877,"Animate Dead",EMA,Uncommon,0,2,0.04
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,52695,Reanimate,VMA,Uncommon,0,2,0.002
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,get,51845,"Archetype of Endurance",BNG,Uncommon,0,1,0.002
+1565616992,"2019-08-12 15:36:32",GoatBots7,47.206,47,0.3,0.094,give,1,"Event Ticket",EVT,Event,0,47,1
+1565429657,"2019-08-10 11:34:17",GoatBots7,10.27,10,0.57,0.3,get,72398,"Giver of Runes",MH1,Rare,0,3,3.01
+1565429657,"2019-08-10 11:34:17",GoatBots7,10.27,10,0.57,0.3,get,72804,"Unsettled Mariner",MH1,Rare,0,4,0.31
+1565429657,"2019-08-10 11:34:17",GoatBots7,10.27,10,0.57,0.3,give,1,"Event Ticket",EVT,Event,0,10,1
+1565345261,"2019-08-09 12:07:41",GoatBotsA,132,132.52,0.05,0.57,get,1,"Event Ticket",EVT,Event,0,132,1
+1565345261,"2019-08-09 12:07:41",GoatBotsA,132,132.52,0.05,0.57,give,71639,"God-Eternal Oketra",WAR,Mythic,1,1,74.01
+1565345261,"2019-08-09 12:07:41",GoatBotsA,132,132.52,0.05,0.57,give,71631,"Finale of Glory",WAR,Mythic,1,1,58.51
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,get,1,"Event Ticket",EVT,Event,0,370,1
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71861,"Finale of Promise",WAR,Mythic,1,1,33.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72023,"Niv-Mizzet Reborn",WAR,Mythic,1,1,25.51
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71713,"God-Eternal Kefnet",WAR,Mythic,1,1,25.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72049,"Teferi, Time Raveler",WAR,Rare,1,1,25.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71801,"Liliana, Dreadhorde General",WAR,Mythic,1,1,24.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71927,"Finale of Devastation",WAR,Mythic,1,1,23.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72033,"Roalesk, Apex Hybrid",WAR,Mythic,1,1,22.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71789,"Finale of Eternity",WAR,Mythic,1,1,21.26
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71709,"Finale of Revelation",WAR,Mythic,1,1,21.26
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72021,"Nicol Bolas, Dragon-God",WAR,Mythic,1,1,21.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71609,"Karn, the Great Creator",WAR,Rare,1,1,20.75
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71791,"God-Eternal Bontu",WAR,Mythic,1,1,20.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71873,"Ilharg, the Raze-Boar",WAR,Mythic,1,1,18.06
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71633,"Gideon Blackblade",WAR,Mythic,1,1,16.72
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71933,"God-Eternal Rhonas",WAR,Mythic,1,1,16.06
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71857,"Dreadhorde Arcanist",WAR,Rare,1,1,11.36
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72095,"Blast Zone",WAR,Rare,1,1,8.78
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71729,"Narset, Parter of Veils",WAR,Uncommon,1,1,2.87
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72063,"Ashiok, Dream Render",WAR,Uncommon,1,1,2.53
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71611,"Ugin, the Ineffable",WAR,Rare,1,1,1.49
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71987,Despark,WAR,Uncommon,1,1,0.91
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71945,"Nissa, Who Shakes the World",WAR,Rare,1,1,0.76
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71993,"Dovin's Veto",WAR,Uncommon,1,1,0.63
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72047,"Tamiyo, Collector of Tales",WAR,Rare,1,1,0.57
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71785,"The Elderspell",WAR,Rare,1,1,0.52
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71845,"Chandra, Fire Artisan",WAR,Rare,1,1,0.43
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71995,"Dreadhorde Butcher",WAR,Rare,1,1,0.34
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71967,"Vivien, Champion of the Wilds",WAR,Rare,1,1,0.31
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71779,"Dreadhorde Invasion",WAR,Rare,1,1,0.28
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72001,"Feather, the Redeemed",WAR,Rare,1,1,0.28
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71989,"Domri, Anarch of Bolas",WAR,Rare,1,1,0.26
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72103,"Karn's Bastion",WAR,Rare,1,1,0.19
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72075,"Saheeli, Sublime Artificer",WAR,Uncommon,1,1,0.18
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72041,"Sorin, Vengeful Bloodlord",WAR,Rare,1,1,0.18
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71765,"Bolas's Citadel",WAR,Rare,1,1,0.17
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71881,"Krenko, Tin Street Kingpin",WAR,Rare,1,1,0.17
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71805,"Massacre Girl",WAR,Rare,1,1,0.17
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71675,"Tomik, Distinguished Advokist",WAR,Rare,1,1,0.14
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71975,"Ajani, the Greathearted",WAR,Rare,1,1,0.13
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71707,"Fblthp, the Lost",WAR,Rare,1,1,0.13
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71715,"Jace, Wielder of Mysteries",WAR,Rare,1,1,0.13
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72105,"Mobilized District",WAR,Rare,1,1,0.13
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71893,"Sarkhan the Masterless",WAR,Rare,1,1,0.13
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71771,"Command the Dreadhorde",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71697,"Commence the Endgame",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71999,"Enter the God-Eternals",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71731,"Narset's Reversal",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72025,"Oath of Kaya",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72029,"Ral, Storm Conduit",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72055,"Tolsimir, Friend to Wolves",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71969,"Vivien's Arkbow",WAR,Rare,1,1,0.09
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72045,"Storrev, Devkarin Lich",WAR,Rare,1,1,0.07
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71773,"Davriel, Rogue Shadowmage",WAR,Uncommon,1,1,0.06
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71803,"Liliana's Triumph",WAR,Uncommon,1,1,0.06
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72019,Neoform,WAR,Uncommon,1,1,0.06
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71899,"Tibalt, Rakish Instigator",WAR,Uncommon,1,1,0.06
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71977,"Angrath's Rampage",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72065,"Dovin, Hand of Control",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71787,"Eternal Taskmaster",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71925,"Evolution Sage",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71719,"Kasmina, Enigmatic Mentor",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72073,"Nahiri, Storm of Stone",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71949,"Paradise Druid",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71671,"Teyo, the Shieldmage",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71681,"The Wanderer",WAR,Uncommon,1,1,0.05
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71911,"Awakening of Vitu-Ghazi",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71981,"Casualties of War",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72007,"Huatli's Raptor",WAR,Uncommon,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71643,"Ignite the Beacon",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72101,"Interplanar Beacon",WAR,Uncommon,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72013,"Living Twister",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71883,"Mizzium Tank",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71947,"Nissa's Triumph",WAR,Uncommon,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71951,"Planewide Celebration",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71663,"Ravnica at War",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71667,"Single Combat",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72053,"Time Wipe",WAR,Rare,1,1,0.04
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71859,"Dreadhorde Twins",WAR,Uncommon,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71997,"Elite Guardmage",WAR,Uncommon,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71655,"Parhelion II",WAR,Rare,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71659,"Prison Realm",WAR,Uncommon,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71739,"Silent Submersible",WAR,Rare,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72039,"Solar Blaze",WAR,Rare,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71743,"Spark Double",WAR,Rare,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71669,"Sunblade Angel",WAR,Uncommon,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72057,"Tyrant's Scorn",WAR,Uncommon,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72059,"Widespread Brutality",WAR,Rare,1,1,0.03
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71615,"Ajani's Pridemate",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72061,"Angrath, Captain of Chaos",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71689,"Augur of Bolas",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71979,"Bioessence Hydra",WAR,Rare,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71763,"Bleeding Edge",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71837,"Bolt Bend",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71619,"Bond of Discipline",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71917,"Bond of Flourishing",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71693,"Bond of Insight",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71767,"Bond of Revival",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71921,"Challenger Troll",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71849,"Chandra's Triumph",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71983,"Cruel Celebrant",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71851,"Cyclops Electromancer",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71985,Deathsprout,WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71777,"Deliver Unto Evil",WAR,Rare,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71991,"Domri's Ambush",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71781,Dreadmalkin,WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72097,"Emergence Zone",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71711,"Flux Channeler",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72133,Forest,WAR,Common,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71637,"Gideon's Triumph",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72003,"Gleaming Overseer",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72083,"God-Pharaoh's Statue",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71641,"Grateful Apparition",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72005,"Heartwarming Redemption",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72067,"Huatli, the Sun's Heart",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72009,"Invade the City",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71717,"Jace's Triumph",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71877,"Jaya, Venerated Firemage",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72069,"Kaya, Bane of the Dead",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72071,"Kiora, Behemoth Beckoner",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71725,"Lazotep Plating",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72011,"Leyline Prowler",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72015,"Mayhem Devil",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72017,"Merfolk Skydiver",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71941,"Mowu, Loyal Companion",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71887,"Neheb, Dreadhorde Champion",WAR,Rare,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71807,"Ob Nixilis, the Hate-Twisted",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72027,"Pledge of Unity",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71811,"Price of Betrayal",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72031,"Ral's Outburst",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71661,"Rally of Wings",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71737,"Rescuer Sphinx",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72035,"Role Reversal",WAR,Rare,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72037,"Rubblebelt Rioters",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72077,"Samut, Tyrant Smasher",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72043,"Soul Diviner",WAR,Rare,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72119,Swamp,WAR,Common,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72121,Swamp,WAR,Common,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72051,"Tenth District Legionnaire",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71613,"Ugin's Conjurant",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71829,"Vizier of the Scorpion",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72079,"Vraska, Swarm's Eminence",WAR,Uncommon,1,1,0.01
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71905,"Arboreal Grazer",WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71907,"Arlinn, Voice of the Pack",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71839,"Bond of Passion",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71855,"Devouring Hellion",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71705,"Eternal Skylord",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72081,"Firemind Vessel",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72131,Forest,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72135,Forest,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72099,"Gateway Plaza",WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72113,Island,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72115,Island,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72117,Island,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71935,"Jiang Yanggu, Wildcrafter",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71795,"Kaya's Ghostform",WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72089,"Mana Geode",WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72125,Mountain,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72127,Mountain,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72129,Mountain,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72107,Plains,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72109,Plains,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72111,Plains,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71957,"Return to Nature",WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71963,"Storm the Citadel",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72123,Swamp,WAR,Common,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71901,"Tibalt's Rager",WAR,Uncommon,1,1,0.005
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71841,"Burning Prophet",WAR,Common,1,2,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71759,"Aid the Fallen",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71691,"Aven Eternal",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71761,Banehound,WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71915,"Bloom Hulk",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71695,"Callous Dismissal",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71843,"Chainwhip Cyclops",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71623,"Charmed Stray",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71699,"Contentious Plan",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71923,"Courage in Crisis",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71701,"Crush Dissent",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71625,"Defiant Strike",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71853,Demolish,WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71783,"Duskmantle Operative",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71703,"Erratic Visionary",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71867,"Grim Initiate",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72085,"Guild Globe",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71869,Heartfire,WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71721,"Kasmina's Transmutation",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71723,"Kiora's Dambreaker",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71647,"Law-Rune Enforcer",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71799,"Lazotep Reaver",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71653,"Martyr for the Cause",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71809,"Ob Nixilis's Cruelty",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71955,"Primordial Wurm",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71891,"Samut's Sprint",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71817,"Spark Harvest",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71897,"Spellgorger Weird",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71745,"Spellkeeper Weird",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71673,"Teyo's Lightshield",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71677,"Topple the Statue",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71679,"Trusted Pegasus",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71827,"Vampire Opportunist",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71971,"Vivien's Grizzly",WAR,Common,1,1,0.002
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71617,"Battlefield Promotion",WAR,Common,1,2,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72091,Prismite,WAR,Common,1,2,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71833,"Ahn-Crop Invader",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71909,"Arlinn's Wolf",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71687,"Ashiok's Skulker",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71913,"Band Together",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71835,Blindblast,WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71621,"Bulwark Giant",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71919,"Centaur Nurturer",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71847,"Chandra's Pyrohelix",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71769,"Charity Extractor",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71775,"Davriel's Shadowfugue",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71627,"Divine Arrow",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71629,"Enforcer Griffin",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71929,"Forced Landing",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71931,"Giant Growth",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71635,"Gideon's Sacrifice",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71863,"Goblin Assailant",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71865,"Goblin Assault Team",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71793,"Herald of the Dreadhorde",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71871,"Honor the God-Pharaoh",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71875,"Invading Manticore",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72087,"Iron Bully",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71645,"Ironclad Krovod",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71879,"Jaya's Greeting",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71937,"Kraul Stinger",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71939,"Kronch Wrangler",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71797,"Lazotep Behemoth",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71649,"Loxodon Sergeant",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71651,"Makeshift Battalion",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71727,"Naga Eternal",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71885,"Nahiri's Stoneblades",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71943,"New Horizons",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71733,"No Escape",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71953,"Pollenbright Druid",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71657,"Pouncing Lynx",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71889,"Raging Kronch",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71735,"Relentless Advance",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71665,"Rising Populace",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,72093,"Saheeli's Silverwing",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71895,"Sarkhan's Catharsis",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71813,Shriekdiver,WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71741,"Sky Theater Strix",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71959,Snarespinner,WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71815,"Sorin's Thirst",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71819,"Spark Reaper",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71961,"Steady Aim",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71747,"Stealth Mission",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71749,"Tamiyo's Epiphany",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71751,"Teferi's Time Twist",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71753,"Thunder Drake",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71965,"Thundering Ceratok",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71821,"Tithebearer Giant",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71823,"Toll of the Invasion",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71755,"Totally Lost",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71903,"Turret Ogre",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71825,"Unlikely Aid",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71831,"Vraska's Finisher",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71757,"Wall of Runes",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71683,"Wanderer's Strike",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71685,"War Screecher",WAR,Common,1,1,0.001
+1565345217,"2019-08-09 12:06:57",GoatBotsB,370,369.929,0.121,0.05,give,71973,"Wardscale Crocodile",WAR,Common,1,1,0.001
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,get,1,"Event Ticket",EVT,Event,0,44,1
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,53097,"Underground Sea",VMA,Rare,0,1,6.45
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,72414,"Ranger-Captain of Eos",MH1,Mythic,0,1,6.35
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62307,"Thrasios, Triton Hero",PZ2,Rare,0,1,5.11
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62361,"Deepglow Skate",PZ2,Rare,0,1,3.27
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,72604,"Yawgmoth, Thran Physician",MH1,Mythic,0,1,2.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65717,"Kindred Boon",PZ2,Rare,0,1,1.94
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70661,"Gyrus, Waker of Corpses",PZ2,Mythic,0,1,1.91
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65759,"Mathas, Fiend Seeker",PZ2,Mythic,0,1,1.76
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,39301,"Tezzeret, Agent of Bolas",MBS,Mythic,0,1,1.69
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62269,"Kaya, Ghost Assassin",PZ2,Mythic,0,1,1.1
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65695,"Disrupt Decorum",PZ2,Rare,0,1,0.99
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,63686,"As Foretold",AKH,Mythic,0,2,0.82
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65787,"Selvala's Stampede",PZ2,Rare,0,1,0.72
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70747,"Yennett, Cryptic Sovereign",PZ2,Mythic,0,1,0.71
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62321,"Sidar Kondo of Jamuraa",PZ2,Mythic,0,1,0.54
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65691,"Territorial Hellkite",PZ2,Rare,0,1,0.53
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,26850,"Sliver Legion",FUT,Rare,0,1,0.52
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70649,"Nesting Dragon",PZ2,Rare,0,1,0.47
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,72772,"The First Sliver",MH1,Mythic,0,1,0.46
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65687,"Boneyard Scourge",PZ2,Rare,0,1,0.44
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65723,"Kindred Dominance",PZ2,Rare,0,1,0.43
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65737,"Inalla, Archmage Ritualist",PZ2,Mythic,0,1,0.42
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62303,"Bruse Tarl, Boorish Herder",PZ2,Mythic,0,3,0.38
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70659,"Sower of Discord",PZ2,Rare,0,1,0.31
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70717,"Boreas Charger",PZ2,Rare,0,1,0.28
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,72374,"Morophon, the Boundless",MH1,Mythic,0,1,0.26
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65711,"Hungry Lynx",PZ2,Rare,0,1,0.24
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62371,"Duelist's Heritage",PZ2,Rare,0,1,0.22
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70707,"Isolated Watchtower",PZ2,Rare,0,1,0.17
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62289,"Selfless Squire",PZ2,Rare,0,2,0.15
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62347,"Primeval Protector",PZ2,Rare,0,1,0.15
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62309,"Kraum, Ludevic's Opus",PZ2,Rare,0,1,0.14
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,37338,"Serra Ascendant",M11,Rare,0,1,0.13
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70655,"Nylea's Colossus",PZ2,Rare,0,1,0.1
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62337,Boompile,PZ2,Rare,0,1,0.09
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62265,"Adriana, Captain of the Guard",PZ2,Rare,0,1,0.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62363,"Benefactor's Draught",PZ2,Rare,0,1,0.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70695,"Echo Storm",PZ2,Rare,0,1,0.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62357,"Magus of the Will",PZ2,Rare,0,1,0.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70733,"Primordial Mist",PZ2,Rare,0,1,0.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,70731,"Vedalken Humiliator",PZ2,Rare,0,1,0.03
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,65741,"Izzet Chemister",PZ2,Rare,0,1,0.02
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62295,"Runehorn Hellkite",PZ2,Rare,0,1,0.02
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,62297,"Charging Cinderhorn",PZ2,Rare,0,1,0.005
+1564181558,"2019-07-27 00:52:38",GoatBotsC,44,43.241,0.88,0.121,give,72682,"Ayula, Queen Among Bears",MH1,Rare,0,2,0.003
+1564150167,"2019-07-26 16:09:27",GoatBotsA,7,7.77,0.11,0.88,get,1,"Event Ticket",EVT,Event,0,7,1
+1564150167,"2019-07-26 16:09:27",GoatBotsA,7,7.77,0.11,0.88,give,69981,Pyroblast,PRM,Common,0,3,2.59
+1564050246,"2019-07-25 12:24:06",GoatBots5,1.08,1,0.19,0.11,get,59331,"Kozilek's Return",OGW,Mythic,0,3,0.36
+1564050246,"2019-07-25 12:24:06",GoatBots5,1.08,1,0.19,0.11,give,1,"Event Ticket",EVT,Event,0,1,1
+1563890595,"2019-07-23 16:03:15",GoatBots,7,7,0.19,0.19,get,72894,"Modern Horizons Booster",MH1,Booster,0,1,7
+1563890595,"2019-07-23 16:03:15",GoatBots,7,7,0.19,0.19,give,1,"Event Ticket",EVT,Event,0,7,1
+1563883721,"2019-07-23 14:08:41",GoatBots,6.9,7,0.09,0.19,get,72894,"Modern Horizons Booster",MH1,Booster,0,1,6.9
+1563883721,"2019-07-23 14:08:41",GoatBots,6.9,7,0.09,0.19,give,1,"Event Ticket",EVT,Event,0,7,1
+1563873917,"2019-07-23 11:25:17",GoatBotsA,22,21.49,0.6,0.09,get,1,"Event Ticket",EVT,Event,0,22,1
+1563873917,"2019-07-23 11:25:17",GoatBotsA,22,21.49,0.6,0.09,give,69555,"Arclight Phoenix",GRN,Mythic,0,1,21.49
+1563803249,"2019-07-22 15:47:29",GoatBots1,1.34,1,0.94,0.6,get,73295,"Veil of Summer",M20,Uncommon,0,2,0.67
+1563803249,"2019-07-22 15:47:29",GoatBots1,1.34,1,0.94,0.6,give,1,"Event Ticket",EVT,Event,0,1,1
+1563551224,"2019-07-19 17:47:04",GoatBotsC,10,10.3,0.64,0.94,get,1,"Event Ticket",EVT,Event,0,10,1
+1563551224,"2019-07-19 17:47:04",GoatBotsC,10,10.3,0.64,0.94,give,57344,"Dark Confidant",MM2,Mythic,0,1,3.56
+1563551224,"2019-07-19 17:47:04",GoatBotsC,10,10.3,0.64,0.94,give,62133,"Chrome Mox",MS2,Mythic,0,1,2.23
+1563551224,"2019-07-19 17:47:04",GoatBotsC,10,10.3,0.64,0.94,give,53756,"Sliver Hivelord",M15,Mythic,0,1,1.94
+1563551224,"2019-07-19 17:47:04",GoatBotsC,10,10.3,0.64,0.94,give,39974,Batterskull,NPH,Mythic,0,1,1.5
+1563551224,"2019-07-19 17:47:04",GoatBotsC,10,10.3,0.64,0.94,give,67467,"Karn, Scion of Urza",DAR,Mythic,0,1,1.07
+1563547109,"2019-07-19 16:38:29",GoatBotsB,11,10.8,0.84,0.64,get,1,"Event Ticket",EVT,Event,0,11,1
+1563547109,"2019-07-19 16:38:29",GoatBotsB,11,10.8,0.84,0.64,give,72522,"Urza, Lord High Artificer",MH1,Mythic,0,1,10.8
+1563442465,"2019-07-18 11:34:25",GoatBotsH,10,10.19,0.65,0.84,get,1,"Event Ticket",EVT,Event,0,10,1
+1563442465,"2019-07-18 11:34:25",GoatBotsH,10,10.19,0.65,0.84,give,38620,Tundra,ME4,Rare,0,1,4.56
+1563442465,"2019-07-18 11:34:25",GoatBotsH,10,10.19,0.65,0.84,give,73287,"Shifting Ceratops",M20,Rare,0,1,1.66
+1563442465,"2019-07-18 11:34:25",GoatBotsH,10,10.19,0.65,0.84,give,70075,"All Is Dust",UMA,Rare,0,2,1.64
+1563442465,"2019-07-18 11:34:25",GoatBotsH,10,10.19,0.65,0.84,give,57350,"Blinkmoth Nexus",MM2,Rare,0,1,0.53
+1563442465,"2019-07-18 11:34:25",GoatBotsH,10,10.19,0.65,0.84,give,61224,"Bedlam Reveler",EMN,Rare,0,2,0.08
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,get,1,"Event Ticket",EVT,Event,0,20,1
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,give,57346,Tarmogoyf,MM2,Mythic,0,1,7.78
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,give,54194,"Flooded Strand",KTK,Rare,0,1,5.09
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,give,56082,"Kolaghan's Command",DTK,Rare,0,1,3.01
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,give,47475,"Breeding Pool",GTC,Rare,0,1,1.93
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,give,44309,"Goblin Guide",PRM,Rare,0,1,1.5
+1563318889,"2019-07-17 01:14:49",GoatBotsB,20,20.16,0.49,0.65,give,50578,"Anger of the Gods",THS,Rare,0,1,0.85
+1563317956,"2019-07-17 00:59:16",GoatBotsA,7,6.64,0.85,0.49,get,1,"Event Ticket",EVT,Event,0,7,1
+1563317956,"2019-07-17 00:59:16",GoatBotsA,7,6.64,0.85,0.49,give,53155,"Black Lotus",VMA,Mythic,0,1,4.04
+1563317956,"2019-07-17 00:59:16",GoatBotsA,7,6.64,0.85,0.49,give,73607,"Core Set 2020 Booster",M20,Booster,0,1,2.6
+1563307710,"2019-07-16 22:08:30",GoatBotsB,10,10.05,0.8,0.85,get,1,"Event Ticket",EVT,Event,0,10,1
+1563307710,"2019-07-16 22:08:30",GoatBotsB,10,10.05,0.8,0.85,give,71330,"Deputy of Detention",RNA,Rare,0,1,4.1
+1563307710,"2019-07-16 22:08:30",GoatBotsB,10,10.05,0.8,0.85,give,71320,"Captive Audience",RNA,Mythic,0,1,3.04
+1563307710,"2019-07-16 22:08:30",GoatBotsB,10,10.05,0.8,0.85,give,73287,"Shifting Ceratops",M20,Rare,0,1,2.91
+1563093438,"2019-07-14 10:37:18",GoatBots8,1.6,2,0.4,0.8,get,46497,"Abrupt Decay",RTR,Rare,0,2,0.62
+1563093438,"2019-07-14 10:37:18",GoatBots8,1.6,2,0.4,0.8,get,61589,"Nissa, Vital Force",KLD,Mythic,0,4,0.09
+1563093438,"2019-07-14 10:37:18",GoatBots8,1.6,2,0.4,0.8,give,1,"Event Ticket",EVT,Event,0,2,1
+1563092347,"2019-07-14 10:19:07",GoatBotsB,14,13.54,0.86,0.4,get,1,"Event Ticket",EVT,Event,0,14,1
+1563092347,"2019-07-14 10:19:07",GoatBotsB,14,13.54,0.86,0.4,give,73287,"Shifting Ceratops",M20,Rare,0,1,4.71
+1563092347,"2019-07-14 10:19:07",GoatBotsB,14,13.54,0.86,0.4,give,69979,Hydroblast,PRM,Common,0,2,2.03
+1563092347,"2019-07-14 10:19:07",GoatBotsB,14,13.54,0.86,0.4,give,73149,"Cavalier of Flame",M20,Mythic,0,1,2.03
+1563092347,"2019-07-14 10:19:07",GoatBotsB,14,13.54,0.86,0.4,give,73365,"Mystic Forge",M20,Rare,0,1,1.82
+1563092347,"2019-07-14 10:19:07",GoatBotsB,14,13.54,0.86,0.4,give,69983,"Ash Barrens",PRM,Common,0,1,0.92
+1513988010,"2017-12-23 01:13:30",GoatBotsG,17,17.3,0.56,0.86,get,1,"Event Ticket",EVT,Event,0,17,1
+1513988010,"2017-12-23 01:13:30",GoatBotsG,17,17.3,0.56,0.86,give,37406,"Sun Titan",M11,Mythic,0,1,3.36
+1513988010,"2017-12-23 01:13:30",GoatBotsG,17,17.3,0.56,0.86,give,36540,Vengevine,ROE,Mythic,0,4,2.37
+1513988010,"2017-12-23 01:13:30",GoatBotsG,17,17.3,0.56,0.86,give,39778,Spellskite,NPH,Rare,0,2,2.23
+1510060939,"2017-11-07 14:22:19",GoatBotsD,38,37.63,0.93,0.56,get,1,"Event Ticket",EVT,Event,0,38,1
+1510060939,"2017-11-07 14:22:19",GoatBotsD,38,37.63,0.93,0.56,give,63576,"Palace Sentinels",PZ2,Common,0,3,10.41
+1510060939,"2017-11-07 14:22:19",GoatBotsD,38,37.63,0.93,0.56,give,65610,"Ixalan Booster",XLN,Booster,0,2,3.2
+1509887396,"2017-11-05 14:09:56",GoatBots2,0.5,1,0.43,0.93,get,46443,Dreadbore,RTR,Rare,0,2,0.25
+1509887396,"2017-11-05 14:09:56",GoatBots2,0.5,1,0.43,0.93,give,1,"Event Ticket",EVT,Event,0,1,1
+1509887274,"2017-11-05 14:07:54",GoatBots9,0.08,0,0.51,0.43,get,24365,Rise/Fall,DIS,Uncommon,0,4,0.02
+1509874410,"2017-11-05 10:33:30",GoatBots0,0.32,0,0.83,0.51,get,29305,"Devoted Druid",SHM,Common,0,4,0.08
+1509874305,"2017-11-05 10:31:45",GoatBotsC,18,18.45,0.38,0.83,get,1,"Event Ticket",EVT,Event,0,18,1
+1509874305,"2017-11-05 10:31:45",GoatBotsC,18,18.45,0.38,0.83,give,42512,"Snapcaster Mage",ISD,Rare,0,1,10.44
+1509874305,"2017-11-05 10:31:45",GoatBotsC,18,18.45,0.38,0.83,give,63055,"Gifts Ungiven",MM3,Rare,0,1,8.01
+1488143868,"2017-02-26 22:17:48",GoatBotsA,16,15.93,0.45,0.38,get,1,"Event Ticket",EVT,Event,0,16,1
+1488143868,"2017-02-26 22:17:48",GoatBotsA,16,15.93,0.45,0.38,give,62155,"Verdurous Gearhulk",MS2,Mythic,0,1,11.01
+1488143868,"2017-02-26 22:17:48",GoatBotsA,16,15.93,0.45,0.38,give,39996,"Blade Splicer",NPH,Rare,0,1,4.92
+1473532704,"2016-09-10 20:38:24",GoatBotsG,14,14.4,0.05,0.45,get,1,"Event Ticket",EVT,Event,0,14,1
+1473532704,"2016-09-10 20:38:24",GoatBotsG,14,14.4,0.05,0.45,give,61510,"Eldritch Moon Booster",EMN,Booster,0,2,4.14
+1473532704,"2016-09-10 20:38:24",GoatBotsG,14,14.4,0.05,0.45,give,60415,"Shadows over Innistrad Booster",SOI,Booster,0,2,3.06
+1454071612,"2016-01-29 13:46:52",GoatBotsA,7,6.92,0.13,0.05,get,1,"Event Ticket",EVT,Event,0,7,1
+1454071612,"2016-01-29 13:46:52",GoatBotsA,7,6.92,0.13,0.05,give,58798,"Battle for Zendikar Booster",BFZ,Booster,0,2,3.46
+1453676843,"2016-01-25 00:07:23",GoatBotsD,8,7.33,0.8,0.13,get,1,"Event Ticket",EVT,Event,0,8,1
+1453676843,"2016-01-25 00:07:23",GoatBotsD,8,7.33,0.8,0.13,give,58798,"Battle for Zendikar Booster",BFZ,Booster,0,2,3.36
+1453676843,"2016-01-25 00:07:23",GoatBotsD,8,7.33,0.8,0.13,give,20856,"Eternal Witness",5DN,Uncommon,0,1,0.61
+1453323577,"2016-01-20 21:59:37",GoatBots0,20.22,21,0.02,0.8,get,57222,"Leyline of Sanctity",MM2,Rare,0,3,6.74
+1453323577,"2016-01-20 21:59:37",GoatBots0,20.22,21,0.02,0.8,give,1,"Event Ticket",EVT,Event,0,21,1
+1452692627,"2016-01-13 14:43:47",GoatBotsFoils,0.24,0,0.26,0.02,get,53279,"Tormod's Crypt",M15,Uncommon,1,1,0.09
+1452692627,"2016-01-13 14:43:47",GoatBotsFoils,0.24,0,0.26,0.02,get,57389,"Darksteel Citadel",MM2,Common,1,3,0.05
+1452691172,"2016-01-13 14:19:32",GoatBotsFoils,0.46,0,0.72,0.26,get,49166,Silence,M14,Rare,1,2,0.09
+1452691172,"2016-01-13 14:19:32",GoatBotsFoils,0.46,0,0.72,0.26,get,57129,Banefire,MM2,Rare,1,1,0.06
+1452691172,"2016-01-13 14:19:32",GoatBotsFoils,0.46,0,0.72,0.26,get,57361,Thoughtcast,MM2,Common,1,4,0.05
+1452691172,"2016-01-13 14:19:32",GoatBotsFoils,0.46,0,0.72,0.26,get,58115,"Alchemist's Vial",ORI,Common,1,2,0.01
+1452690574,"2016-01-13 14:09:34",GoatBotsD,3,3.44,0.28,0.72,get,1,"Event Ticket",EVT,Event,0,3,1
+1452690574,"2016-01-13 14:09:34",GoatBotsD,3,3.44,0.28,0.72,give,58798,"Battle for Zendikar Booster",BFZ,Booster,0,1,3.44
+1452550496,"2016-01-11 23:14:56",GoatBotsBoosters3,3,3.28,0,0.28,get,1,"Event Ticket",EVT,Event,0,3,1
+1452550496,"2016-01-11 23:14:56",GoatBotsBoosters3,3,3.28,0,0.28,give,58798,"Battle for Zendikar Booster",BFZ,Booster,0,1,3.28
