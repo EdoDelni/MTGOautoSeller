@@ -70,7 +70,11 @@ def restore_default_download_settings(user_profile):
     # Quit the driver
     driver.quit()
 
-# Define the file paths
+#import pandas as pd
+import re
+
+# Define file paths
+collection_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/Full Trade List.csv"
 trade_history_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/goatbots-trade-history.csv"
 price_history_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/price-history-2024-06-27.txt"
 
@@ -106,10 +110,17 @@ get_trades.loc[:, 'potential_gain'] = get_trades.apply(
 # Sort by potential gain
 profitable_trades = get_trades.sort_values(by='potential_gain', ascending=False)
 
-# Display the most profitable trades
-for index, row in profitable_trades.head(10).iterrows():
-    print(f"Card Name: {row['name']}, Potential Gain: {row['potential_gain']}")
+# Load the current collection
+collection = pd.read_csv(collection_path)
 
+# Filter the profitable trades to include only cards in the collection
+collection_item_ids = collection['ID #'].astype(str).tolist()
+collection_names = collection['Card Name'].tolist()
+filtered_trades = profitable_trades[profitable_trades['itemID'].astype(str).isin(collection_item_ids)]
+
+# Display the most profitable trades in the collection
+for index, row in filtered_trades.head(20).iterrows():
+    print(f"Card Name: {row['name']}, Potential Gain: {row['potential_gain']}, Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}")
 
 # Call the function
 #SaveTradeHisPrices()
