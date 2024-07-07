@@ -120,6 +120,14 @@ def clickonimage(relative_path):
     print(filename)
     element = pyautogui.locateOnScreen(filename,confidence=0.7)
     pyautogui.click(element)
+
+def rightclickonimage(relative_path):
+    dirname = os.path.dirname(__file__)
+    print(dirname)
+    filename = (os.path.join(dirname, relative_path))
+    print(filename)
+    element = pyautogui.locateOnScreen(filename,confidence=0.7)
+    pyautogui.rightClick(element)
 def checkifimagepresent(relative_path):
     dirname = os.path.dirname(__file__)
     print(dirname)

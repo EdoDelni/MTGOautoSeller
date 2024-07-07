@@ -3,15 +3,16 @@ import time
 import zipfile
 import pandas as pd
 import re
-import pyautogui
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime, timedelta
 from Functions import startmtgoapp, clickonscreen, rightclickonimage
+import pyautogui
 
 # Define file paths
 collection_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/Full Trade List.csv"
 trade_history_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/goatbots-trade-history.csv"
+# Dynamic price history path based on the current date
 yesterday = (datetime.today() - timedelta(days=1)).strftime('%Y-%m-%d')
 price_history_path = f"C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/price-history-{yesterday}.txt"
 
@@ -20,41 +21,49 @@ def SaveMtgoCollectionToCSV():
     clickonscreen("COLLECTION")
     time.sleep(15)
     rightclickonimage("C:/Users/edo/PycharmProjects/MTGOautoSeller/Images/Collection Save.png")
-    time.sleep(5)
-    clickonscreen("Export")
     time.sleep(1)
+    pyautogui.leftClick()
+    pyautogui.press("Tab")
+    pyautogui.press("down")
+    pyautogui.press("down")
+    pyautogui.press("down")
     pyautogui.press("Enter")
-    time.sleep(1)
-def SaveTradeHisPrices():
-    user_profile = "C:/Users/Edo/AppData/Local/Google/Chrome/User Data"
-    project_folder = os.path.join(os.getcwd(), "SavedTradeHistory")  # Creates a "project_folder" in the current working directory
-    if not os.path.exists(project_folder):
-        os.makedirs(project_folder)
+    pyautogui.press("Enter")
+    pyautogui.press("Enter")
+def download_files(user_profile, project_folder):
+    # Configure Chrome options
     chrome_options = Options()
     chrome_options.add_argument(f"user-data-dir={user_profile}")
+
+    # Set the download directory to the project folder
     prefs = {
-        "download.default_directory": project_folder,  # Set the download directory to the project folder
-        "download.prompt_for_download": False,  # Disable download prompts
-        "directory_upgrade": True  # Automatically download to the specified directory
+        "download.default_directory": project_folder,
+        "download.prompt_for_download": False,
+        "directory_upgrade": True
     }
     chrome_options.add_experimental_option("prefs", prefs)
+
+    # Initialize the Chrome driver with the options
     driver = webdriver.Chrome(options=chrome_options)
-    url = "https://www.goatbots.com/ajax/trade-history-download"
-    driver.get(url)
-    time.sleep(3)  # Wait for the download to complete
-    url = "https://www.goatbots.com/download/price-history.zip"
-    driver.get(url)
-    time.sleep(3)  # Wait for the download to complete
-    driver.quit()
 
-    # Unzip the downloaded file
-    zip_file_path = os.path.join(project_folder, "price-history.zip")
-    if os.path.exists(zip_file_path):
-        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-            zip_ref.extractall(project_folder)
+    try:
+        # Navigate to the URL and download files
+        urls = [
+            "https://www.goatbots.com/ajax/trade-history-download",
+            "https://www.goatbots.com/download/price-history.zip"
+        ]
+        for url in urls:
+            driver.get(url)
+            time.sleep(3)  # Wait for the download to complete
 
-    # Restore default download settings
-    restore_default_download_settings(user_profile)
+        # Unzip the downloaded file
+        zip_file_path = os.path.join(project_folder, "price-history.zip")
+        if os.path.exists(zip_file_path):
+            with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+                zip_ref.extractall(project_folder)
+    finally:
+        # Quit the driver
+        driver.quit()
 def restore_default_download_settings(user_profile):
     # Configure Chrome options
     chrome_options = Options()
@@ -71,13 +80,14 @@ def restore_default_download_settings(user_profile):
     # Initialize the Chrome driver with the options to apply the default settings
     driver = webdriver.Chrome(options=chrome_options)
 
-    # Open a blank page to apply the settings
-    driver.get("about:blank")
-    time.sleep(1)  # Wait for the settings to be applied
-
-    # Quit the driver
-    driver.quit()
-def AnalizeHistoric():
+    try:
+        # Open a blank page to apply the settings
+        driver.get("about:blank")
+        time.sleep(1)  # Wait for the settings to be applied
+    finally:
+        # Quit the driver
+        driver.quit()
+def analyze_best_and_worst_trades():
     trade_history = pd.read_csv(trade_history_path)
     with open(price_history_path, 'r') as file:
         lines = file.readlines()
@@ -137,25 +147,24 @@ def AnalizeHistoric():
     for index, row in worst_trades.iterrows():
         print(f"Card Name: {row['Card Name']}, Quantity: {row['Quantity']}, Total Potential Loss: {row['total_potential_gain']}, Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}")
 
-        # Function to calculate profit from buy and P_A7uDre
 def main():
-    print("Saving trade history prices...")
-    SaveTradeHisPrices()
-    print("Trade history prices saved.\n")
-
-    print("Select a function to execute:")
-    print("1. Analyze Trades historic")
-    print("2. Analyze Possible trades")
-
-    choice = input("Enter your choice (1/2): ")
-
-    if choice == '1':
-        AnalizeHistoric()
-    elif choice == '2':
-        trade_history = pd.read_csv(trade_history_path)
-
-    else:
-        print("Invalid choice. Please select 1 or 2.")
+    user_profile = "C:/Users/Edo/AppData/Local/Google/Chrome/User Data"
+    project_folder = os.path.join(os.getcwd(), "SavedTradeHistory")
+    if not os.path.exists(project_folder):
+        os.makedirs(project_folder)
+    try:
+        SaveMtgoCollectionToCSV()
+        download_files(user_profile, project_folder)
+        analyze_best_and_worst_trades()
+    finally:
+        restore_default_download_settings(user_profile)
+        # Clean up the download folder
+        for filename in os.listdir(project_folder):
+            file_path = os.path.join(project_folder, filename)
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                os.rmdir(file_path)
 
 if __name__ == "__main__":
     main()
