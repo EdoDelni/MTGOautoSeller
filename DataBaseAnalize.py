@@ -177,64 +177,60 @@ def analyze_best_and_worst_trades():
     return result
 
 
-def analize_historic():
+def analyze_historic(trade_history_path):
+    # Load trade history
     trade_history = pd.read_csv(trade_history_path)
-    with open(price_history_path, 'r') as file:
-        lines = file.readlines()
-    # Remove commas and whitespace, then extract itemID and price using regex
-    price_data = {}
-    for line in lines:
-        cleaned_line = line.replace(',', '').strip()
-        match = re.match(r'"(\d+)":\s*(\d+\.\d+)', cleaned_line)
-        if match:
-            itemID = match.group(1)
-            price = float(match.group(2))
-            price_data[itemID] = price
 
-    # Convert price data to a DataFrame for easier handling
-    price_history = pd.DataFrame(list(price_data.items()), columns=['itemID', 'price'])
+    # Ensure that 'quantity' column exists
+    if 'quantity' not in trade_history.columns:
+        print("Error: 'quantity' column is missing in trade history.")
+        return "Error: 'quantity' column is missing in trade history."
 
-    # Filter for 'get' trades
-    get_trades = trade_history[trade_history['method'] == 'get'].copy()
+    # Separate buy and sell transactions
+    buy_trades = trade_history[trade_history['method'] == 'get'].copy()
+    sell_trades = trade_history[trade_history['method'] == 'give'].copy()
 
-    # Calculate the potential gain
-    get_trades['potential_gain'] = get_trades.apply(
-        lambda row: price_data.get(str(row['itemID']), 0) - row['price'],
-        axis=1
+    # Merge buy and sell trades on 'itemID' and 'name' to calculate profit
+    merged_trades = pd.merge(
+        buy_trades,
+        sell_trades,
+        on=['itemID', 'name'],
+        suffixes=('_buy', '_sell')
     )
 
-    # Sort by potential gain
-    profitable_trades = get_trades.sort_values(by='potential_gain', ascending=False)
-
-    # Load the current collection
-    collection = pd.read_csv(collection_path)
-
-    # Filter the profitable trades to include only cards in the collection
-    collection_item_ids = collection['ID #'].astype(str).tolist()
-    filtered_trades = profitable_trades[profitable_trades['itemID'].astype(str).isin(collection_item_ids)]
-
-    # Merge the filtered trades with the collection to get the quantity
-    filtered_trades_with_collection = filtered_trades.merge(
-        collection[['ID #', 'Card Name', 'Quantity']],
-        left_on='itemID',
-        right_on='ID #',
-        how='left'
+    # Calculate profit for each merged trade
+    merged_trades['profit'] = (
+            (merged_trades['price_sell'] - merged_trades['price_buy']) * merged_trades['quantity_buy']
     )
 
-    # Calculate total potential gain by multiplying potential gain by quantity
-    filtered_trades_with_collection['total_potential_gain'] = filtered_trades_with_collection['potential_gain'] * \
-                                                              filtered_trades_with_collection['Quantity']
+    # Calculate total gain
+    total_gain = merged_trades['profit'].sum()
 
-    result = "Top 20 Profitable Trades:\n"
-    for index, row in filtered_trades_with_collection.head(20).iterrows():
-        result += f"Card Name: {row['Card Name']}, Quantity: {row['Quantity']}, Total Potential Gain: {row['total_potential_gain']}, Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}\n"
+    # Sort trades by profit
+    top_10_best_trades = merged_trades.sort_values(by='profit', ascending=False).head(10)
+    top_10_worst_trades = merged_trades.sort_values(by='profit', ascending=True).head(10)
 
-    # Sort by total potential gain in ascending order to find the worst trades
-    worst_trades = filtered_trades_with_collection.sort_values(by='total_potential_gain').head(20)
+    # Prepare result string
+    result = (
+        f"Total Gain from Trades: {total_gain}\n\n"
+        "Top 10 Best Trades:\n"
+    )
 
-    result += "\nTop 20 Worst Trades:\n"
-    for index, row in worst_trades.iterrows():
-        result += f"Card Name: {row['Card Name']}, Quantity: {row['Quantity']}, Total Potential Loss: {row['total_potential_gain']}, Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}\n"
+    for index, row in top_10_best_trades.iterrows():
+        result += (
+            f"Card Name: {row['name']}, Quantity: {row['quantity_buy']}, "
+            f"Buy Price: {row['price_buy']}, Sell Price: {row['price_sell']}, "
+            f"Profit: {row['profit']}\n"
+        )
+
+    result += "\nTop 10 Worst Trades:\n"
+
+    for index, row in top_10_worst_trades.iterrows():
+        result += (
+            f"Card Name: {row['name']}, Quantity: {row['quantity_buy']}, "
+            f"Buy Price: {row['price_buy']}, Sell Price: {row['price_sell']}, "
+            f"Profit: {row['profit']}\n"
+        )
 
     return result
 
@@ -252,7 +248,7 @@ def run_analysis():
 
 
 def run_historic_analysis():
-    result = analize_historic()
+    result = analyze_historic(trade_history_path)
     result_text.delete(1.0, tk.END)
     result_text.insert(tk.END, result)
 
@@ -261,11 +257,20 @@ def run_refresh_database():
     refresh_database()
     messagebox.showinfo("Info", "Database refreshed successfully!")
 
+# Dark theme colors
+bg_color = "#2e2e2e"
+fg_color = "#d3d3d3"
+button_bg_color = "#3e3e3e"
+button_fg_color = "#d3d3d3"
 
 root = tk.Tk()
 root.title("MTGO Auto Seller Analysis")
 
-frame = tk.Frame(root)
+text_widget_bg_color = "#1e1e1e"
+text_widget_fg_color = "#ffffff"
+
+root.configure(bg=bg_color)
+frame = tk.Frame(root, bg=bg_color)
 frame.pack(pady=20, padx=20)
 
 analyze_button = tk.Button(frame, text="Analyze Best and Worst Trades", command=run_analysis)
@@ -277,7 +282,7 @@ historic_button.pack(pady=5)
 refresh_button = tk.Button(frame, text="Refresh Database", command=run_refresh_database)
 refresh_button.pack(pady=5)
 
-result_text = scrolledtext.ScrolledText(frame, width=100, height=30)
+result_text = scrolledtext.ScrolledText(frame, width=200, height=200, bg=text_widget_bg_color, fg=text_widget_fg_color, insertbackground=fg_color)
 result_text.pack(pady=10)
 
 root.mainloop()
