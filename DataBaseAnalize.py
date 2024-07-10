@@ -113,7 +113,23 @@ def refresh_database():
     finally:
         restore_default_download_settings(user_profile)
 
-
+def refresh_database2():
+    # Clean up the download folder
+    project_folder = os.path.join(os.getcwd(), "SavedTradeHistory")
+    for filename in os.listdir(project_folder):
+        file_path = os.path.join(project_folder, filename)
+        if os.path.isfile(file_path):
+            os.unlink(file_path)
+        elif os.path.isdir(file_path):
+            os.rmdir(file_path)
+    user_profile = "C:/Users/Edo/AppData/Local/Google/Chrome/User Data"
+    if not os.path.exists(project_folder):
+        os.makedirs(project_folder)
+    try:
+        #SaveMtgoCollectionToCSV()
+        download_files(user_profile, project_folder)
+    finally:
+        restore_default_download_settings(user_profile)
 
 def analyze_best_and_worst_trades():
     trade_history = pd.read_csv(trade_history_path)
@@ -257,6 +273,10 @@ def run_refresh_database():
     refresh_database()
     messagebox.showinfo("Info", "Database refreshed successfully!")
 
+def run_refresh_database2():
+    refresh_database2()
+    messagebox.showinfo("Info", "Database refreshed successfully!")
+
 # Dark theme colors
 bg_color = "#2e2e2e"
 fg_color = "#d3d3d3"
@@ -280,6 +300,9 @@ historic_button = tk.Button(frame, text="Analyze Historic", command=run_historic
 historic_button.pack(pady=5)
 
 refresh_button = tk.Button(frame, text="Refresh Database", command=run_refresh_database)
+refresh_button.pack(pady=5)
+
+refresh_button = tk.Button(frame, text="Refresh Database excluding MTGO collection", command=run_refresh_database2)
 refresh_button.pack(pady=5)
 
 result_text = scrolledtext.ScrolledText(frame, width=200, height=200, bg=text_widget_bg_color, fg=text_widget_fg_color, insertbackground=fg_color)
