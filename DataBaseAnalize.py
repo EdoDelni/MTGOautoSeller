@@ -113,15 +113,20 @@ def refresh_database():
     finally:
         restore_default_download_settings(user_profile)
 
+#refresh database manually downloading the collection from MTGO
+
 def refresh_database2():
     # Clean up the download folder
     project_folder = os.path.join(os.getcwd(), "SavedTradeHistory")
+    excluded_file = "Full Trade List.csv"
     for filename in os.listdir(project_folder):
         file_path = os.path.join(project_folder, filename)
-        if os.path.isfile(file_path):
-            os.unlink(file_path)
-        elif os.path.isdir(file_path):
-            os.rmdir(file_path)
+        if filename != excluded_file:
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                os.rmdir(file_path)
+
     user_profile = "C:/Users/Edo/AppData/Local/Google/Chrome/User Data"
     if not os.path.exists(project_folder):
         os.makedirs(project_folder)
@@ -130,7 +135,7 @@ def refresh_database2():
         download_files(user_profile, project_folder)
     finally:
         restore_default_download_settings(user_profile)
-
+#possible trades
 def analyze_best_and_worst_trades():
     trade_history = pd.read_csv(trade_history_path)
     with open(price_history_path, 'r') as file:
@@ -152,10 +157,7 @@ def analyze_best_and_worst_trades():
     get_trades = trade_history[trade_history['method'] == 'get'].copy()
 
     # Calculate the potential gain
-    get_trades['potential_gain'] = get_trades.apply(
-        lambda row: price_data.get(str(row['itemID']), 0) - row['price'],
-        axis=1
-    )
+    get_trades['potential_gain'] = get_trades.apply(lambda row: price_data.get(str(row['itemID']), 0) - row['price'],axis=1)
 
     # Sort by potential gain
     profitable_trades = get_trades.sort_values(by='potential_gain', ascending=False)
@@ -181,7 +183,7 @@ def analyze_best_and_worst_trades():
 
     result = "Top 20 Profitable Trades:\n"
     for index, row in filtered_trades_with_collection.head(20).iterrows():
-        result += f"Card Name: {row['Card Name']}, Quantity: {row['Quantity']}, Total Potential Gain: {row['total_potential_gain']}, Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}\n"
+        result += f"Card Name: {row['Card Name']}, Quantity: {row['Quantity']}, Total Potential Gain: {row['total_potential_gain']}, Unitary Potential Gain: {row['potential_gain']}  Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}\n"
 
     # Sort by total potential gain in ascending order to find the worst trades
     worst_trades = filtered_trades_with_collection.sort_values(by='total_potential_gain').head(20)
@@ -192,39 +194,32 @@ def analyze_best_and_worst_trades():
 
     return result
 
-
 def analyze_historic(trade_history_path):
     # Load trade history
     trade_history = pd.read_csv(trade_history_path)
 
-    # Ensure that 'quantity' column exists
-    if 'quantity' not in trade_history.columns:
-        print("Error: 'quantity' column is missing in trade history.")
-        return "Error: 'quantity' column is missing in trade history."
+    # Filter out 'Event Ticket' entries and entries containing 'booster'
+    trade_history = trade_history[~trade_history['name'].str.contains('booster', case=False) & (trade_history['name'] != 'Event Ticket')]
 
     # Separate buy and sell transactions
     buy_trades = trade_history[trade_history['method'] == 'get'].copy()
     sell_trades = trade_history[trade_history['method'] == 'give'].copy()
 
     # Merge buy and sell trades on 'itemID' and 'name' to calculate profit
-    merged_trades = pd.merge(
-        buy_trades,
-        sell_trades,
-        on=['itemID', 'name'],
-        suffixes=('_buy', '_sell')
-    )
+    merged_trades = pd.merge(buy_trades, sell_trades, on=['itemID', 'name'], suffixes=('_buy', '_sell'))
+
+    # Ensure quantities match for fair profit calculation
+    merged_trades['quantity'] = merged_trades[['quantity_buy', 'quantity_sell']].min(axis=1)
 
     # Calculate profit for each merged trade
-    merged_trades['profit'] = (
-            (merged_trades['price_sell'] - merged_trades['price_buy']) * merged_trades['quantity_buy']
-    )
+    merged_trades['profit'] = (merged_trades['price_sell'] * merged_trades['quantity']) - (merged_trades['price_buy'] * merged_trades['quantity'])
 
     # Calculate total gain
     total_gain = merged_trades['profit'].sum()
 
     # Sort trades by profit
-    top_10_best_trades = merged_trades.sort_values(by='profit', ascending=False).head(10)
-    top_10_worst_trades = merged_trades.sort_values(by='profit', ascending=True).head(10)
+    top_10_best_trades = merged_trades.sort_values(by='profit', ascending=False).head(20)
+    top_10_worst_trades = merged_trades[merged_trades['profit'] < 0].sort_values(by='profit', ascending=True).head(20)
 
     # Prepare result string
     result = (
@@ -234,7 +229,7 @@ def analyze_historic(trade_history_path):
 
     for index, row in top_10_best_trades.iterrows():
         result += (
-            f"Card Name: {row['name']}, Quantity: {row['quantity_buy']}, "
+            f"Card Name: {row['name']}, Quantity: {row['quantity']}, "
             f"Buy Price: {row['price_buy']}, Sell Price: {row['price_sell']}, "
             f"Profit: {row['profit']}\n"
         )
@@ -243,12 +238,13 @@ def analyze_historic(trade_history_path):
 
     for index, row in top_10_worst_trades.iterrows():
         result += (
-            f"Card Name: {row['name']}, Quantity: {row['quantity_buy']}, "
+            f"Card Name: {row['name']}, Quantity: {row['quantity']}, "
             f"Buy Price: {row['price_buy']}, Sell Price: {row['price_sell']}, "
             f"Profit: {row['profit']}\n"
         )
 
     return result
+
 
 
 def main():
