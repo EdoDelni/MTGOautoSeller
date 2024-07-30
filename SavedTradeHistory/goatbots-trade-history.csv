@@ -1,4 +1,131 @@
 ﻿timestamp,time_cet,bot,get_value,give_value,credits_before,credits_after,method,itemID,name,cardset,rarity,foil,quantity,price
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126533,"Ral, Monsoon Mage",MH3,Mythic,0,4,1.72
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126467,"Polluted Delta",MH3,Rare,0,4,1.16
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126459,"Flooded Strand",MH3,Rare,0,4,1.05
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126491,"Wooded Foothills",MH3,Rare,0,4,0.86
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126075,"Guide of Souls",MH3,Rare,0,4,0.85
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126451,"Bloodstained Mire",MH3,Rare,0,4,0.84
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126489,"Windswept Heath",MH3,Rare,0,4,0.72
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126437,"Disruptor Flute",MH3,Rare,0,4,0.71
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126357,"Sowing Mycospawn",MH3,Rare,0,4,0.67
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126021,"Devourer of Destiny",MH3,Rare,0,4,0.62
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126029,"Emrakul, the World Anew",MH3,Mythic,0,4,0.55
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126115,"Wrath of the Skies",MH3,Rare,0,4,0.46
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126549,"Grist, Voracious Larva",MH3,Mythic,0,4,0.2
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126001,"Ruby Medallion",MH3,Rare,0,4,0.16
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126207,"Flare of Malice",MH3,Rare,0,4,0.09
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,61966,"Madcap Experiment",KLD,Rare,1,4,0.06
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126325,"Flare of Cultivation",MH3,Rare,0,4,0.05
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,125951,"Kappa Cannoneer",MH3,Rare,0,4,0.03
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126321,"Fanatic of Rhonas",MH3,Rare,0,4,0.02
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,126322,"Fanatic of Rhonas",MH3,Rare,1,4,0.01
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,get,61965,"Madcap Experiment",KLD,Rare,0,4,0.008
+1722193493,"2024-07-28 21:04:53",GoatBotsDelivery3,43.352,43,0.506,0.154,give,1,"Event Ticket",EVT,Event,0,43,1
+1722192958,"2024-07-28 20:55:58",GoatBotsD,121,121.06,0.446,0.506,get,1,"Event Ticket",EVT,Event,0,121,1
+1722192958,"2024-07-28 20:55:58",GoatBotsD,121,121.06,0.446,0.506,give,53155,"Black Lotus",VMA,Mythic,0,1,29.01
+1722192958,"2024-07-28 20:55:58",GoatBotsD,121,121.06,0.446,0.506,give,59655,"Gaea's Cradle",PRM,Mythic,0,4,19.01
+1722192958,"2024-07-28 20:55:58",GoatBotsD,121,121.06,0.446,0.506,give,52919,"Mox Sapphire",VMA,Mythic,0,1,16.01
+1721782632,"2024-07-24 02:57:12",GoatBotsBoosters,8.2,8,0.646,0.446,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,2,4.1
+1721782632,"2024-07-24 02:57:12",GoatBotsBoosters,8.2,8,0.646,0.446,give,1,"Event Ticket",EVT,Event,0,8,1
+1721782567,"2024-07-24 02:56:07",GoatBotsE,16,16.01,0.636,0.646,get,1,"Event Ticket",EVT,Event,0,16,1
+1721782567,"2024-07-24 02:56:07",GoatBotsE,16,16.01,0.636,0.646,give,52919,"Mox Sapphire",VMA,Mythic,0,1,16.01
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,37644,"Sol Ring",V10,Mythic,1,4,0.06
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,115050,"Sol Ring",CMM,Uncommon,1,2,0.06
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,127111,"Arcane Signet",M3C,Common,0,4,0.05
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,115049,"Sol Ring",CMM,Uncommon,0,4,0.05
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,124997,"Sol Ring",OTC,Uncommon,0,4,0.05
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,119026,"Sol Ring",LCC,Uncommon,0,2,0.05
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,122622,"Sol Ring",MKC,Uncommon,0,4,0.04
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,91189,"Sol Ring",SLD,Rare,0,4,0.03
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,108356,"Sol Ring",40K,Uncommon,0,4,0.03
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,127155,"Sol Ring",M3C,Uncommon,0,4,0.03
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,51144,"Command Tower",C13,Common,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,122660,"Command Tower",MKC,Common,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,125023,"Command Tower",OTC,Common,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,22935,"Fellwar Stone",9ED,Uncommon,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,33644,"Fellwar Stone",ME3,Common,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,104130,"Sol Ring",SCD,Uncommon,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,113660,"Sol Ring",CMM,Uncommon,1,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,50440,"Swan Song",THS,Rare,0,4,0.02
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,115069,"Command Tower",CMM,Common,0,4,0.01
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,85482,"Command Tower",CMR,Common,0,4,0.009
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,108396,"Command Tower",40K,Common,0,4,0.009
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,47980,"Command Tower",PRM,Common,1,4,0.007
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,127207,"Command Tower",M3C,Common,0,4,0.006
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,126159,"Strix Serenade",MH3,Rare,0,4,0.006
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,113724,"Arcane Signet",CMM,Uncommon,1,4,0.005
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,108398,"Command Tower",40K,Common,0,4,0.005
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,113732,"Fellwar Stone",CMM,Uncommon,1,4,0.005
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,118575,"Arcane Signet",LCC,Uncommon,1,4,0.003
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,get,114993,"Fellwar Stone",CMM,Uncommon,0,4,0.003
+1721413318,"2024-07-19 20:21:58",GoatBotsDelivery6,2.492,3,0.128,0.636,give,1,"Event Ticket",EVT,Event,0,3,1
+1721328878,"2024-07-18 20:54:38",GoatBotsBoosters3,4.05,4,0.178,0.128,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,4.05
+1721328878,"2024-07-18 20:54:38",GoatBotsBoosters3,4.05,4,0.178,0.128,give,1,"Event Ticket",EVT,Event,0,4,1
+1721328801,"2024-07-18 20:53:21",GoatBotsBoosters2,4.05,4,0.228,0.178,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,4.05
+1721328801,"2024-07-18 20:53:21",GoatBotsBoosters2,4.05,4,0.228,0.178,give,1,"Event Ticket",EVT,Event,0,4,1
+1721236026,"2024-07-17 19:07:06",GoatBotsBoosters,4.2,4,0.428,0.228,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,4.2
+1721236026,"2024-07-17 19:07:06",GoatBotsBoosters,4.2,4,0.428,0.228,give,1,"Event Ticket",EVT,Event,0,4,1
+1721230645,"2024-07-17 17:37:25",GoatBots9,0.04,0,0.468,0.428,get,38171,"Tunnel Ignus",SOM,Rare,0,4,0.01
+1721230615,"2024-07-17 17:36:55",GoatBots7,0.04,0,0.508,0.468,get,38171,"Tunnel Ignus",SOM,Rare,0,4,0.01
+1721230559,"2024-07-17 17:35:59",GoatBots5,0.036,0,0.544,0.508,get,38171,"Tunnel Ignus",SOM,Rare,0,4,0.009
+1721230527,"2024-07-17 17:35:27",GoatBots4,0.036,0,0.58,0.544,get,38171,"Tunnel Ignus",SOM,Rare,0,4,0.009
+1721230495,"2024-07-17 17:34:55",GoatBots6,0.036,0,0.616,0.58,get,38171,"Tunnel Ignus",SOM,Rare,0,4,0.009
+1721058498,"2024-07-15 17:48:18",GoatBotsF,22,22.04,0.576,0.616,get,1,"Event Ticket",EVT,Event,0,22,1
+1721058498,"2024-07-15 17:48:18",GoatBotsF,22,22.04,0.576,0.616,give,20021,"Great Furnace",MRD,Common,0,4,5.51
+1720752230,"2024-07-12 04:43:50",GoatBotsF,12,12.08,0.496,0.576,get,1,"Event Ticket",EVT,Event,0,12,1
+1720752230,"2024-07-12 04:43:50",GoatBotsF,12,12.08,0.496,0.576,give,24113,"Spell Snare",DIS,Uncommon,0,4,3.02
+1720748252,"2024-07-12 03:37:32",GoatBotsF,15.9,16.01,0.386,0.496,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,2,4.45
+1720748252,"2024-07-12 03:37:32",GoatBotsF,15.9,16.01,0.386,0.496,get,1,"Event Ticket",EVT,Event,0,7,1
+1720748252,"2024-07-12 03:37:32",GoatBotsF,15.9,16.01,0.386,0.496,give,38620,Tundra,ME4,Rare,0,1,16.01
+1720722158,"2024-07-11 20:22:38",GoatBotsF,21,20.83,0.556,0.386,get,1,"Event Ticket",EVT,Event,0,21,1
+1720722158,"2024-07-11 20:22:38",GoatBotsF,21,20.83,0.556,0.386,give,126513,"Tamiyo, Inquisitive Student",MH3,Mythic,0,1,20.83
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,125492,"Phelia, Exuberant Shepherd",MH3,Rare,1,4,0.29
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,125723,"Phelia, Exuberant Shepherd",MH3,Rare,0,4,0.24
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,39796,"Birthing Pod",NPH,Rare,0,4,0.2
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,126098,"Phelia, Exuberant Shepherd",MH3,Rare,1,4,0.14
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,126097,"Phelia, Exuberant Shepherd",MH3,Rare,0,4,0.12
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,21105,"Glimpse of Nature",CHK,Rare,0,4,0.09
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,41484,"Sundial of the Infinite",M12,Rare,1,4,0.06
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,get,41483,"Sundial of the Infinite",M12,Rare,0,4,0.006
+1720715291,"2024-07-11 18:28:11",GoatBotsDelivery8,4.584,5,0.14,0.556,give,1,"Event Ticket",EVT,Event,0,5,1
+1720640198,"2024-07-10 21:36:38",GoatBotsBoosters,4.6,4,0.74,0.14,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,4.6
+1720640198,"2024-07-10 21:36:38",GoatBotsBoosters,4.6,4,0.74,0.14,give,1,"Event Ticket",EVT,Event,0,4,1
+1720581274,"2024-07-10 05:14:34",GoatBotsF,27,27.48,0.26,0.74,get,1,"Event Ticket",EVT,Event,0,27,1
+1720581274,"2024-07-10 05:14:34",GoatBotsF,27,27.48,0.26,0.74,give,15660,"Lord of Atlantis",7E,Rare,0,4,2.85
+1720581274,"2024-07-10 05:14:34",GoatBotsF,27,27.48,0.26,0.74,give,90511,"Svyelun of Sea and Sky",MH2,Mythic,0,4,2.79
+1720581274,"2024-07-10 05:14:34",GoatBotsF,27,27.48,0.26,0.74,give,102106,"Phyrexian Altar",2X2,Rare,0,4,1.23
+1720502910,"2024-07-09 07:28:30",GoatBotsBoosters2,4.5,4,0.76,0.26,get,127558,"Modern Horizons 3 Booster",MH3,Booster,0,1,4.5
+1720502910,"2024-07-09 07:28:30",GoatBotsBoosters2,4.5,4,0.76,0.26,give,1,"Event Ticket",EVT,Event,0,4,1
+1720476066,"2024-07-09 00:01:06",GoatBotsE,23,23.69,0.07,0.76,get,1,"Event Ticket",EVT,Event,0,23,1
+1720476066,"2024-07-09 00:01:06",GoatBotsE,23,23.69,0.07,0.76,give,122032,"Undercity Sewers",MKM,Rare,0,1,17.54
+1720476066,"2024-07-09 00:01:06",GoatBotsE,23,23.69,0.07,0.76,give,121440,"Meticulous Archive",MKM,Rare,0,1,6.15
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126184,"Chthonian Nightmare",MH3,Rare,1,4,0.2
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126183,"Chthonian Nightmare",MH3,Rare,0,4,0.16
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126517,"Boggart Trawler",MH3,Uncommon,0,4,0.02
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,125945,"Sevinne's Reclamation",MH3,Rare,0,4,0.02
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,125973,"Laelia, the Blade Reforged",MH3,Rare,0,4,0.01
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126003,"Sapphire Medallion",MH3,Rare,0,4,0.01
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126365,"Thief of Existence",MH3,Rare,0,4,0.009
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,125969,"Cursed Mirror",MH3,Rare,0,4,0.008
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,125995,"Jet Medallion",MH3,Rare,0,4,0.008
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126231,"Ripples of Undeath",MH3,Rare,0,4,0.008
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,125999,"Pearl Medallion",MH3,Rare,0,4,0.007
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126243,"Aether Revolt",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126119,"Amphibian Downpour",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126057,"Argent Dais",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126025,"Echoes of Eternity",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126389,"Genku, Future Shaper",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,125959,"K'rrik, Son of Yawgmoth",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126401,"Kudo, King Among Bears",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126095,"Pearl-Ear, Imperial Advisor",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126423,"Rosheen, Roaring Prophet",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,get,126235,"Shilgengar, Sire of Famine",MH3,Rare,0,4,0.006
+1720390778,"2024-07-08 00:19:38",GoatBotsDelivery6,2.08,2,0.15,0.07,give,1,"Event Ticket",EVT,Event,0,2,1
+1720108575,"2024-07-04 17:56:15",GoatBotsE,32,31.3,0.85,0.15,get,1,"Event Ticket",EVT,Event,0,32,1
+1720108575,"2024-07-04 17:56:15",GoatBotsE,32,31.3,0.85,0.15,give,121434,"Elegant Parlor",MKM,Rare,0,4,6.19
+1720108575,"2024-07-04 17:56:15",GoatBotsE,32,31.3,0.85,0.15,give,106697,"Soulless Jailer",ONE,Rare,0,3,2.18
+1719861928,"2024-07-01 21:25:28",GoatBots7,0.033,0,0.883,0.85,get,126509,"Sink into Stupor",MH3,Uncommon,0,1,0.03
+1719861928,"2024-07-01 21:25:28",GoatBots7,0.033,0,0.883,0.85,get,81395,"Waker of Waves",M21,Uncommon,0,1,0.003
 1719596090,"2024-06-28 19:34:50",GoatBots0,0.032,0,0.915,0.883,get,126245,"Amped Raptor",MH3,Uncommon,0,4,0.008
 1719511745,"2024-06-27 20:09:05",GoatBots9,0.009,0,0.924,0.915,get,109892,"Surge of Salvation",MOM,Uncommon,0,3,0.003
 1718898665,"2024-06-20 17:51:05",GoatBots8,0.003,0,0.927,0.924,get,32322,"Architects of Will",ARB,Common,0,1,0.003

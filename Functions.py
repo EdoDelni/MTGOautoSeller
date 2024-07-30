@@ -301,6 +301,8 @@ def refresh_database2():
         restore_default_download_settings(user_profile)
 def analyze_best_and_worst_trades():
     trade_history = pd.read_csv(trade_history_path)
+    trade_history = trade_history[
+        ~trade_history['name'].str.contains('booster', case=False) & (trade_history['name'] != 'Event Ticket')]
     with open(price_history_path, 'r') as file:
         lines = file.readlines()
     price_data = {}
