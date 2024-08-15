@@ -215,12 +215,12 @@ def maximize_window(window_title):
         print(f"Failed to maximize window '{window_title}'. Error: {e}")
 def TradeWithGoatbotsSell():
     clickonscreen("TRADE")
-    time.sleep(1)
+    time.sleep(2)
     i = 11
     while i >= 1:
         pyautogui.press("Tab")
         i = i-1
-        time.sleep(0.1)
+        time.sleep(0.3)
     pyautogui.press("Goatbots")
     pyautogui.press("Enter")
     clickonimage("\Images\Open+Sell.png")
@@ -513,7 +513,6 @@ def query_card_history(card_name):
     result += f"Total gain: {total_gain_now} TIX\n"
 
     return result
-
 
 
 

@@ -1,8 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
 from Functions import startmtgoapp, clickonscreen, rightclickonimage, clickonimage, SaveMtgoCollectionToCSV, download_files, analyze_historic, analyze_best_and_worst_trades, refresh_database, refresh_database2, query_card_history
-import pyautogui
-import pandas as pd
 
 trade_history_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/goatbots-trade-history.csv"
 
@@ -32,7 +30,7 @@ def query_database():
     result_text.delete(1.0, tk.END)
     result_text.insert(tk.END, result)
 
-# Colors for dark theme
+
 bg_color = "#2e2e2e"
 fg_color = "#d3d3d3"
 button_bg_color = "#3e3e3e"
