@@ -1,5 +1,5 @@
 Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
-"Event Ticket",1,1,Common,ETK,,No,No,0
+"Event Ticket",15,1,Common,ETK,,No,No,0
 "Island",1,239,Promo,PRM,24/1158,No,No,0
 "Plains",2,255,Promo,PRM,22/1158,No,No,0
 "Forest",1,259,Promo,PRM,34/1158,No,No,0
@@ -212,12 +212,13 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Deepwood Ghoul",2,19177,Common,8ED,127/350,No,No,0
 "Bribery",1,19179,Rare,8ED,64/350,No,No,0
 "Bribery",1,19180,Rare,8ED,64/350,Yes,No,0
-"Natural Affinity",2,19181,Rare,8ED,269/350,No,No,0
+"Natural Affinity",3,19181,Rare,8ED,269/350,No,No,0
 "Coastal Piracy",1,19187,Rare,8ED,67/350,No,No,0
 "Two-Headed Dragon",1,19189,Rare,8ED,229/350,No,No,0
 "Mountain",1,19191,Land,8ED,346/350,No,No,0
 "Vicious Hunger",1,19201,Common,8ED,171/350,No,No,0
 "Spineless Thug",1,19209,Common,8ED,166/350,No,No,0
+"Rhox",1,19211,Rare,8ED,277/350,No,No,0
 "Rhox",1,19212,Rare,8ED,277/350,Yes,No,0
 "Coastal Hornclaw",2,19215,Common,8ED,66/350,No,No,0
 "Ridgeline Rager",1,19223,Common,8ED,215/350,No,No,0
@@ -290,12 +291,13 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sage of Lat-Nam",1,19566,Rare,8ED,97/350,Yes,No,0
 "Grave Pact",1,19575,Rare,8ED,137/350,No,No,0
 "Grave Pact",1,19576,Rare,8ED,137/350,Yes,No,0
-"Phyrexian Arena",1,19577,Rare,8ED,152/350,No,No,0
+"Phyrexian Arena",2,19577,Rare,8ED,152/350,No,No,0
 "Cinder Wall",1,19579,Common,8ED,182/350,No,No,0
 "Blood Moon",3,19587,Rare,8ED,178/350,No,No,0
 "Horned Troll",1,19591,Common,8ED,257/350,No,No,0
 "Giant Badger",1,19595,Common,8ED,253/350,No,No,0
 "Fungusaur",1,19597,Rare,8ED,250/350,No,No,0
+"Skull of Orm",1,19611,Rare,8ED,313/350,No,No,0
 "Skull of Orm",1,19612,Rare,8ED,313/350,Yes,No,0
 "Avatar of Hope",2,19625,Rare,8ED,4/350,No,No,0
 "Lhurgoyf",1,19627,Rare,8ED,259/350,No,No,0
@@ -336,6 +338,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Thoughtcast",1,19787,Common,MRD,54/306,No,No,0
 "Flayed Nim",1,19791,Uncommon,MRD,65/306,No,No,0
 "Clockwork Vorrac",1,19809,Uncommon,MRD,156/306,No,No,0
+"Luminous Angel",1,19815,Rare,MRD,15/306,No,No,0
 "Spoils of the Vault",4,19821,Rare,MRD,78/306,No,No,0
 "Mindslaver",1,19828,Rare,MRD,206/306,Yes,No,0
 "Bonesplitter",2,19829,Common,MRD,146/306,No,No,0
@@ -426,6 +429,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Vulshok War Boar",1,20313,Uncommon,DST,72/165,No,No,0
 "Furnace Dragon",4,20319,Rare,DST,62/165,No,No,0
 "Tears of Rage",1,20321,Uncommon,DST,70/165,No,No,0
+"Soulscour",1,20353,Rare,DST,14/165,No,No,0
 "Magnetic Flux",1,20355,Common,DST,25/165,No,No,0
 "Echoing Truth",1,20363,Common,DST,21/165,No,No,0
 "Echoing Courage",1,20365,Common,DST,74/165,No,No,0
@@ -465,7 +469,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Lich's Tomb",1,20619,Rare,DST,128/165,No,No,0
 "Qumulox",1,20632,Uncommon,5DN,35/165,No,No,0
 "Plunge into Darkness",5,20644,Rare,5DN,57/165,No,No,0
-"Helm of Kaldra",2,20662,Rare,5DN,131/165,No,No,0
+"Helm of Kaldra",3,20662,Rare,5DN,131/165,No,No,0
 "Leonin Squire",1,20674,Common,5DN,9/165,No,No,0
 "Fist of Suns",1,20684,Rare,5DN,123/165,No,No,0
 "Possessed Portal",2,20686,Rare,5DN,144/165,No,No,0
@@ -481,6 +485,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Salvaging Station",2,20788,Rare,5DN,148/165,No,No,0
 "Doubling Cube",4,20792,Rare,5DN,116/165,No,No,0
 "Eon Hub",5,20804,Rare,5DN,120/165,No,No,0
+"Rite of Passage",1,20808,Rare,5DN,91/165,No,No,0
 "Goblin Brawler",1,20812,Common,5DN,66/165,No,No,0
 "Cranial Plating",4,20824,Common,5DN,113/165,No,No,0
 "Sparring Collar",1,20826,Common,5DN,154/165,No,No,0
@@ -501,7 +506,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Skullcage",1,20942,Uncommon,5DN,151/165,No,No,0
 "Lantern of Insight",1,20944,Uncommon,5DN,135/165,No,No,0
 "Serum Visions",4,20956,Common,5DN,36/165,No,No,0
-"Marrow-Gnawer",1,20977,Rare,CHK,124/306,No,No,0
+"Marrow-Gnawer",2,20977,Rare,CHK,124/306,No,No,0
 "Field of Reality",1,20987,Common,CHK,60/306,No,No,0
 "Soulless Revival",2,20991,Common,CHK,144/306,No,No,0
 "Befoul",1,20993,Common,CHK,102/306,No,No,0
@@ -555,7 +560,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Pull Under",2,21265,Common,CHK,137/306,No,No,0
 "Myojin of Life's Web",2,21269,Rare,CHK,229/306,No,No,0
 "Orbweaver Kumo",2,21271,Uncommon,CHK,231/306,No,No,0
-"Night of Souls' Betrayal",1,21287,Rare,CHK,133/306,No,No,0
+"Dosan the Falling Leaf",1,21277,Rare,CHK,205/306,No,No,0
+"Night of Souls' Betrayal",2,21287,Rare,CHK,133/306,No,No,0
 "Plains",1,21289,Land,CHK,287/306,No,No,0
 "Island",8,21291,Land,CHK,291/306,No,No,0
 "Forest",1,21293,Land,CHK,303/306,No,No,0
@@ -574,6 +580,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mystic Restraints",2,21393,Common,CHK,76/306,No,No,0
 "Tranquil Garden",2,21397,Uncommon,CHK,284/306,No,No,0
 "Vassal's Duty",1,21399,Rare,CHK,48/306,No,No,0
+"Takeno, Samurai General",1,21401,Rare,CHK,46/306,No,No,0
 "Eiganjo Castle",1,21405,Rare,CHK,275/306,No,No,0
 "Isamaru, Hound of Konda",4,21409,Rare,CHK,19/306,No,No,0
 "Hair-Strung Koto",1,21413,Rare,CHK,252/306,No,No,0
@@ -619,7 +626,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Baku Altar",1,21695,Rare,BOK,152/165,No,No,0
 "Goblin Cohort",4,21707,Common,BOK,106/165,No,No,0
 "Blazing Shoal",5,21713,Rare,BOK,96/165,No,No,0
-"Kira, Great Glass-Spinner",3,21715,Rare,BOK,40/165,No,No,0
+"Kira, Great Glass-Spinner",4,21715,Rare,BOK,40/165,No,No,0
 "Petalmane Baku",3,21723,Common,BOK,139/165,No,No,0
 "Kami of Tattered Shoji",1,21727,Common,BOK,11/165,No,No,0
 "Hero's Demise",2,21731,Rare,BOK,68/165,No,No,0
@@ -627,7 +634,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Clash of Realities",2,21741,Rare,BOK,97/165,No,No,0
 "Split-Tail Miko",1,21753,Common,BOK,23/165,No,No,0
 "Phantom Wings",1,21755,Common,BOK,46/165,No,No,0
-"Ornate Kanzashi",1,21763,Rare,BOK,157/165,No,No,0
+"Ornate Kanzashi",2,21763,Rare,BOK,157/165,No,No,0
 "Veil of Secrecy",1,21767,Common,BOK,59/165,No,No,0
 "Day of Destiny",1,21769,Rare,BOK,1/165,No,No,0
 "Yomiji, Who Bars the Way",1,21777,Rare,BOK,30/165,No,No,0
@@ -657,7 +664,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Minamo's Meddling",2,21899,Common,BOK,42/165,No,No,0
 "Genju of the Realm",1,21901,Rare,BOK,151/165,No,No,0
 "Patron of the Moon",1,21905,Rare,BOK,45/165,No,No,0
-"Pain's Reward",2,21932,Rare,SOK,85/165,No,No,0
+"Pain's Reward",3,21932,Rare,SOK,85/165,No,No,0
 "Michiko Konda, Truth Seeker",1,21940,Rare,SOK,19/165,No,No,0
 "Promised Kannushi",1,21958,Common,SOK,141/165,No,No,0
 "Kaho, Minamo Historian",2,21972,Rare,SOK,41/165,No,No,0
@@ -704,6 +711,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Firebreathing",2,22263,Common,9ED,181/350,No,No,0
 "Maro",1,22266,Rare,9ED,254/350,Yes,No,0
 "Pacifism",2,22271,Common,9ED,31/350,No,No,0
+"Polymorph",2,22273,Rare,9ED,90/350,No,No,0
 "Polymorph",1,22274,Rare,9ED,90/350,Yes,No,0
 "Coercion",1,22277,Common,9ED,118/350,No,No,0
 "King Cheetah",2,22281,Uncommon,9ED,250/350,No,No,0
@@ -823,7 +831,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Silklash Spider",1,22724,Rare,9ED,271/350,Yes,No,0
 "Fugitive Wizard",1,22737,Common,9ED,80/350,No,No,0
 "Seedborn Muse",1,22741,Rare,9ED,270/350,No,No,0
-"Final Punishment",1,22753,Rare,9ED,131/350,No,No,0
+"Final Punishment",2,22753,Rare,9ED,131/350,No,No,0
 "Master Decoy",1,22757,Common,9ED,27/350,No,No,0
 "Holy Day",3,22759,Common,9ED,18/350,No,No,0
 "Flight",2,22763,Common,9ED,79/350,No,No,0
@@ -958,7 +966,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Hunted Lammasu",1,23440,Rare,RAV,22/306,No,No,0
 "Last Gasp",1,23446,Common,RAV,93/306,No,No,0
 "Hex",1,23448,Rare,RAV,89/306,No,No,0
-"Razia, Boros Archangel",2,23450,Rare,RAV,223/306,No,No,0
+"Razia, Boros Archangel",3,23450,Rare,RAV,223/306,No,No,0
 "Chord of Calling",4,23454,Rare,RAV,156/306,No,No,0
 "Sunhome, Fortress of the Legion",1,23456,Uncommon,RAV,282/306,No,No,0
 "Golgari Germination",1,23460,Uncommon,RAV,209/306,No,No,0
@@ -1085,6 +1093,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Guardian of the Guildpact",2,24303,Common,DIS,10/180,No,No,0
 "Protean Hulk",1,24305,Rare,DIS,90/180,No,No,0
 "Aurora Eidolon",2,24313,Common,DIS,1/180,No,No,0
+"Rakdos Pit Dragon",1,24319,Rare,DIS,69/180,No,No,0
 "Sprouting Phytohydra",2,24329,Rare,DIS,95/180,No,No,0
 "Wakestone Gargoyle",1,24333,Rare,DIS,21/180,No,No,0
 "Cytoplast Manipulator",2,24349,Rare,DIS,23/180,No,No,0
@@ -1103,6 +1112,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Heidar, Rimewind Master",2,24569,Rare,CSP,36/155,No,No,0
 "Ursine Fylgja",1,24573,Uncommon,CSP,22/155,No,No,0
 "Blizzard Specter",3,24575,Uncommon,CSP,126/155,No,No,0
+"Dark Depths",1,24583,Rare,CSP,145/155,No,No,0
 "Arctic Flats",1,24589,Uncommon,CSP,143/155,No,No,0
 "Martyr of Frost",3,24599,Common,CSP,40/155,No,No,0
 "Martyr of Ashes",2,24605,Common,CSP,92/155,No,No,0
@@ -1260,7 +1270,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Ashcoat Bear",3,25693,Common,TSP,190/301,No,No,0
 "Ib Halfheart, Goblin Tactician",1,25699,Rare,TSP,163/301,No,No,0
 "Cyclopean Giant",3,25705,Common,TSP,100/301,No,No,0
-"Wurmcalling",1,25709,Rare,TSP,234/301,No,No,0
+"Wurmcalling",2,25709,Rare,TSP,234/301,No,No,0
 "Assassinate",2,25711,Common,TSP,95/301,No,No,0
 "Triskelavus",1,25713,Rare,TSP,266/301,No,No,0
 "Thallid Germinator",1,25719,Common,TSP,225/301,No,No,0
@@ -1394,6 +1404,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Dust Corona",1,26508,Common,PLC,97/165,Yes,No,0
 "Mana Tithe",1,26511,Common,PLC,25/165,No,No,0
 "Sulfur Elemental",2,26513,Uncommon,PLC,108/165,No,No,0
+"Boom/Bust",1,26515,Rare,PLC,,No,No,0
 "Dead/Gone",4,26517,Common,PLC,,No,No,0
 "Rough/Tumble",2,26527,Uncommon,PLC,,No,No,0
 "Wild Pair",1,26545,Rare,PLC,144/165,No,No,0
@@ -1449,6 +1460,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Venser's Diffusion",2,26884,Common,FUT,47/180,No,No,0
 "Mesmeric Sliver",1,26892,Common,FUT,53/180,No,No,0
 "Nihilith",3,26896,Rare,FUT,72/180,No,No,0
+"Korlash, Heir to Blackblade",1,26900,Rare,FUT,87/180,No,No,0
 "Patrician's Scorn",2,26904,Common,FUT,29/180,No,No,0
 "Sarcomite Myr",3,26912,Common,FUT,56/180,No,No,0
 "Pact of the Titan",8,26918,Rare,FUT,103/180,No,No,0
@@ -1594,7 +1606,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Nightshade Stinger",1,28273,Common,LRW,132/301,No,No,0
 "Nova Chaser",1,28287,Rare,LRW,187/301,No,No,0
 "Heat Shimmer",1,28289,Rare,LRW,175/301,No,No,0
-"Tarfire",3,28299,Common,LRW,194/301,No,No,0
+"Tarfire",4,28299,Common,LRW,194/301,No,No,0
 "Heal the Scars",1,28311,Common,LRW,217/301,No,No,0
 "Rootgrapple",1,28323,Common,LRW,234/301,No,No,0
 "Fertile Ground",1,28325,Common,LRW,211/301,No,No,0
@@ -1610,6 +1622,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Makeshift Mannequin",2,28361,Uncommon,LRW,124/301,No,No,0
 "Scarred Vinebreeder",1,28363,Common,LRW,138/301,No,No,0
 "Wings of Velis Vel",2,28367,Common,LRW,97/301,No,No,0
+"Ashling the Pilgrim",1,28369,Rare,LRW,149/301,No,No,0
 "Hearthcage Giant",1,28383,Uncommon,LRW,174/301,No,No,0
 "Neck Snap",1,28387,Common,LRW,32/301,No,No,0
 "Lignify",1,28395,Common,LRW,228/301,No,No,0
@@ -1619,13 +1632,14 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Scion of Oona",5,28427,Rare,LRW,83/301,No,No,0
 "Hostility",1,28431,Rare,LRW,176/301,No,No,0
 "Cairn Wanderer",1,28435,Rare,LRW,105/301,No,No,0
+"Wanderwine Prophets",1,28441,Rare,LRW,95/301,No,No,0
 "Gaddock Teeg",3,28445,Rare,LRW,248/301,No,No,0
 "Arbiter of Knollridge",2,28447,Rare,LRW,2/301,No,No,0
 "Shapesharer",2,28451,Rare,LRW,85/301,No,No,0
 "Garruk Wildspeaker",2,28453,Rare,LRW,213/301,No,No,0
 "Dolmen Gate",1,28455,Rare,LRW,256/301,No,No,0
 "Purity",1,28461,Rare,LRW,37/301,No,No,0
-"Brion Stoutarm",3,28465,Rare,LRW,246/301,No,No,0
+"Brion Stoutarm",4,28465,Rare,LRW,246/301,No,No,0
 "Horde of Notions",1,28467,Rare,LRW,249/301,No,No,0
 "Vigor",1,28471,Rare,LRW,240/301,No,No,0
 "Amoeboid Changeling",2,28485,Common,LRW,51/301,No,No,0
@@ -1694,7 +1708,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Frogtosser Banneret",4,29020,Common,MOR,64/150,No,No,0
 "Bitterblossom",2,29038,Rare,MOR,58/150,No,No,0
 "Pulling Teeth",2,29052,Common,MOR,75/150,No,No,0
-"Mutavault",2,29074,Rare,MOR,148/150,No,No,0
+"Mutavault",3,29074,Rare,MOR,148/150,No,No,0
 "Weed-Pruner Poplar",1,29088,Common,MOR,83/150,No,No,0
 "Thieves' Fortune",1,29090,Uncommon,MOR,54/150,No,No,0
 "Dewdrop Spy",1,29092,Common,MOR,30/150,No,No,0
@@ -1765,7 +1779,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mana Reflection",1,29497,Rare,SHM,122/301,No,No,0
 "Fracturing Gust",1,29505,Rare,SHM,227/301,No,No,0
 "Puppeteer Clique",2,29507,Rare,SHM,75/301,No,No,0
-"Graven Cairns",1,29511,Rare,SHM,272/301,No,No,0
+"Graven Cairns",2,29511,Rare,SHM,272/301,No,No,0
 "Tyrannize",1,29515,Rare,SHM,201/301,No,No,0
 "Smolder Initiate",1,29523,Common,SHM,78/301,No,No,0
 "Sygg, River Cutthroat",1,29525,Rare,SHM,176/301,No,No,0
@@ -1785,7 +1799,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Gravelgill Duo",1,29629,Common,SHM,165/301,No,No,0
 "Dire Undercurrents",4,29633,Rare,SHM,159/301,No,No,0
 "Merrow Wavebreakers",1,29641,Common,SHM,44/301,No,No,0
-"Faerie Macabre",1,29647,Common,SHM,66/301,No,No,0
 "Dramatic Entrance",5,29681,Rare,SHM,111/301,No,No,0
 "Runed Halo",5,29683,Rare,SHM,21/301,No,No,0
 "Sickle Ripper",1,29685,Common,SHM,77/301,No,No,0
@@ -1808,7 +1821,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Oracle of Nectars",1,29879,Rare,SHM,233/301,No,No,0
 "Archon of Justice",1,29940,Rare,EVE,1/180,No,No,0
 "Nip Gwyllion",4,29948,Common,EVE,92/180,No,No,0
-"Helix Pinnacle",1,29950,Rare,EVE,68/180,No,No,0
+"Helix Pinnacle",2,29950,Rare,EVE,68/180,No,No,0
 "Divinity of Pride",2,29952,Rare,EVE,86/180,No,No,0
 "Slippery Bogle",4,29954,Common,EVE,160/180,No,No,0
 "Unmake",4,29966,Common,EVE,96/180,No,No,0
@@ -1828,7 +1841,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Cenn's Enlistment",1,30118,Common,EVE,3/180,No,No,0
 "Needle Specter",2,30124,Rare,EVE,39/180,No,No,0
 "Flooded Grove",2,30136,Rare,EVE,177/180,No,No,0
-"Spitting Image",2,30146,Rare,EVE,162/180,No,No,0
+"Spitting Image",3,30146,Rare,EVE,162/180,No,No,0
 "Fiery Bombardment",2,30158,Rare,EVE,52/180,No,No,0
 "Sanity Grinding",5,30164,Rare,EVE,29/180,No,No,0
 "Pyrrhic Revival",2,30186,Rare,EVE,93/180,No,No,0
@@ -1836,6 +1849,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Wake Thrasher",2,30196,Rare,EVE,31/180,No,No,0
 "Thunderblust",2,30202,Rare,EVE,63/180,No,No,0
 "Nightmare Incursion",1,30206,Rare,EVE,40/180,No,No,0
+"Crackleburr",1,30214,Rare,EVE,100/180,No,No,0
 "Leering Emblem",1,30216,Rare,EVE,171/180,No,No,0
 "Sapling of Colfenor",1,30218,Rare,EVE,128/180,No,No,0
 "Altar Golem",1,30220,Rare,EVE,166/180,No,No,0
@@ -1927,7 +1941,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mycoloth",2,31333,Rare,ALA,140/249,No,No,0
 "Skill Borrower",1,31341,Rare,ALA,56/249,No,No,0
 "Death Baron",2,31345,Rare,ALA,70/249,No,No,0
-"Ad Nauseam",5,31356,Rare,ALA,63/249,No,No,0
+"Ad Nauseam",6,31356,Rare,ALA,63/249,No,No,0
 "Vindicate",2,31391,Rare,PRM,111/1158,No,No,0
 "Mind Stone",3,31405,Uncommon,PRM,72/1158,No,No,0
 "Mind Stone",1,31406,Uncommon,PRM,72/1158,Yes,No,0
@@ -1936,6 +1950,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Thirst for Knowledge",4,31445,Uncommon,PRM,100/1158,No,No,0
 "Fire/Ice",4,31497,Uncommon,PRM,,No,No,0
 "Ancestral Vision",1,31639,Rare,DD2,21/62,No,No,0
+"Inkwell Leviathan",1,31689,Rare,CON,30/145,No,No,0
 "Cliffrunner Behemoth",1,31697,Rare,CON,79/145,No,No,0
 "Scepter of Dominance",1,31709,Rare,CON,17/145,No,No,0
 "Parasitic Strix",1,31714,Common,CON,32/145,Yes,No,0
@@ -1945,7 +1960,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Scepter of Fugue",1,31765,Rare,CON,53/145,No,No,0
 "Magister Sphinx",2,31787,Rare,CON,116/145,No,No,0
 "Blood Tyrant",1,31795,Rare,CON,99/145,No,No,0
-"Thornling",1,31809,Mythic Rare,CON,95/145,No,No,0
+"Thornling",2,31809,Mythic Rare,CON,95/145,No,No,0
 "Obelisk of Alara",1,31825,Rare,CON,140/145,No,No,0
 "Scepter of Insight",1,31857,Rare,CON,33/145,No,No,0
 "Maelstrom Archangel",1,31871,Mythic Rare,CON,115/145,No,No,0
@@ -1981,6 +1996,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Wargate",1,32358,Rare,ARB,129/145,No,No,0
 "Thraximundar",1,32360,Mythic Rare,ARB,113/145,No,No,0
 "Thought Hemorrhage",1,32362,Rare,ARB,47/145,No,No,0
+"Sovereigns of Lost Alara",1,32366,Rare,ARB,12/145,No,No,0
 "Aven Mimeomancer",3,32380,Rare,ARB,2/145,No,No,0
 "Spellbound Dragon",1,32384,Rare,ARB,90/145,No,No,0
 "Lavalanche",2,32386,Rare,ARB,118/145,No,No,0
@@ -2208,6 +2224,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "River Boa",4,34786,Uncommon,ZEN,180/249,No,No,0
 "Quest for the Holy Relic",2,34788,Uncommon,ZEN,33/249,No,No,0
 "Quest for Pure Flame",1,34790,Uncommon,ZEN,144/249,No,No,0
+"Summoning Trap",1,34794,Rare,ZEN,184/249,No,No,0
 "Lavaball Trap",2,34796,Rare,ZEN,135/249,No,No,0
 "Needlebite Trap",1,34798,Uncommon,ZEN,105/249,No,No,0
 "Ravenous Trap",2,34810,Uncommon,ZEN,109/249,No,No,0
@@ -2262,12 +2279,14 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Explore",4,35577,Common,WWK,99/145,No,No,0
 "Tectonic Edge",3,35589,Uncommon,WWK,145/145,No,No,0
 "Ricochet Trap",4,35593,Uncommon,WWK,87/145,No,No,0
-"Selective Memory",2,35597,Rare,WWK,37/145,No,No,0
+"Selective Memory",6,35597,Rare,WWK,37/145,No,No,0
 "Marsh Threader",1,35621,Common,WWK,14/145,No,No,0
 "Amulet of Vigor",4,35633,Rare,WWK,121/145,No,No,0
 "Chain Reaction",1,35637,Rare,WWK,74/145,No,No,0
 "Celestial Colonnade",2,35639,Rare,WWK,133/145,No,No,0
+"Jwari Shapeshifter",1,35649,Rare,WWK,32/145,No,No,0
 "Loam Lion",4,35655,Uncommon,WWK,13/145,No,No,0
+"Kazuul, Tyrant of the Cliffs",1,35661,Rare,WWK,84/145,No,No,0
 "Kazuul, Tyrant of the Cliffs",1,35662,Rare,WWK,84/145,Yes,No,0
 "Lavaclaw Reaches",1,35665,Rare,WWK,139/145,No,No,0
 "Mordant Dragon",2,35671,Rare,WWK,85/145,No,No,0
@@ -2280,8 +2299,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Nature's Claim",2,35699,Common,WWK,108/145,No,No,0
 "Guardian Zendikon",1,35701,Common,WWK,6/145,No,No,0
 "Terra Eternal",2,35705,Rare,WWK,22/145,No,No,0
+"Stone Idol Trap",1,35707,Rare,WWK,93/145,No,No,0
 "Lodestone Golem",2,35709,Rare,WWK,127/145,No,No,0
 "Talus Paladin",1,35723,Rare,WWK,21/145,No,No,0
+"Quest for Ula's Temple",1,35731,Rare,WWK,35/145,No,No,0
 "Seer's Sundial",1,35733,Rare,WWK,130/145,No,No,0
 "Iona's Judgment",1,35747,Common,WWK,8/145,No,No,0
 "Battle Hurda",2,35753,Common,WWK,4/145,No,No,0
@@ -2300,6 +2321,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Muscle Sliver",4,36034,Common,PRM,265/1158,No,No,0
 "Capsize",1,36041,Common,PRM,232/1158,Yes,No,0
 "Faerie Conclave",1,36091,Uncommon,PRM,401/1158,Yes,No,0
+"Gaea's Cradle",1,36112,Rare,PRM,476/1158,No,No,0
 "Path to Exile",3,36175,Uncommon,PRM,293/1158,Yes,No,0
 "Garruk Wildspeaker",2,36178,Mythic Rare,PRM,501/1158,No,No,0
 "Mulldrifter",1,36191,Common,PRM,222/1158,Yes,No,0
@@ -2324,7 +2346,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Ancient Stirrings",4,36374,Common,ROE,174/248,No,No,0
 "Naturalize",1,36376,Common,ROE,199/248,No,No,0
 "Keening Stone",1,36380,Rare,ROE,219/248,No,No,0
-"Magmaw",2,36398,Rare,ROE,158/248,No,No,0
+"Magmaw",3,36398,Rare,ROE,158/248,No,No,0
 "Rage Nimbus",1,36400,Rare,ROE,160/248,No,No,0
 "Unified Will",4,36404,Uncommon,ROE,92/248,No,No,0
 "Gravitational Shift",1,36406,Rare,ROE,69/248,No,No,0
@@ -2378,7 +2400,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Gravity Well",1,36678,Uncommon,ROE,185/248,No,No,0
 "Oust",4,36682,Uncommon,ROE,40/248,No,No,0
 "Spider Umbra",4,36684,Common,ROE,208/248,No,No,0
-"Devastating Summons",8,36688,Rare,ROE,140/248,No,No,0
+"Devastating Summons",9,36688,Rare,ROE,140/248,No,No,0
 "Repel the Darkness",1,36694,Common,ROE,42/248,No,No,0
 "Recurring Insight",1,36698,Rare,ROE,82/248,No,No,0
 "Sea Gate Oracle",3,36700,Common,ROE,85/248,No,No,0
@@ -2471,6 +2493,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Squadron Hawk",4,37522,Common,M11,33/249,No,No,0
 "Back to Nature",1,37526,Uncommon,M11,164/249,No,No,0
 "Back to Nature",1,37527,Uncommon,M11,164/249,Yes,No,0
+"Captivating Vampire",1,37534,Rare,M11,87/249,No,No,0
 "Traumatize",1,37536,Rare,M11,77/249,No,No,0
 "Royal Assassin",2,37540,Rare,M11,116/249,No,No,0
 "Vulshok Berserker",1,37548,Common,M11,159/249,No,No,0
@@ -2532,6 +2555,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sylvok Lifestaff",3,38173,Common,SOM,209/249,No,No,0
 "Strata Scythe",1,38179,Rare,SOM,206/249,No,No,0
 "Putrefax",1,38181,Rare,SOM,126/249,No,No,0
+"Quicksilver Gargantuan",1,38183,Mythic Rare,SOM,39/249,No,No,0
 "Wurmcoil Engine",2,38185,Mythic Rare,SOM,223/249,No,No,0
 "Genesis Wave",3,38189,Rare,SOM,122/249,No,No,0
 "Grand Architect",4,38193,Rare,SOM,33/249,No,No,0
@@ -2607,7 +2631,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Razorfield Rhino",1,39295,Common,MBS,127/155,No,No,0
 "Pierce Strider",1,39303,Uncommon,MBS,123/155,No,No,0
 "Viridian Claw",1,39309,Uncommon,MBS,143/155,No,No,0
-"Phyrexian Hydra",2,39311,Rare,MBS,85/155,No,No,0
+"Phyrexian Hydra",3,39311,Rare,MBS,85/155,No,No,0
 "Phyrexian Crusader",6,39319,Rare,MBS,50/155,No,No,0
 "Steel Sabotage",4,39323,Common,MBS,33/155,No,No,0
 "Titan Forge",1,39327,Rare,MBS,141/155,No,No,0
@@ -2637,13 +2661,13 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Hexplate Golem",1,39461,Common,MBS,109/155,No,No,0
 "Creeping Corrosion",2,39485,Rare,MBS,78/155,No,No,0
 "Dross Ripper",1,39490,Common,MBS,106/155,Yes,No,0
-"Knowledge Pool",5,39493,Rare,MBS,111/155,No,No,0
+"Knowledge Pool",6,39493,Rare,MBS,111/155,No,No,0
 "Bonehoard",2,39503,Rare,MBS,100/155,No,No,0
 "Tangle Hulk",1,39505,Common,MBS,139/155,No,No,0
 "Shimmer Myr",2,39507,Rare,MBS,129/155,No,No,0
 "Thrun, the Last Troll",2,39517,Mythic Rare,MBS,92/155,No,No,0
 "Hellkite Igniter",1,39519,Rare,MBS,65/155,No,No,0
-"Slagstorm",1,39523,Rare,MBS,75/155,No,No,0
+"Slagstorm",2,39523,Rare,MBS,75/155,No,No,0
 "Decimator Web",1,39525,Rare,MBS,105/155,No,No,0
 "Plains",1,39529,Land,MBS,146/155,No,No,0
 "Lumengrid Gargoyle",1,39531,Uncommon,MBS,112/155,No,No,0
@@ -2751,9 +2775,11 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Phantasmal Image",8,41369,Rare,M12,72/249,No,No,0
 "Garruk, Primal Hunter",2,41371,Mythic Rare,M12,174/249,No,No,0
 "Furyborn Hellkite",1,41373,Mythic Rare,M12,135/249,No,No,0
+"Rune-Scarred Demon",1,41385,Rare,M12,106/249,No,No,0
 "Grand Abolisher",1,41387,Rare,M12,19/249,No,No,0
 "Spirit Mantle",4,41395,Uncommon,M12,35/249,No,No,0
 "Vengeful Pharaoh",2,41401,Rare,M12,116/249,No,No,0
+"Dungrove Elder",1,41413,Rare,M12,171/249,No,No,0
 "Visions of Beyond",4,41423,Rare,M12,80/249,No,No,0
 "Personal Sanctuary",4,41431,Rare,M12,30/249,No,No,0
 "Phantasmal Bear",4,41439,Common,M12,70/249,No,No,0
@@ -2848,7 +2874,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Instigator Gang",2,42480,Rare,ISD,149a/264,No,No,0
 "Kindercatch",1,42484,Common,ISD,190/264,No,No,0
 "Bramblecrush",1,42488,Uncommon,ISD,172/264,No,No,0
-"Rooftop Storm",1,42492,Rare,ISD,71/264,No,No,0
+"Rooftop Storm",2,42492,Rare,ISD,71/264,No,No,0
 "Kruin Outlaw",1,42506,Rare,ISD,152a/264,No,No,0
 "Charmbreaker Devils",1,42510,Rare,ISD,134/264,No,No,0
 "Snapcaster Mage",1,42512,Rare,ISD,78/264,No,No,0
@@ -2931,7 +2957,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sever the Bloodline",1,42706,Rare,ISD,115/264,No,No,0
 "Cackling Counterpart",1,42708,Rare,ISD,46/264,No,No,0
 "Divine Reckoning",2,42710,Rare,ISD,10/264,No,No,0
-"Past in Flames",3,42712,Mythic Rare,ISD,155/264,No,No,0
+"Past in Flames",4,42712,Mythic Rare,ISD,155/264,No,No,0
 "Creeping Renaissance",1,42714,Rare,ISD,174/264,No,No,0
 "Plains",2,42718,Land,ISD,252/264,No,No,0
 "Plains",1,42720,Land,ISD,251/264,No,No,0
@@ -3024,11 +3050,13 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Bone to Ash",1,43413,Common,DKA,29/158,No,No,0
 "Falkenrath Aristocrat",2,43417,Mythic Rare,DKA,138/158,No,No,0
 "Flayer of the Hatebound",1,43425,Rare,DKA,89/158,No,No,0
+"Increasing Confusion",1,43431,Rare,DKA,41/158,No,No,0
 "Bar the Door",1,43435,Common,DKA,2/158,No,No,0
+"Sudden Disappearance",1,43445,Rare,DKA,23/158,No,No,0
 "Predator Ooze",1,43447,Rare,DKA,124/158,No,No,0
 "Increasing Devotion",2,43453,Rare,DKA,11/158,No,No,0
 "Young Wolf",4,43457,Common,DKA,134/158,No,No,0
-"Thalia, Guardian of Thraben",1,43469,Rare,DKA,24/158,No,No,0
+"Thalia, Guardian of Thraben",2,43469,Rare,DKA,24/158,No,No,0
 "Gather the Townsfolk",4,43475,Common,DKA,8/158,No,No,0
 "Nearheath Stalker",2,43477,Common,DKA,100/158,No,No,0
 "Mondronen Shaman",1,43481,Rare,DKA,98a/158,No,No,0
@@ -3056,6 +3084,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sigarda, Host of Herons",1,43933,Mythic Rare,AVR,210/244,No,No,0
 "Gisela, Blade of Goldnight",2,43935,Mythic Rare,AVR,209/244,No,No,0
 "Outwit",2,43955,Common,AVR,70/244,No,No,0
+"Malignus",1,43969,Mythic Rare,AVR,148/244,No,No,0
 "Restoration Angel",1,44009,Rare,AVR,32/244,No,No,0
 "Ghostly Flicker",4,44015,Common,AVR,57/244,No,No,0
 "Vanishment",1,44041,Uncommon,AVR,82/244,No,No,0
@@ -3074,7 +3103,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Burn at the Stake",2,44203,Rare,AVR,130/244,No,No,0
 "Predator's Gambit",2,44207,Common,AVR,117/244,No,No,0
 "Lone Revenant",1,44209,Rare,AVR,64/244,No,No,0
-"Somberwald Sage",2,44213,Rare,AVR,194/244,No,No,0
+"Somberwald Sage",3,44213,Rare,AVR,194/244,No,No,0
 "Tyrant of Discord",1,44225,Rare,AVR,162/244,No,No,0
 "Tibalt, the Fiend-Blooded",4,44235,Mythic Rare,AVR,161/244,No,No,0
 "Demonic Rising",1,44249,Rare,AVR,94/244,No,No,0
@@ -3102,7 +3131,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Phylactery Lich",4,45384,Rare,M13,104/249,No,No,0
 "Reverberate",1,45386,Rare,M13,145/249,No,No,0
 "Redirect",1,45396,Rare,M13,64/249,No,No,0
-"Wit's End",1,45406,Rare,M13,117/249,No,No,0
+"Wit's End",2,45406,Rare,M13,117/249,No,No,0
 "Garruk, Primal Hunter",1,45418,Mythic Rare,M13,174/249,No,No,0
 "Liliana of the Dark Realms",1,45428,Mythic Rare,M13,97/249,No,No,0
 "Jace, Memory Adept",1,45432,Mythic Rare,M13,56/249,No,No,0
@@ -3157,7 +3186,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Temple Garden",1,46501,Rare,RTR,248/274,No,No,0
 "Hallowed Fountain",4,46503,Rare,RTR,241/274,No,No,0
 "Blood Crypt",1,46505,Rare,RTR,238/274,No,No,0
-"Overgrown Tomb",4,46507,Rare,RTR,243/274,No,No,0
+"Overgrown Tomb",5,46507,Rare,RTR,243/274,No,No,0
 "Trostani, Selesnya's Voice",1,46553,Mythic Rare,RTR,206/274,No,No,0
 "Niv-Mizzet, Dracogenius",2,46561,Mythic Rare,RTR,183/274,No,No,0
 "Rakdos's Return",5,46565,Mythic Rare,RTR,188/274,No,No,0
@@ -3220,6 +3249,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Kingpin's Pet",3,47857,Common,GTC,173/249,No,No,0
 "Kingpin's Pet",1,47858,Common,GTC,173/249,Yes,No,0
 "Beckon Apparition",2,47869,Common,GTC,212/249,No,No,0
+"Gideon, Champion of Justice",1,47871,Mythic Rare,GTC,13/249,No,No,0
 "Foundry Champion",1,47885,Rare,GTC,165/249,No,No,0
 "Balustrade Spy",4,47889,Common,GTC,57/249,No,No,0
 "Blind Obedience",1,47897,Rare,GTC,6/249,No,No,0
@@ -3244,6 +3274,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Obzedat's Aid",1,48256,Rare,DGM,89/156,No,No,0
 "Blood Baron of Vizkopa",1,48270,Mythic Rare,DGM,57/156,No,No,0
 "Trait Doctoring",2,48278,Rare,DGM,18/156,No,No,0
+"Voice of Resurgence",4,48302,Mythic Rare,DGM,114/156,No,No,0
 "Skylasher",4,48304,Rare,DGM,49/156,No,No,0
 "Notion Thief",4,48332,Rare,DGM,88/156,No,No,0
 "Advent of the Wurm",2,48340,Rare,DGM,51/156,No,No,0
@@ -3277,7 +3308,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Pestermite",1,48677,Common,MMA,59/229,Yes,No,0
 "Earwig Squad",4,48754,Rare,MMA,82/229,No,No,0
 "Murderous Redcap",1,48766,Uncommon,MMA,192/229,No,No,0
-"Faerie Macabre",4,48768,Common,MMA,86/229,No,No,0
 "Raven's Crime",2,48784,Common,MMA,95/229,No,No,0
 "Raven's Crime",1,48785,Common,MMA,95/229,Yes,No,0
 "Executioner's Capsule",4,48800,Uncommon,MMA,83/229,No,No,0
@@ -3450,6 +3480,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Karametra's Favor",3,51657,Common,BNG,125/165,No,No,0
 "Gild",1,51681,Rare,BNG,73/165,No,No,0
 "Arbiter of the Ideal",1,51723,Rare,BNG,31/165,No,No,0
+"Tromokratis",1,51725,Rare,BNG,55/165,No,No,0
 "Satyr Firedancer",1,51729,Rare,BNG,108/165,No,No,0
 "Felhide Spiritbinder",1,51731,Rare,BNG,96/165,No,No,0
 "Forgestoker Dragon",2,51733,Rare,BNG,98/165,No,No,0
@@ -3727,6 +3758,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Statute of Denial",3,53518,Common,M15,79/269,No,No,0
 "Coral Barrier",3,53520,Common,M15,49/269,No,No,0
 "Paragon of New Dawns",2,53524,Uncommon,M15,23/269,No,No,0
+"Goblin Kaboomist",1,53526,Rare,M15,144/269,No,No,0
 "Polymorphist's Jest",3,53528,Rare,M15,75/269,No,No,0
 "Ephemeral Shields",3,53536,Common,M15,11/269,No,No,0
 "Aetherspouts",1,53542,Rare,M15,44/269,No,No,0
@@ -3749,8 +3781,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Triplicate Spirits",4,53614,Common,M15,40/269,No,No,0
 "Belligerent Sliver",2,53616,Uncommon,M15,129/269,No,No,0
 "Sliver Hive",5,53622,Rare,M15,247/269,No,No,0
+"Chasm Skulker",1,53628,Rare,M15,46/269,No,No,0
 "Blood Host",2,53630,Uncommon,M15,87/269,No,No,0
 "Stain the Mind",3,53634,Rare,M15,117/269,No,No,0
+"Scuttling Doom Engine",1,53636,Rare,M15,229/269,No,No,0
 "Glacial Crasher",3,53640,Common,M15,57/269,No,No,0
 "Quickling",4,53642,Uncommon,M15,76/269,No,No,0
 "Invasive Species",3,53644,Common,M15,181/269,No,No,0
@@ -3847,6 +3881,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Feed the Clan",2,54390,Common,KTK,132/269,No,No,0
 "Become Immense",3,54400,Uncommon,KTK,130/269,No,No,0
 "Mardu Ascendancy",1,54430,Rare,KTK,185/269,No,No,0
+"Crackling Doom",1,54432,Rare,KTK,171/269,No,No,0
 "Mantis Rider",4,54434,Rare,KTK,184/269,No,No,0
 "Flying Crane Technique",2,54438,Rare,KTK,176/269,No,No,0
 "Kheru Lich Lord",1,54444,Rare,KTK,182/269,No,No,0
@@ -3858,6 +3893,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Blossoming Sands",3,54472,Common,KTK,231/269,No,No,0
 "Ivorytusk Fortress",2,54474,Rare,KTK,179/269,No,No,0
 "Pearl Lake Ancient",2,54482,Mythic Rare,KTK,49/269,No,No,0
+"Goblin Bombardment",4,54545,Promo,PRM,/1158,No,No,0
 "Timberwatch Elf",3,55061,Common,C14,220/337,No,No,0
 "Wellwisher",1,55227,Common,C14,223/337,No,No,0
 "Reach of Shadows",1,55332,Common,FRF,81/185,No,No,0
@@ -3926,7 +3962,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Hidden Dragonslayer",3,55944,Rare,DTK,23/264,No,No,0
 "Salt Road Quartermasters",1,55950,Uncommon,DTK,199/264,No,No,0
 "Great Teacher's Decree",1,55954,Uncommon,DTK,21/264,No,No,0
-"Foul Renewal",2,55956,Rare,DTK,101/264,No,No,0
+"Foul Renewal",3,55956,Rare,DTK,101/264,No,No,0
 "Artful Maneuver",1,55960,Common,DTK,4/264,No,No,0
 "Keeper of the Lens",1,55962,Common,DTK,240/264,No,No,0
 "Silumgar Assassin",2,55966,Rare,DTK,121/264,No,No,0
@@ -3945,7 +3981,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Epic Confrontation",4,56046,Common,DTK,185/264,No,No,0
 "Dragonlord Ojutai",2,56048,Mythic Rare,DTK,219/264,No,No,0
 "Zurgo Bellstriker",4,56050,Rare,DTK,169/264,No,No,0
-"Profound Journey",1,56056,Rare,DTK,30/264,No,No,0
+"Profound Journey",2,56056,Rare,DTK,30/264,No,No,0
 "Icefall Regent",1,56064,Rare,DTK,58/264,No,No,0
 "Scaleguard Sentinels",1,56068,Uncommon,DTK,201/264,No,No,0
 "Sibsig Icebreakers",1,56072,Common,DTK,119/264,No,No,0
@@ -4012,7 +4048,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Glaring Aegis",1,56376,Common,DTK,18/264,No,No,0
 "Avatar of the Resolute",1,56386,Rare,DTK,175/264,No,No,0
 "Anticipate",4,56388,Common,DTK,45/264,No,No,0
-"Commune with Lava",6,56392,Rare,DTK,131/264,No,No,0
+"Commune with Lava",7,56392,Rare,DTK,131/264,No,No,0
 "Circle of Elders",2,56396,Uncommon,DTK,176/264,No,No,0
 "Dragonlord's Prerogative",1,56398,Rare,DTK,52/264,No,No,0
 "Qarsi Sadist",2,56400,Common,DTK,113/264,No,No,0
@@ -4148,9 +4184,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Artificer's Epiphany",3,57894,Common,ORI,45/272,No,No,0
 "Talent of the Telepath",1,57898,Rare,ORI,78/272,No,No,0
 "Soulblade Djinn",1,57900,Rare,ORI,75/272,No,No,0
+"Thopter Spy Network",1,57906,Rare,ORI,79/272,No,No,0
 "Harbinger of the Tides",4,57912,Rare,ORI,58/272,No,No,0
 "Day's Undoing",1,57924,Mythic Rare,ORI,51/272,No,No,0
-"Liliana, Heretical Healer",1,57940,Mythic Rare,ORI,106a/272,No,No,0
+"Liliana, Heretical Healer",2,57940,Mythic Rare,ORI,106a/272,No,No,0
 "Tainted Remedy",1,57952,Rare,ORI,120/272,No,No,0
 "Despoiler of Souls",1,57954,Rare,ORI,93/272,No,No,0
 "Touch of Moonglove",3,57956,Common,ORI,123/272,No,No,0
@@ -4184,6 +4221,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mage-Ring Responder",3,58120,Rare,ORI,232/272,No,No,0
 "Sigil of Valor",1,58124,Uncommon,ORI,239/272,No,No,0
 "Veteran's Sidearm",1,58132,Common,ORI,242/272,No,No,0
+"Sword of the Animist",1,58134,Rare,ORI,240/272,No,No,0
 "Ramroller",2,58138,Uncommon,ORI,237/272,No,No,0
 "Pyromancer's Goggles",1,58140,Mythic Rare,ORI,236/272,No,No,0
 "Mountain",1,58146,Land,ORI,265/272,No,No,0
@@ -4200,7 +4238,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Scythe Leopard",1,58272,Promo,PRM,/1158,Yes,No,0
 "Ruinous Path",1,58273,Promo,PRM,/1158,No,No,0
 "Ruinous Path",1,58274,Promo,PRM,/1158,Yes,No,0
-"Felidar Sovereign",1,58283,Rare,BFZ,26/274,No,No,0
+"Felidar Sovereign",2,58283,Rare,BFZ,26/274,No,No,0
 "Dragonmaster Outcast",1,58285,Mythic Rare,BFZ,144/274,No,No,0
 "Scour from Existence",2,58289,Common,BFZ,13/274,No,No,0
 "Kozilek's Channeler",2,58291,Common,BFZ,10/274,No,No,0
@@ -4285,11 +4323,11 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Fertile Thicket",3,58535,Common,BFZ,237/274,No,No,0
 "Snapping Gnarlid",9,58539,Common,BFZ,190/274,No,No,0
 "Malakir Familiar",2,58541,Uncommon,BFZ,116/274,No,No,0
-"Painful Truths",3,58545,Rare,BFZ,120/274,No,No,0
+"Painful Truths",4,58545,Rare,BFZ,120/274,No,No,0
 "Murk Strider",2,58547,Common,BFZ,62/274,No,No,0
 "Conduit of Ruin",2,58549,Rare,BFZ,4/274,No,No,0
 "Lantern Scout",1,58553,Rare,BFZ,37/274,No,No,0
-"Quarantine Field",4,58555,Mythic Rare,BFZ,43/274,No,No,0
+"Quarantine Field",5,58555,Mythic Rare,BFZ,43/274,No,No,0
 "Mind Raker",2,58557,Common,BFZ,95/274,No,No,0
 "Mind Raker",4,58558,Common,BFZ,95/274,Yes,No,0
 "Expedition Envoy",1,58563,Uncommon,BFZ,24/274,No,No,0
@@ -4375,6 +4413,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Firespout",3,58969,Uncommon,PZ1,103/149,No,No,0
 "Deep Analysis",2,59033,Uncommon,PZ1,23/149,No,No,0
 "Deep Analysis",1,59034,Uncommon,PZ1,23/149,Yes,No,0
+"Flusterstorm",4,59039,Rare,PZ1,26/149,No,No,0
 "Tragic Slip",2,59071,Uncommon,PZ1,49/149,No,No,0
 "Tragic Slip",1,59072,Uncommon,PZ1,49/149,Yes,No,0
 "Sylvan Library",2,59091,Rare,PZ1,88/149,No,No,0
@@ -4451,6 +4490,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Iona's Blessing",1,59481,Uncommon,OGW,21/184,No,No,0
 "Wall of Resurgence",1,59483,Uncommon,OGW,39/184,No,No,0
 "Make a Stand",1,59493,Uncommon,OGW,26/184,No,No,0
+"Overwhelming Denial",1,59495,Rare,OGW,61/184,No,No,0
 "Dimensional Infiltrator",2,59499,Rare,OGW,44/184,No,No,0
 "Roiling Waters",1,59503,Uncommon,OGW,62/184,No,No,0
 "Slip Through Space",2,59505,Common,OGW,47/184,No,No,0
@@ -4520,7 +4560,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Town Gossipmonger",1,59800,Uncommon,SOI,46a/297,No,No,0
 "Stormrider Spirit",4,59802,Common,SOI,91/297,No,No,0
 "Cult of the Waxing Moon",1,59808,Uncommon,SOI,201/297,No,No,0
-"Westvale Abbey",1,59810,Rare,SOI,281a/297,No,No,0
+"Westvale Abbey",2,59810,Rare,SOI,281a/297,No,No,0
 "Malevolent Whispers",2,59816,Uncommon,SOI,173/297,No,No,0
 "Deny Existence",1,59820,Common,SOI,55/297,No,No,0
 "Uninvited Geist",2,59822,Uncommon,SOI,94a/297,No,No,0
@@ -4696,6 +4736,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mad Prophet",1,60288,Uncommon,SOI,171/297,No,No,0
 "Stallion of Ashmouth",7,60290,Common,SOI,136/297,No,No,0
 "Thraben Gargoyle",3,60292,Uncommon,SOI,266a/297,No,No,0
+"Geralf's Masterpiece",1,60294,Mythic Rare,SOI,65/297,No,No,0
 "Ever After",3,60296,Rare,SOI,109/297,No,No,0
 "Equestrian Skill",4,60304,Common,SOI,204/297,No,No,0
 "Insolent Neonate",6,60306,Common,SOI,168/297,No,No,0
@@ -4943,6 +4984,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Spontaneous Mutation",1,61126,Common,EMN,74/205,No,No,0
 "Exultant Cultist",1,61128,Common,EMN,59/205,No,No,0
 "Docent of Perfection",1,61132,Rare,EMN,56a/205,No,No,0
+"Coax from the Blind Eternities",1,61134,Rare,EMN,51/205,No,No,0
 "Unsubstantiate",4,61136,Uncommon,EMN,79/205,No,No,0
 "Mausoleum Wanderer",4,61138,Rare,EMN,69/205,No,No,0
 "Graf Harvest",2,61142,Uncommon,EMN,90/205,No,No,0
@@ -5053,7 +5095,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Kessig Prowler",2,61446,Uncommon,EMN,163a/205,No,No,0
 "Foul Emissary",4,61448,Uncommon,EMN,158/205,No,No,0
 "Bloodbriar",2,61450,Common,EMN,151/205,No,No,0
-"Ulvenwald Observer",1,61452,Rare,EMN,176/205,No,No,0
+"Ulvenwald Observer",2,61452,Rare,EMN,176/205,No,No,0
 "Woodcutter's Grit",2,61454,Common,EMN,179/205,No,No,0
 "Eldritch Evolution",4,61460,Rare,EMN,155/205,No,No,0
 "Ulvenwald Captive",3,61462,Common,EMN,175a/205,No,No,0
@@ -5297,6 +5339,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Cloudblazer",1,62035,Uncommon,KLD,176/264,No,No,0
 "Veteran Motorist",4,62039,Uncommon,KLD,188/264,No,No,0
 "Decoction Module",2,62041,Uncommon,KLD,205/264,No,No,0
+"Cultivator's Caravan",1,62045,Rare,KLD,203/264,No,No,0
 "Iron League Steed",1,62047,Uncommon,KLD,219/264,No,No,0
 "Fabrication Module",1,62049,Uncommon,KLD,211/264,No,No,0
 "Inventor's Goggles",5,62051,Common,KLD,218/264,No,No,0
@@ -5330,6 +5373,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Fiery Temper",1,62217,Promo,PRM,/1158,No,No,0
 "Fiery Temper",1,62218,Promo,PRM,/1158,Yes,No,0
 "Avatar - Saheeli Rai",1,62225,Rare,VAN,231/601,No,No,0
+"Treasure Chest Booster",26,62245,Common,O99,,No,No,0
 "Parting Thoughts",2,62263,Uncommon,PZ2,19/73,No,No,0
 "Sanctum Prelate",4,62279,Mythic Rare,PZ2,11/73,No,No,0
 "Domesticated Hydra",4,62285,Uncommon,PZ2,31/73,No,No,0
@@ -5475,7 +5519,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Consulate Dreadnought",1,62883,Uncommon,AER,146/184,No,No,0
 "Pacification Array",1,62891,Uncommon,AER,168/184,No,No,0
 "Consulate Turret",6,62893,Common,AER,147/184,No,No,0
-"Lifecrafter's Bestiary",1,62897,Rare,AER,162/184,No,No,0
+"Lifecrafter's Bestiary",2,62897,Rare,AER,162/184,No,No,0
 "Peacewalker Colossus",1,62905,Rare,AER,170/184,No,No,0
 "Inspiring Statuary",1,62907,Rare,AER,160/184,No,No,0
 "Spire of Industry",4,62909,Rare,AER,184/184,No,No,0
@@ -5876,7 +5920,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Stinging Shot",9,63980,Common,AKH,189/269,No,No,0
 "Trial of Strength",2,63984,Uncommon,AKH,191/269,No,No,0
 "Decimator Beetle",2,63996,Uncommon,AKH,197/269,No,No,0
-"Hapatra, Vizier of Poisons",2,64000,Rare,AKH,199/269,No,No,0
+"Hapatra, Vizier of Poisons",3,64000,Rare,AKH,199/269,No,No,0
 "Honored Crop-Captain",2,64002,Uncommon,AKH,200/269,No,No,0
 "Khenra Charioteer",2,64004,Uncommon,AKH,201/269,No,No,0
 "Merciless Javelineer",2,64006,Uncommon,AKH,202/269,No,No,0
@@ -5899,7 +5943,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Honed Khopesh",6,64122,Common,AKH,230/269,No,No,0
 "Kefnet's Monument",1,64124,Uncommon,AKH,231/269,No,No,0
 "Luxa River Shrine",11,64126,Common,AKH,232/269,No,No,0
-"Oracle's Vault",1,64130,Rare,AKH,234/269,No,No,0
+"Oracle's Vault",2,64130,Rare,AKH,234/269,No,No,0
 "Rhonas's Monument",2,64134,Uncommon,AKH,236/269,No,No,0
 "Watchers of the Dead",4,64138,Uncommon,AKH,238/269,No,No,0
 "Cascading Cataracts",1,64142,Rare,AKH,240/269,No,No,0
@@ -6114,6 +6158,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Gideon Jura",1,65003,Promo,PRM,/1158,No,No,0
 "Chandra, Pyromaster",1,65007,Promo,PRM,/1158,No,No,0
 "Nicol Bolas, Planeswalker",1,65009,Promo,PRM,/1158,No,No,0
+"Magic Online Player Reward Pack",3,65011,Common,O99,,No,No,0
 "Bellowing Aegisaur",2,65018,Uncommon,XLN,4/279,No,No,0
 "Bishop's Soldier",2,65022,Common,XLN,6/279,No,No,0
 "Bright Reprisal",2,65024,Uncommon,XLN,7/279,No,No,0
@@ -6514,7 +6559,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Crested Herdcaller",1,66705,Uncommon,RIX,126/196,No,No,0
 "Enter the Unknown",1,66709,Uncommon,RIX,128/196,No,No,0
 "Forerunner of the Heralds",2,66711,Uncommon,RIX,129/196,No,No,0
-"Ghalta, Primal Hunger",1,66713,Rare,RIX,130/196,No,No,0
+"Ghalta, Primal Hunger",5,66713,Rare,RIX,130/196,No,No,0
 "Giltgrove Stalker",2,66715,Common,RIX,131/196,No,No,0
 "Hardy Veteran",3,66717,Common,RIX,132/196,No,No,0
 "Hunt the Weak",4,66719,Common,RIX,133/196,No,No,0
@@ -6525,6 +6570,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Naturalize",1,66731,Common,RIX,139/196,No,No,0
 "Orazca Frillback",5,66733,Common,RIX,140/196,No,No,0
 "Overgrown Armasaur",3,66735,Common,RIX,141/196,No,No,0
+"Path of Discovery",1,66737,Rare,RIX,142/196,No,No,0
 "Plummet",1,66739,Common,RIX,143/196,No,No,0
 "Polyraptor",1,66741,Mythic Rare,RIX,144/196,No,No,0
 "Strength of the Pack",4,66743,Uncommon,RIX,145/196,No,No,0
@@ -6558,6 +6604,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mountain",4,66857,Land,RIX,195/196,No,No,0
 "Forest",1,66859,Land,RIX,196/196,No,No,0
 "Vraska's Scorn",1,66867,Rare,RIX,200/196,No,No,0
+"Angrath's Fury",1,66875,Rare,RIX,204/196,No,No,0
 "Avatar - Zacama, Primal Calamity",1,66879,Rare,VAN,254/601,No,No,0
 "Avatar - Dead Man's Chest",1,66882,Rare,VAN,257/601,No,No,0
 "Brass's Bounty",1,66886,Promo,PRM,/1158,No,No,0
@@ -6640,6 +6687,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Call the Cavalry",2,67483,Common,DAR,9/269,No,No,0
 "Charge",5,67485,Common,DAR,10/269,No,No,0
 "D'Avenant Trapper",1,67487,Common,DAR,11/269,No,No,0
+"Daring Archaeologist",1,67491,Rare,DAR,13/269,No,No,0
 "Dub",4,67495,Common,DAR,15/269,No,No,0
 "Excavation Elephant",1,67499,Common,DAR,17/269,No,No,0
 "Fall of the Thran",2,67501,Rare,DAR,18/269,No,No,0
@@ -6667,7 +6715,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Precognition Field",2,67587,Rare,DAR,61/269,No,No,0
 "Rescue",1,67591,Common,DAR,63/269,No,No,0
 "Slinn Voda, the Rising Deep",1,67597,Uncommon,DAR,66/269,No,No,0
-"Tempest Djinn",1,67601,Rare,DAR,68/269,No,No,0
+"Tempest Djinn",2,67601,Rare,DAR,68/269,No,No,0
 "Tetsuko Umezawa, Fugitive",1,67603,Uncommon,DAR,69/269,No,No,0
 "Tolarian Scholar",2,67607,Common,DAR,71/269,No,No,0
 "Unwind",2,67609,Common,DAR,72/269,No,No,0
@@ -6742,6 +6790,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Primordial Wurm",4,67819,Common,DAR,177/269,No,No,0
 "Spore Swarm",2,67825,Uncommon,DAR,180/269,No,No,0
 "Sporecrown Thallid",1,67827,Uncommon,DAR,181/269,No,No,0
+"Territorial Allosaurus",1,67833,Rare,DAR,184/269,No,No,0
 "Thorn Elemental",1,67835,Uncommon,DAR,185/269,No,No,0
 "Verdant Force",1,67839,Rare,DAR,187/269,No,No,0
 "Wild Onslaught",1,67841,Uncommon,DAR,188/269,No,No,0
@@ -6850,7 +6899,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Urza's Tower",3,69266,Promo,PRM,/1158,No,No,0
 "True-Name Nemesis",2,69268,Promo,PRM,/1158,No,No,0
 "Blade Instructor",7,69375,Common,GRN,1/259,No,No,0
-"Bounty Agent",1,69377,Rare,GRN,2/259,No,No,0
+"Bounty Agent",2,69377,Rare,GRN,2/259,No,No,0
 "Candlelight Vigil",2,69379,Common,GRN,3/259,No,No,0
 "Collar the Culprit",4,69383,Common,GRN,5/259,No,No,0
 "Conclave Tribunal",1,69385,Uncommon,GRN,6/259,No,No,0
@@ -6971,6 +7020,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Beacon Bolt",2,69681,Uncommon,GRN,154/259,No,No,0
 "Beamsplitter Mage",1,69683,Uncommon,GRN,155/259,No,No,0
 "Boros Challenger",1,69685,Uncommon,GRN,156/259,No,No,0
+"Camaraderie",1,69687,Rare,GRN,157/259,No,No,0
 "Centaur Peacemaker",4,69689,Common,GRN,158/259,No,No,0
 "Chance for Glory",1,69691,Mythic Rare,GRN,159/259,No,No,0
 "Conclave Cavalier",4,69695,Uncommon,GRN,161/259,No,No,0
@@ -6980,6 +7030,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Dimir Spybug",2,69705,Uncommon,GRN,166/259,No,No,0
 "Disinformation Campaign",1,69707,Uncommon,GRN,167/259,No,No,0
 "Erstwhile Trooper",3,69711,Common,GRN,169/259,No,No,0
+"Firemind's Research",1,69715,Rare,GRN,171/259,No,No,0
 "Garrison Sergeant",4,69717,Common,GRN,172/259,No,No,0
 "Goblin Electromancer",4,69721,Common,GRN,174/259,No,No,0
 "Golgari Findbroker",1,69723,Uncommon,GRN,175/259,No,No,0
@@ -7083,7 +7134,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Concordia Pegasus",1,71014,Common,RNA,7/259,No,No,0
 "Expose to Daylight",1,71016,Common,RNA,8/259,No,No,0
 "Haazda Officer",2,71020,Common,RNA,10/259,No,No,0
-"Hero of Precinct One",1,71022,Rare,RNA,11/259,No,No,0
+"Hero of Precinct One",2,71022,Rare,RNA,11/259,No,No,0
 "Impassioned Orator",2,71024,Common,RNA,12/259,No,No,0
 "Justiciar's Portal",2,71026,Common,RNA,13/259,No,No,0
 "Knight of Sorrows",1,71028,Common,RNA,14/259,No,No,0
@@ -7110,6 +7161,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Shimmer of Possibility",1,71102,Common,RNA,51/259,No,No,0
 "Skatewing Spy",2,71104,Uncommon,RNA,52/259,No,No,0
 "Skitter Eel",1,71106,Common,RNA,53/259,No,No,0
+"Awaken the Erstwhile",1,71122,Rare,RNA,61/259,No,No,0
 "Blade Juggler",2,71126,Common,RNA,63/259,No,No,0
 "Bladebrand",1,71128,Common,RNA,64/259,No,No,0
 "Bloodmist Infiltrator",1,71130,Uncommon,RNA,65/259,No,No,0
@@ -7604,6 +7656,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Soulherder",1,72800,Uncommon,MH1,214/254,No,No,0
 "Thundering Djinn",1,72802,Uncommon,MH1,215/254,No,No,0
 "Unsettled Mariner",4,72804,Rare,MH1,216/254,No,No,0
+"Wrenn and Six",4,72806,Mythic Rare,MH1,217/254,No,No,0
 "Altar of Dementia",4,72808,Rare,MH1,218/254,No,No,0
 "Amorphous Axe",7,72810,Common,MH1,219/254,No,No,0
 "Arcum's Astrolabe",5,72812,Common,MH1,220/254,No,No,0
@@ -7645,6 +7698,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Snow-Covered Forest",14,72880,Land,MH1,254/254,No,No,0
 "Snow-Covered Forest",1,72881,Land,MH1,254/254,Yes,No,0
 "Astral Drift",2,72892,Promo,PRM,/1158,No,No,0
+"Flusterstorm",1,72899,Rare,MH1,255/254,No,No,0
 "Angel of Vitality",2,72907,Uncommon,M20,4/280,No,No,0
 "Angelic Gift",3,72909,Common,M20,5/280,No,No,0
 "Apostle of Purifying Light",1,72911,Uncommon,M20,6/280,No,No,0
@@ -7657,6 +7711,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Glaring Aegis",3,72935,Common,M20,18/280,No,No,0
 "Griffin Protector",1,72939,Common,M20,20/280,No,No,0
 "Griffin Sentinel",1,72941,Common,M20,21/280,No,No,0
+"Hanged Executioner",1,72943,Rare,M20,22/280,No,No,0
 "Herald of the Sun",1,72945,Uncommon,M20,23/280,No,No,0
 "Inspired Charge",1,72947,Common,M20,24/280,No,No,0
 "Inspiring Captain",4,72949,Common,M20,25/280,No,No,0
@@ -7710,7 +7765,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Rotting Regisaur",1,73121,Rare,M20,111/280,No,No,0
 "Sanitarium Skeleton",2,73123,Common,M20,112/280,No,No,0
 "Scheming Symmetry",1,73125,Rare,M20,113/280,No,No,0
-"Sorin, Imperious Bloodlord",1,73129,Mythic Rare,M20,115/280,No,No,0
 "Soul Salvage",1,73131,Common,M20,116/280,No,No,0
 "Undead Servant",2,73135,Common,M20,118/280,No,No,0
 "Unholy Indenture",1,73137,Common,M20,119/280,No,No,0
@@ -7803,6 +7857,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Avatar - Atla Palani, Nest Tender",1,77938,Rare,VAN,332/601,No,No,0
 "Avatar - Kadena, Slithering Sorcerer",1,77939,Rare,VAN,333/601,No,No,0
 "Domri, Anarch of Bolas",1,77959,Promo,PRM,/1158,No,No,0
+"Karn, the Great Creator",4,77979,Promo,PRM,/1158,No,No,0
 "Acclaimed Contender",1,78088,Rare,ELD,1/269,No,No,0
 "All That Glitters",4,78090,Uncommon,ELD,2/269,No,No,0
 "Deafening Silence",4,78108,Uncommon,ELD,10/269,No,No,0
@@ -7824,6 +7879,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Forever Young",1,78290,Common,ELD,89/269,No,No,0
 "Giant's Skewer",1,78296,Common,ELD,91/269,No,No,0
 "Locthwain Paladin",1,78300,Common,ELD,93/269,No,No,0
+"Murderous Rider",1,78308,Rare,ELD,97/269,No,No,0
 "Reave Soul",1,78326,Common,ELD,103/269,No,No,0
 "Revenge of Ravens",1,78328,Uncommon,ELD,104/269,No,No,0
 "Smitten Swordmaster",1,78330,Common,ELD,105/269,No,No,0
@@ -7832,6 +7888,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Bonecrusher Giant",1,78352,Rare,ELD,115/269,No,No,0
 "Brimstone Trebuchet",1,78356,Common,ELD,116/269,No,No,0
 "Fervent Champion",4,78374,Rare,ELD,124/269,No,No,0
+"Irencrag Pyromancer",1,78382,Rare,ELD,128/269,No,No,0
 "Opportunistic Dragon",1,78394,Rare,ELD,133/269,No,No,0
 "Rimrock Knight",1,78402,Common,ELD,137/269,No,No,0
 "Scorching Dragonfire",1,78408,Common,ELD,139/269,No,No,0
@@ -7851,6 +7908,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Gingerbrute",4,78584,Common,ELD,219/269,No,No,0
 "Henge Walker",1,78588,Common,ELD,221/269,No,No,0
 "Lucky Clover",1,78598,Uncommon,ELD,226/269,No,No,0
+"Castle Ardenvale",1,78622,Rare,ELD,238/269,No,No,0
 "Castle Embereth",1,78624,Rare,ELD,239/269,No,No,0
 "Castle Garenbrig",4,78626,Rare,ELD,240/269,No,No,0
 "Castle Locthwain",2,78628,Rare,ELD,241/269,No,No,0
@@ -7897,6 +7955,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Ox of Agonas",3,79418,Mythic Rare,THB,147/254,No,No,0
 "Satyr's Cunning",1,79428,Common,THB,152/254,No,No,0
 "Storm's Wrath",2,79438,Rare,THB,157/254,No,No,0
+"Tectonic Giant",1,79440,Rare,THB,158/254,No,No,0
 "Underworld Breach",4,79446,Rare,THB,161/254,No,No,0
 "Underworld Rage-Hound",4,79450,Common,THB,163/254,No,No,0
 "Arasta of the Endless Web",2,79454,Rare,THB,165/254,No,No,0
@@ -7915,7 +7974,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Haktos the Unscarred",1,79560,Rare,THB,218/254,No,No,0
 "Kroxa, Titan of Death's Hunger",1,79566,Mythic Rare,THB,221/254,No,No,0
 "Kunoros, Hound of Athreos",1,79568,Rare,THB,222/254,No,No,0
-"Polukranos, Unchained",1,79572,Mythic Rare,THB,224/254,No,No,0
+"Polukranos, Unchained",2,79572,Mythic Rare,THB,224/254,No,No,0
 "Entrancing Lyre",1,79590,Uncommon,THB,233/254,No,No,0
 "Nyx Lotus",1,79594,Rare,THB,235/254,No,No,0
 "Shadowspear",1,79596,Rare,THB,236/254,No,No,0
@@ -7934,7 +7993,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Cubwarden",1,80023,Rare,IKO,7/274,No,No,0
 "Huntmaster Liger",1,80041,Uncommon,IKO,16/274,No,No,0
 "Light of Hope",1,80049,Common,IKO,20/274,No,No,0
-"Luminous Broodmoth",1,80051,Mythic Rare,IKO,21/274,No,No,0
+"Luminous Broodmoth",2,80051,Mythic Rare,IKO,21/274,No,No,0
 "Maned Serval",1,80055,Common,IKO,23/274,No,No,0
 "Savai Sabertooth",1,80067,Common,IKO,29/274,No,No,0
 "Vulpikeet",1,80083,Common,IKO,37/274,No,No,0
@@ -7951,6 +8010,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Dark Bargain",1,80173,Common,IKO,82/274,No,No,0
 "Dirge Bat",1,80177,Rare,IKO,84/274,No,No,0
 "Heartless Act",4,80191,Uncommon,IKO,91/274,No,No,0
+"Hunted Nightmare",1,80193,Rare,IKO,92/274,No,No,0
 "Mythos of Nethroi",4,80203,Rare,IKO,97/274,No,No,0
 "Suffocating Fumes",4,80209,Common,IKO,100/274,No,No,0
 "Unbreakable Bond",2,80211,Uncommon,IKO,101/274,No,No,0
@@ -7975,7 +8035,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sudden Spinnerets",1,80351,Common,IKO,171/274,No,No,0
 "Thwart the Enemy",1,80355,Common,IKO,173/274,No,No,0
 "Wilt",2,80361,Common,IKO,176/274,No,No,0
-"Death's Oasis",1,80373,Rare,IKO,182/274,No,No,0
+"Death's Oasis",2,80373,Rare,IKO,182/274,No,No,0
 "Frondland Felidar",1,80381,Rare,IKO,186/274,No,No,0
 "General Kudro of Drannith",1,80383,Mythic Rare,IKO,187/274,No,No,0
 "Genesis Ultimatum",2,80387,Rare,IKO,189/274,No,No,0
@@ -7986,10 +8046,11 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Jegantha, the Wellspring",1,80453,Rare,IKO,222/274,No,No,0
 "Keruga, the Macrosage",1,80459,Rare,IKO,225/274,No,No,0
 "Obosh, the Preypiercer",1,80465,Rare,IKO,228/274,No,No,0
-"Crystalline Giant",1,80477,Rare,IKO,234/274,No,No,0
+"Crystalline Giant",2,80477,Rare,IKO,234/274,No,No,0
 "Savai Crystal",1,80487,Uncommon,IKO,239/274,No,No,0
 "Bloodfell Caves",1,80495,Land,IKO,243/274,No,No,0
 "Bonders' Enclave",1,80499,Rare,IKO,245/274,No,No,0
+"Indatha Triome",1,80505,Rare,IKO,248/274,No,No,0
 "Ketria Triome",2,80509,Rare,IKO,250/274,No,No,0
 "Raugrin Triome",1,80511,Rare,IKO,251/274,No,No,0
 "Savai Triome",2,80515,Rare,IKO,253/274,No,No,0
@@ -8035,7 +8096,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Thrashing Brontodon",1,81645,Uncommon,M21,209/274,No,No,0
 "Sparkhunter Masticore",1,81707,Rare,M21,240/274,No,No,0
 "Animal Sanctuary",1,81711,Rare,M21,242/274,No,No,0
-"Temple of Epiphany",2,81731,Rare,M21,252/274,No,No,0
+"Temple of Epiphany",3,81731,Rare,M21,252/274,No,No,0
 "Temple of Malady",1,81733,Rare,M21,253/274,No,No,0
 "Temple of Silence",1,81737,Rare,M21,255/274,No,No,0
 "Rin and Seri, Inseparable",2,81747,Mythic Rare,M21,278,No,No,0
@@ -8207,7 +8268,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Expedition Healer",1,82963,Common,ZNR,13/280,No,No,0
 "Journey to Oblivion",1,82971,Uncommon,ZNR,17/280,No,No,0
 "Makindi Stampede",1,82991,Uncommon,ZNR,26a/280,No,No,0
-"Skyclave Apparition",4,83023,Rare,ZNR,39/280,No,No,0
+"Coralhelm Chronicler",1,83057,Rare,ZNR,54/280,No,No,0
 "Inscription of Insight",1,83073,Rare,ZNR,61/280,No,No,0
 "Merfolk Windrobber",2,83093,Uncommon,ZNR,70/280,No,No,0
 "Nimble Trapfinder",2,83097,Rare,ZNR,72/280,No,No,0
@@ -8227,6 +8288,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Spikefield Hazard",4,83311,Uncommon,ZNR,166a/280,No,No,0
 "Synchronized Spellcraft",1,83317,Common,ZNR,168/280,No,No,0
 "Tuktuk Rubblefort",1,83327,Common,ZNR,173/280,No,No,0
+"Valakut Awakening",4,83329,Rare,ZNR,174a/280,No,No,0
 "Adventure Awaits",1,83337,Common,ZNR,177/280,No,No,0
 "Kazandu Mammoth",1,83363,Rare,ZNR,189a/280,No,No,0
 "Kazandu Nectarpot",1,83367,Common,ZNR,190/280,No,No,0
@@ -8235,6 +8297,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Springmantle Cleric",1,83399,Uncommon,ZNR,205/280,No,No,0
 "Kaza, Roil Chaser",1,83445,Rare,ZNR,225/280,No,No,0
 "Linvala, Shield of Sea Gate",1,83447,Rare,ZNR,226/280,No,No,0
+"Nahiri, Heir of the Ancients",1,83455,Mythic Rare,ZNR,230/280,No,No,0
 "Orah, Skyclave Hierophant",1,83461,Rare,ZNR,233/280,No,No,0
 "Soaring Thought-Thief",4,83467,Uncommon,ZNR,236/280,No,No,0
 "Verazol, the Split Current",1,83473,Rare,ZNR,239/280,No,No,0
@@ -8469,6 +8532,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Crippling Fear",2,87491,Rare,KHM,82/285,No,No,0
 "Deathknell Berserker",1,87493,Common,KHM,83/285,No,No,0
 "Draugr's Helm",2,87503,Uncommon,KHM,88/285,No,No,0
+"Dream Devourer",1,87507,Rare,KHM,90/285,No,No,0
 "Infernal Pet",2,87527,Common,KHM,99/285,No,No,0
 "Jarl of the Forsaken",1,87530,Common,KHM,100/285,Yes,No,0
 "Karfell Kennel-Master",1,87531,Common,KHM,101/285,No,No,0
@@ -8547,11 +8611,13 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Oriq Loremage",1,88637,Rare,STX,80/275,No,No,0
 "Fervent Mastery",1,88679,Rare,STX,101/275,No,No,0
 "First Day of Class",4,88681,Common,STX,102/275,No,No,0
+"Accomplished Alchemist",1,88715,Rare,STX,119/275,No,No,0
 "Verdant Mastery",1,88769,Rare,STX,146/275,No,No,0
 "Augmenter Pugilist",1,88771,Rare,STX,147a/275,No,No,0
 "Extus, Oriq Overlord",1,88779,Mythic Rare,STX,149a/275,No,No,0
 "Uvilda, Dean of Perfection",1,88823,Rare,STX,160a/275,No,No,0
 "Blade Historian",1,88837,Rare,STX,165/275,No,No,0
+"Daemogoth Titan",1,88855,Rare,STX,174/275,No,No,0
 "Double Major",1,88865,Rare,STX,179/275,No,No,0
 "Dramatic Finale",1,88867,Rare,STX,180/275,No,No,0
 "Expressive Iteration",4,88879,Uncommon,STX,186/275,No,No,0
@@ -8571,6 +8637,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Elemental Expressionist",1,90206,Promo,PRM,117/1158,No,No,0
 "Blade Historian",1,90212,Promo,PRM,120/1158,No,No,0
 "Lorehold Command",1,90216,Promo,PRM,122/1158,No,No,0
+"Oversimplify",1,90222,Promo,PRM,125/1158,No,No,0
 "Selfless Glyphweaver",1,90224,Promo,PRM,126/1158,No,No,0
 "Blot Out the Sky",1,90266,Promo,PRM,147/1158,No,No,0
 "Elementalist's Palette",1,90332,Promo,PRM,180/1158,No,No,0
@@ -8594,7 +8661,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Lens Flare",6,90409,Common,MH2,20/303,No,No,0
 "Marble Gargoyle",4,90411,Common,MH2,21/303,No,No,0
 "Nykthos Paragon",1,90413,Rare,MH2,22/303,No,No,0
-"Out of Time",5,90415,Rare,MH2,23/303,No,No,0
+"Out of Time",6,90415,Rare,MH2,23/303,No,No,0
 "Piercing Rays",2,90417,Common,MH2,24/303,No,No,0
 "Prismatic Ending",4,90419,Uncommon,MH2,25/303,No,No,0
 "Sanctifier en-Vec",4,90423,Rare,MH2,27/303,No,No,0
@@ -8620,7 +8687,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Lose Focus",4,90467,Common,MH2,49/303,No,No,0
 "Lucid Dreams",2,90469,Uncommon,MH2,50/303,No,No,0
 "Mental Journey",1,90471,Common,MH2,51/303,No,No,0
-"Murktide Regent",4,90473,Mythic Rare,MH2,52/303,No,No,0
+"Murktide Regent",5,90473,Mythic Rare,MH2,52/303,No,No,0
 "Mystic Redaction",2,90475,Uncommon,MH2,53/303,No,No,0
 "Parcel Myr",2,90477,Common,MH2,54/303,No,No,0
 "Phantasmal Dreadmaw",5,90479,Common,MH2,55/303,No,No,0
@@ -8739,6 +8806,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Dihada's Ploy",1,90763,Common,MH2,193/303,No,No,0
 "Drey Keeper",2,90765,Common,MH2,194/303,No,No,0
 "Ethersworn Sphinx",2,90767,Uncommon,MH2,195/303,No,No,0
+"Garth One-Eye",1,90771,Mythic Rare,MH2,197/303,No,No,0
 "General Ferrous Rokiric",2,90773,Rare,MH2,198/303,No,No,0
 "Goblin Anarchomancer",3,90777,Common,MH2,200/303,No,No,0
 "Goblin Anarchomancer",1,90778,Common,MH2,200/303,Yes,No,0
@@ -8772,7 +8840,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sojourner's Companion",7,90851,Common,MH2,235/303,No,No,0
 "Sol Talisman",1,90853,Rare,MH2,236/303,No,No,0
 "Steel Dromedary",3,90855,Uncommon,MH2,237/303,No,No,0
-"Sword of Hearth and Home",1,90857,Mythic Rare,MH2,238/303,No,No,0
+"Sword of Hearth and Home",2,90857,Mythic Rare,MH2,238/303,No,No,0
 "Tormod's Cryptkeeper",1,90859,Common,MH2,239/303,No,No,0
 "The Underworld Cookbook",3,90861,Uncommon,MH2,240/303,No,No,0
 "Void Mirror",4,90865,Rare,MH2,242/303,No,No,0
@@ -8809,7 +8877,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mogg Salvage",1,90987,Uncommon,MH2,282/303,No,No,0
 "Enchantress's Presence",5,90989,Rare,MH2,283/303,No,No,0
 "Quirion Ranger",1,90993,Uncommon,MH2,285/303,No,No,0
-"Squirrel Mob",2,90995,Rare,MH2,286/303,No,No,0
+"Squirrel Mob",3,90995,Rare,MH2,286/303,No,No,0
 "Titania, Protector of Argoth",1,90997,Mythic Rare,MH2,287/303,No,No,0
 "Yavimaya Elder",2,90999,Uncommon,MH2,288/303,No,No,0
 "Chainer, Nightmare Adept",1,91001,Rare,MH2,289/303,No,No,0
@@ -8824,11 +8892,12 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Zuran Orb",1,91027,Uncommon,MH2,300/303,No,No,0
 "Mishra's Factory",4,91031,Uncommon,MH2,302/303,No,No,0
 "Riptide Laboratory",1,91033,Rare,MH2,303/303,No,No,0
-"Resurgent Belief",2,91043,Rare,MH2,385,No,No,0
+"Resurgent Belief",3,91043,Rare,MH2,385,No,No,0
 "Inevitable Betrayal",4,91053,Rare,MH2,390,No,No,0
 "Rishadan Dockhand",1,91055,Rare,MH2,391,No,No,0
 "Glimpse of Tomorrow",4,91087,Rare,MH2,407,No,No,0
 "Titania, Protector of Argoth",1,91105,Mythic Rare,MH2,416,No,No,0
+"Asmoranomardicadaistinaculdacar",1,91107,Rare,MH2,417,No,No,0
 "Diamond Lion",1,91127,Rare,MH2,427,No,No,0
 "Misty Rainforest",1,91149,Rare,MH2,438,No,No,0
 "Verdant Catacombs",1,91153,Rare,MH2,440,No,No,0
@@ -8856,7 +8925,9 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Teleportation Circle",1,91580,Rare,AFR,39/281,No,No,0
 "Deadly Dispute",4,91690,Common,AFR,94/281,No,No,0
 "Battle Cry Goblin",4,91766,Uncommon,AFR,132/281,No,No,0
+"Delina, Wild Mage",1,91778,Rare,AFR,138/281,No,No,0
 "Hobgoblin Bandit Lord",1,91796,Rare,AFR,147/281,No,No,0
+"Wish",2,91834,Rare,AFR,166/281,No,No,0
 "Prosperous Innkeeper",4,91902,Uncommon,AFR,200/281,No,No,0
 "Varis, Silverymoon Ranger",1,91920,Rare,AFR,209/281,No,No,0
 "Xanathar, Guild Kingpin",1,91980,Mythic Rare,AFR,239/281,No,No,0
@@ -8878,8 +8949,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Augur of Autumn",1,93318,Rare,MID,168/277,No,No,0
 "Outland Liberator",4,93370,Uncommon,MID,190a/277,No,No,0
 "Saryth, the Viper's Fang",3,93386,Rare,MID,197/277,No,No,0
+"Tovolar's Huntmaster",1,93402,Rare,MID,204a/277,No,No,0
 "Unnatural Growth",1,93408,Rare,MID,206/277,No,No,0
-"Willow Geist",1,93410,Rare,MID,207/277,No,No,0
+"Willow Geist",2,93410,Rare,MID,207/277,No,No,0
+"Faithful Mending",4,93444,Uncommon,MID,221/277,No,No,0
 "Liesa, Forgotten Archangel",1,93468,Rare,MID,232/277,No,No,0
 "Avatar - Delver of Secrets",1,93872,Rare,VAN,474/601,No,No,0
 "Avatar - Can't Stay Away",1,93876,Rare,VAN,478/601,No,No,0
@@ -8912,9 +8985,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Reckless Impulse",4,94692,Common,VOW,174/277,No,No,0
 "Voldaren Epicure",4,94710,Common,VOW,182/277,No,No,0
 "Ascendant Packleader",1,94722,Rare,VOW,186/277,No,No,0
+"Hamlet Vanguard",1,94756,Rare,VOW,201/277,No,No,0
 "Howlpack Piper",1,94766,Rare,VOW,205a/277,No,No,0
 "Splendid Reclamation",1,94804,Rare,VOW,221/277,No,No,0
-"Eruth, Tormented Prophet",1,94850,Rare,VOW,237/277,No,No,0
+"Eruth, Tormented Prophet",2,94850,Rare,VOW,237/277,No,No,0
 "Olivia, Crimson Bride",1,94866,Mythic Rare,VOW,245/277,No,No,0
 "Avatar - Grolnok, the Omnivore",1,95233,Rare,VAN,489/601,No,No,0
 "Avatar - Odric, Blood-Cursed",1,95234,Rare,VAN,490/601,No,No,0
@@ -8925,6 +8999,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Inspired Idea",1,95307,Rare,PRM,34/1158,No,No,0
 "Mirrorhall Mimic",1,95313,Rare,PRM,37/1158,No,No,0
 "Scion of Opulence",1,95363,Rare,PRM,62/1158,No,No,0
+"Alchemist's Gambit",4,95375,Rare,PRM,68/1158,No,No,0
 "Cultivator Colossus",2,95431,Mythic Rare,PRM,96/1158,No,No,0
 "Strionic Resonator",1,95467,Rare,PRM,119/1158,No,No,0
 "Island",1,96836,Land,NEO,295/302,No,No,0
@@ -8942,13 +9017,15 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Tribute to Horobi",1,97174,Rare,NEO,124a/302,No,No,0
 "Experimental Synthesizer",4,97204,Common,NEO,138/302,No,No,0
 "Commune with Spirits",4,97298,Common,NEO,180/302,No,No,0
-"March of Burgeoning Life",1,97344,Rare,NEO,201/302,No,No,0
+"March of Burgeoning Life",2,97344,Rare,NEO,201/302,No,No,0
 "Spring-Leaf Avenger",1,97358,Rare,NEO,208/302,No,No,0
+"Tamiyo's Safekeeping",4,97366,Common,NEO,211/302,No,No,0
 "Colossal Skyturtle",1,97378,Uncommon,NEO,216/302,No,No,0
-"Hidetsugu Consumes All",1,97388,Mythic Rare,NEO,221a/302,No,No,0
+"Hidetsugu Consumes All",2,97388,Mythic Rare,NEO,221a/302,No,No,0
 "Isshin, Two Heavens as One",1,97396,Rare,NEO,224/302,No,No,0
 "Satoru Umezawa",2,97418,Rare,NEO,234/302,No,No,0
 "Satsuki, the Living Lore",1,97420,Rare,NEO,235/302,No,No,0
+"Mirror Box",1,97450,Rare,NEO,250/302,No,No,0
 "Secluded Courtyard",4,97500,Uncommon,NEO,275/302,No,No,0
 "Smoke Spirits' Aid",1,97792,Rare,NEC,22/38,No,No,0
 "Concord with the Kami",1,97798,Rare,NEC,25/38,No,No,0
@@ -8958,27 +9035,33 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Eiganjo, Seat of the Empire",1,98121,Rare,PRM,129/1158,No,No,0
 "Otawara, Soaring City",1,98123,Rare,PRM,130/1158,No,No,0
 "Sokenzan, Crucible of Defiance",1,98131,Rare,PRM,134/1158,No,No,0
-"Extraction Specialist",1,98243,Rare,SNC,12/281,No,No,0
+"Boseiju, Who Endures",2,98135,Rare,PRM,136/1158,No,No,0
+"Extraction Specialist",3,98243,Rare,SNC,12/281,No,No,0
 "Giada, Font of Hope",1,98247,Rare,SNC,14/281,No,No,0
 "Ledger Shredder",3,98311,Rare,SNC,46/281,No,No,0
 "Slip Out the Back",4,98343,Uncommon,SNC,62/281,No,No,0
+"Undercover Operative",1,98345,Rare,SNC,63/281,No,No,0
 "Cut of the Profits",1,98363,Rare,SNC,72/281,No,No,0
 "Shadow of Mortality",4,98407,Rare,SNC,94/281,No,No,0
 "Devilish Valet",4,98429,Rare,SNC,105/281,No,No,0
 "Professional Face-Breaker",1,98451,Rare,SNC,116/281,No,No,0
 "Aven Heartstabber",1,98551,Rare,SNC,166/281,No,No,0
 "Brokers Ascendancy",1,98559,Rare,SNC,170/281,No,No,0
+"Corpse Explosion",1,98577,Rare,SNC,179/281,No,No,0
 "Endless Detour",1,98585,Rare,SNC,183/281,No,No,0
 "Evelyn, the Covetous",1,98587,Rare,SNC,184/281,No,No,0
 "Jetmir, Nexus of Revels",1,98605,Mythic Rare,SNC,193/281,No,No,0
 "Tainted Indulgence",4,98673,Uncommon,SNC,227/281,No,No,0
 "Toluz, Clever Conductor",2,98675,Rare,SNC,228/281,No,No,0
+"Jetmir's Garden",1,98719,Rare,SNC,250/281,No,No,0
 "Xander's Lounge",1,98739,Rare,SNC,260/281,No,No,0
+"Ziatora's Proving Ground",4,98741,Rare,SNC,261/281,No,No,0
 "Avatar - Ognis, the Dragon's Lash",1,99659,Rare,VAN,516/601,No,No,0
 "Mishra's Bauble",4,99673,Uncommon,PRM,/1158,No,No,0
 "Ragavan, Nimble Pilferer",4,99679,Mythic Rare,PRM,/1158,No,No,0
 "Unlicensed Hearse",2,99725,Rare,PRM,/1158,No,No,0
 "Ledger Shredder",1,99733,Rare,PRM,/1158,No,No,0
+"Syrix, Carrier of the Flame",1,99899,Rare,PRM,/1158,No,No,0
 "Bane's Invoker",2,100002,Common,CLB,7/361,No,No,0
 "Blessed Hippogriff",2,100010,Common,CLB,11/361,No,No,0
 "Far Traveler",1,100026,Uncommon,CLB,17/361,No,No,0
@@ -9021,6 +9104,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Heap Gate",2,100746,Common,CLB,354/361,No,No,0
 "Manor Gate",2,100750,Common,CLB,356/361,No,No,0
 "Faldorn, Dread Wolf Herald",1,100904,Mythic Rare,CLB,647,No,No,0
+"Burakos, Party Leader",1,101476,Mythic Rare,CLB,653,No,No,0
 "Emrakul, the Aeons Torn",4,101486,Mythic Rare,2X2,1/331,No,No,0
 "Kozilek, Butcher of Truth",4,101488,Mythic Rare,2X2,2/331,No,No,0
 "Ainok Bond-Kin",2,101494,Common,2X2,5/331,No,No,0
@@ -9071,7 +9155,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Ob Nixilis, Unshackled",4,101652,Rare,2X2,84/331,No,No,0
 "Shadowborn Apostle",1,101662,Common,2X2,89/331,No,No,0
 "Strands of Undeath",1,101669,Common,2X2,92/331,Yes,No,0
-"Surgical Extraction",4,101672,Rare,2X2,94/331,No,No,0
+"Surgical Extraction",2,101672,Rare,2X2,94/331,No,No,0
 "Abbot of Keral Keep",4,101684,Rare,2X2,100/331,No,No,0
 "Anger of the Gods",4,101688,Rare,2X2,102/331,No,No,0
 "Bedlam Reveler",4,101692,Rare,2X2,104/331,No,No,0
@@ -9125,7 +9209,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Bloodwater Entity",1,101855,Common,2X2,185/331,Yes,No,0
 "Boartusk Liege",1,101856,Rare,2X2,186/331,No,No,0
 "Bring to Light",4,101860,Rare,2X2,188/331,No,No,0
-"Conclave Mentor",1,101874,Uncommon,2X2,195/331,No,No,0
+"Conclave Mentor",4,101874,Uncommon,2X2,195/331,No,No,0
 "Conclave Mentor",1,101875,Uncommon,2X2,195/331,Yes,No,0
 "Dauntless Escort",4,101882,Rare,2X2,199/331,No,No,0
 "Doran, the Siege Tower",4,101886,Rare,2X2,201/331,No,No,0
@@ -9181,6 +9265,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Wasitora, Nekoru Queen",4,102070,Rare,2X2,293/331,No,No,0
 "Wilt-Leaf Liege",1,102072,Rare,2X2,294/331,No,No,0
 "Winged Coatl",1,102074,Common,2X2,295/331,No,No,0
+"Wrenn and Six",2,102077,Mythic Rare,2X2,296/331,Yes,No,0
 "Bloodforged Battle-Axe",1,102082,Rare,2X2,299/331,No,No,0
 "Conqueror's Flail",4,102088,Rare,2X2,302/331,No,No,0
 "Crucible of Worlds",8,102090,Mythic Rare,2X2,303/331,No,No,0
@@ -9201,6 +9286,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Avatar - Blood Artist",2,102212,Rare,VAN,540/601,No,No,0
 "Emiel the Blessed",1,102229,Mythic Rare,PRM,8/1158,No,No,0
 "Rampant Growth",1,102271,Common,PRM,29/1158,No,No,0
+"Wrenn and Six",4,102317,Mythic Rare,PRM,52/1158,No,No,0
 "Aether Vial",1,102329,Rare,PRM,58/1158,No,No,0
 "Tyrannical Pitlord",1,102384,Rare,DMU,284,No,No,0
 "Briar Hydra",1,102388,Rare,DMU,286,No,No,0
@@ -9209,6 +9295,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Vodalian Hexcatcher",4,102626,Rare,DMU,75/281,No,No,0
 "Vodalian Mindsinger",2,102628,Rare,DMU,76/281,No,No,0
 "Braids, Arisen Nightmare",1,102644,Rare,DMU,84/281,No,No,0
+"Jaya, Fiery Negotiator",1,102742,Mythic Rare,DMU,133/281,No,No,0
 "Radha's Firebrand",1,102758,Rare,DMU,141/281,No,No,0
 "Rundvelt Hordemaster",4,102760,Rare,DMU,142/281,No,No,0
 "Shivan Devastator",1,102762,Mythic Rare,DMU,143/281,No,No,0
@@ -9236,6 +9323,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Kayla's Reconstruction",4,104638,Rare,BRO,10/287,No,No,0
 "Kayla's Reconstruction",4,104639,Rare,BRO,10/287,Yes,No,0
 "Loran of the Third Path",1,104642,Rare,BRO,12/287,No,No,0
+"Siege Veteran",1,104668,Rare,BRO,25/287,No,No,0
 "Fallaji Archaeologist",4,104714,Common,BRO,48/287,No,No,0
 "Hurkyl's Final Meditation",1,104722,Rare,BRO,52/287,No,No,0
 "Terisian Mindbreaker",1,104784,Rare,BRO,83/287,No,No,0
@@ -9244,6 +9332,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Feldon, Ronom Excavator",1,104888,Rare,BRO,135/287,No,No,0
 "Audacity",4,104956,Uncommon,BRO,169/287,No,No,0
 "Haywire Mite",4,105018,Uncommon,BRO,199/287,No,No,0
+"Mishra, Tamer of Mak Fawa",1,105056,Rare,BRO,217/287,No,No,0
 "Sarinth Greatwurm",1,105062,Mythic Rare,BRO,220/287,No,No,0
 "Tawnos, the Toymaker",1,105066,Rare,BRO,222/287,No,No,0
 "Third Path Iconoclast",4,105068,Uncommon,BRO,223/287,No,No,0
@@ -9261,7 +9350,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Quicksilver Fisher",1,105963,Promo,ONE,287,No,No,0
 "Blightbelly Rat",1,105967,Promo,ONE,289,No,No,0
 "Venerated Rotpriest",4,106019,Promo,ONE,392,No,No,0
-"The Filigree Sylex",1,106023,Promo,ONE,394,No,No,0
+"Argentum Masticore",4,106021,Promo,ONE,393,No,No,0
+"The Filigree Sylex",5,106023,Promo,ONE,394,No,No,0
 "Goliath Hatchery",1,106071,Promo,ONE,413,No,No,0
 "Vraska, Betrayal's Sting",1,106105,Promo,ONE,326,No,No,0
 "Phyrexian Vindicator",1,106117,Promo,ONE,300,No,No,0
@@ -9270,6 +9360,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Phyrexian Obliterator",1,106133,Promo,ONE,308,No,No,0
 "Evolved Spinoderm",1,106143,Promo,ONE,313,No,No,0
 "Elesh Norn, Mother of Machines",1,106235,Mythic Rare,ONE,10/271,No,No,0
+"Kemba, Kha Enduring",1,106253,Rare,ONE,19/271,No,No,0
 "Ossification",4,106267,Uncommon,ONE,26/271,No,No,0
 "Jace, the Perfected Mind",1,106329,Mythic Rare,ONE,57/271,No,No,0
 "Minor Misstep",4,106343,Uncommon,ONE,64/271,No,No,0
@@ -9281,7 +9372,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Atraxa, Grand Unifier",4,106607,Mythic Rare,ONE,196/271,No,No,0
 "Jor Kadeen, First Goldwarden",1,106621,Rare,ONE,203/271,No,No,0
 "Kethek, Crucible Goliath",2,106627,Rare,ONE,206/271,No,No,0
-"Argentum Masticore",1,106659,Rare,ONE,222/271,No,No,0
+"Argentum Masticore",5,106659,Rare,ONE,222/271,No,No,0
+"Argentum Masticore",4,106660,Rare,ONE,222/271,Yes,No,0
+"The Filigree Sylex",4,106669,Rare,ONE,227/271,No,No,0
+"The Filigree Sylex",4,106670,Rare,ONE,227/271,Yes,No,0
 "Soulless Jailer",1,106697,Rare,ONE,241/271,No,No,0
 "Seachrome Coast",1,106731,Rare,ONE,258/271,No,No,0
 "Spirit Link",4,107233,Promo,DMR,274,No,No,0
@@ -9320,6 +9414,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Pia Nalaar, Consul of Revival",1,109018,Promo,MAT,142,No,No,0
 "Sigarda, Font of Blessings",1,109028,Promo,MAT,147,No,No,0
 "Nahiri's Resolve",1,109082,Promo,MAT,172,No,No,0
+"Narset, Enlightened Exile",1,109084,Promo,MAT,173,No,No,0
 "Metropolis Reformer",1,109130,Rare,MAT,4/50,No,No,0
 "Cosmic Rebirth",3,109178,Uncommon,MAT,28/50,No,No,0
 "Jirina, Dauntless General",1,109186,Rare,MAT,32/50,No,No,0
@@ -9500,7 +9595,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Furnace Reins",1,110132,Uncommon,MOM,141/291,No,No,0
 "Hangar Scrounger",1,110134,Common,MOM,142/291,No,No,0
 "Harried Artisan",1,110136,Uncommon,MOM,143a/291,No,No,0
-"Into the Fire",1,110140,Rare,MOM,144/291,No,No,0
+"Into the Fire",2,110140,Rare,MOM,144/291,No,No,0
 "Invasion of Kaldheim",1,110142,Rare,MOM,145a/291,No,No,0
 "Invasion of Karsus",1,110146,Rare,MOM,146a/291,No,No,0
 "Invasion of Mercadia",1,110150,Uncommon,MOM,147a/291,No,No,0
@@ -9529,7 +9624,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Volcanic Spite",1,110208,Common,MOM,170/291,No,No,0
 "Voldaren Thrillseeker",1,110210,Rare,MOM,171/291,No,No,0
 "War-Trained Slasher",1,110212,Common,MOM,172/291,No,No,0
-"Wrenn's Resolve",1,110214,Common,MOM,173/291,No,No,0
+"Wrenn's Resolve",5,110214,Common,MOM,173/291,No,No,0
 "Ancient Imperiosaur",5,110216,Rare,MOM,174/291,No,No,0
 "Arachnoid Adaptation",1,110218,Common,MOM,175/291,No,No,0
 "Atraxa's Fall",1,110220,Common,MOM,176/291,No,No,0
@@ -9637,6 +9732,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Avatar - Zimone and Dina",2,111485,Rare,VAN,522/601,No,No,0
 "Avatar - Ghalta and Mavren",4,111486,Rare,VAN,523/601,No,No,0
 "Avatar - Borborygmos and Fblthp",1,111489,Rare,VAN,526/601,No,No,0
+"Fires of Mount Doom",1,111522,Rare,LTR,392,No,No,0
+"Bilbo's Ring",1,111532,Rare,LTR,397,No,No,0
 "Flame of Anor",4,111536,Rare,LTR,406,No,No,0
 "Boromir, Warden of the Tower",4,111538,Rare,LTR,407,No,No,0
 "Aragorn, Company Leader",1,111544,Rare,LTR,410,No,No,0
@@ -9665,8 +9762,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Call of the Ring",4,112068,Rare,LTR,79,No,No,0
 "Nazgûl",1,112111,Uncommon,LTR,100,Yes,No,0"One Ring to Rule Them All",1,112114,Rare,LTR,102,No,No,0
 "Cast into the Fire",4,112146,Common,LTR,118,No,No,0
+"Fear, Fire, Foes!",4,112160,Uncommon,LTR,125,No,No,0
 "Moria Marauder",4,112186,Rare,LTR,138,No,No,0
 "Elven Chorus",4,112230,Rare,LTR,160,No,No,0
+"Fall of Gil-galad",1,112240,Rare,LTR,165,No,No,0
 "Legolas, Master Archer",4,112256,Rare,LTR,173,No,No,0
 "Flame of Anor",4,112316,Rare,LTR,203,No,No,0
 "Gandalf the Grey",4,112324,Rare,LTR,207,No,No,0
@@ -9711,14 +9810,17 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Archon of the Wild Rose",2,116124,Promo,WOE,323,No,No,0
 "Tangled Colony",1,116166,Promo,WOE,344,No,No,0
 "Redcap Gutter-Dweller",1,116180,Promo,WOE,351,No,No,0
+"Agatha of the Vile Cauldron",1,116198,Promo,WOE,360,No,No,0
 "Likeness Looter",2,116206,Promo,WOE,364,No,No,0
 "Syr Ginger, the Meal Ender",1,116216,Promo,WOE,369,No,No,0
 "Not Dead After All",4,116518,Common,WOE,101,No,No,0
 "Not Dead After All",4,116519,Common,WOE,101,Yes,No,0
+"Tangled Colony",1,116542,Rare,WOE,113,No,No,0
+"Goddric, Cloaked Reveler",1,116584,Rare,WOE,132,No,No,0
 "Imodane, the Pyrohammer",1,116598,Rare,WOE,137,No,No,0
 "Up the Beanstalk",4,116732,Uncommon,WOE,195,No,No,0
+"Likeness Looter",1,116760,Rare,WOE,208,No,No,0
 "Heartflame Duelist",1,116816,Rare,WOE,228,No,No,0
-"Agatha's Soul Cauldron",1,116872,Mythic Rare,WOE,242,No,No,0
 "Plains",1,116933,Land,WOE,262,Yes,No,0
 "Island",1,116935,Land,WOE,263,Yes,No,0
 "Mountain",1,116939,Land,WOE,265,Yes,No,0
@@ -9728,9 +9830,12 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Saheeli, the Sun's Brilliance",1,117508,Promo,LCI,308,No,No,0
 "Ojer Pakpatiq, Deepest Epoch",1,117526,Promo,LCI,315a,No,No,0
 "Spyglass Siren",1,117545,Promo,LCI,405,Yes,No,0
-"Bartolomé del Presidio",1,117553,Promo,LCI,409,Yes,No,0"Scytheclaw Raptor",1,117723,Promo,LCI,323,Yes,No,0
+"Bartolomé del Presidio",1,117553,Promo,LCI,409,Yes,No,0"Thousand Moons Smithy",1,117562,Promo,LCI,357a,No,No,0
+"Scytheclaw Raptor",1,117723,Promo,LCI,323,Yes,No,0
 "Hulking Raptor",1,117730,Promo,LCI,327,No,No,0
 "Abuelo's Awakening",1,117778,Rare,LCI,1,No,No,0
+"Deeproot Pilgrimage",1,117894,Rare,LCI,52,No,No,0
+"Ojer Pakpatiq, Deepest Epoch",1,117932,Mythic Rare,LCI,67a,No,No,0
 "Hit the Mother Lode",1,118124,Rare,LCI,153,No,No,0
 "Tarrian's Soulcleaver",1,118372,Rare,LCI,264,No,No,0
 "Island",1,118425,Land,LCI,288,Yes,No,0
@@ -9740,7 +9845,9 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Expedition Map",1,118591,Promo,LCC,112,Yes,No,0
 "Lightning Greaves",1,118595,Promo,LCC,114,Yes,No,0
 "Sol Ring",2,119026,Uncommon,LCC,313,No,No,0
+"Riders of the Mark",1,119290,Rare,LTR,832,No,No,0
 "Goldberry, River-Daughter",1,119396,Rare,LTR,503,No,No,0
+"The Watcher in the Water",1,119442,Mythic Rare,LTR,526,No,No,0
 "Glóin, Dwarf Emissary",1,119556,Rare,LTR,583,No,No,0"Spiteful Banditry",1,119590,Mythic Rare,LTR,600,No,No,0
 "Elven Chorus",4,119612,Rare,LTR,611,No,No,0
 "Generous Ent",4,119630,Common,LTR,620,No,No,0
@@ -9756,18 +9863,22 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Auspicious Arrival",1,121159,Promo,MKM,288,Yes,No,0
 "Worldsoul's Rage",1,121214,Promo,MKM,316,No,No,0
 "Lightning Helix",1,121223,Promo,MKM,426,Yes,No,0
+"Lazav, Wearer of Faces",1,121234,Promo,MKM,318,No,No,0
+"Unyielding Gatekeeper",1,121250,Promo,MKM,392,No,No,0
 "Lamplight Phoenix",4,121278,Promo,MKM,406,No,No,0
+"Leyline of the Guildpact",4,121302,Promo,MKM,418,No,No,0
 "Gleaming Geardrake",1,121363,Promo,MKM,361,Yes,No,0
 "Wispdrinker Vampire",1,121389,Promo,MKM,374,Yes,No,0
 "Yarus, Roar of the Old Gods",1,121390,Promo,MKM,375,No,No,0
-"Commercial District",4,121432,Promo,MKM,324,No,No,0
+"Commercial District",1,121432,Promo,MKM,324,No,No,0
 "Hedge Maze",1,121436,Promo,MKM,326,No,No,0
 "Lush Portico",4,121438,Promo,MKM,327,No,No,0
+"Meticulous Archive",1,121440,Promo,MKM,328,No,No,0
 "Raucous Theater",4,121442,Promo,MKM,329,No,No,0
 "Shadowy Backstreet",4,121444,Promo,MKM,330,No,No,0
 "Thundering Falls",4,121446,Promo,MKM,331,No,No,0
 "Underground Mortuary",4,121450,Promo,MKM,333,No,No,0
-"Assemble the Players",5,121496,Rare,MKM,3,No,No,0
+"Assemble the Players",6,121496,Rare,MKM,3,No,No,0
 "Case of the Uneaten Feast",4,121508,Rare,MKM,10,No,No,0
 "Doorkeeper Thrull",2,121514,Rare,MKM,13,No,No,0
 "No Witnesses",4,121542,Rare,MKM,27,No,No,0
@@ -9776,6 +9887,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Case of the Ransacked Lab",4,121576,Rare,MKM,45,No,No,0
 "Coveted Falcon",4,121582,Rare,MKM,48,No,No,0
 "Forensic Gadgeteer",4,121600,Rare,MKM,57,No,No,0
+"Intrude on the Mind",1,121608,Mythic Rare,MKM,61,No,No,0
 "Lost in the Maze",4,121614,Rare,MKM,64,No,No,0
 "Reenact the Crime",4,121626,Rare,MKM,70,No,No,0
 "Steamcore Scholar",4,121628,Rare,MKM,71,No,No,0
@@ -9868,6 +9980,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Fortune, Loyal Steed",4,123935,Rare,OTJ,12,No,No,0
 "One Last Job",4,123955,Rare,OTJ,22,No,No,0
 "Archmage's Newt",4,123989,Rare,OTJ,39,No,No,0
+"Double Down",1,123999,Mythic Rare,OTJ,44,No,No,0
 "Fblthp, Lost on the Range",4,124007,Rare,OTJ,48,No,No,0
 "The Key to the Vault",4,124019,Rare,OTJ,54,No,No,0
 "Step Between Worlds",4,124051,Rare,OTJ,70,No,No,0
@@ -9877,11 +9990,9 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Vadmir, New Blood",4,124137,Rare,OTJ,113,No,No,0
 "Calamity, Galloping Inferno",4,124143,Rare,OTJ,116,No,No,0
 "Great Train Heist",4,124161,Rare,OTJ,125,No,No,0
-"Hell to Pay",4,124163,Rare,OTJ,126,No,No,0
+"Hell to Pay",6,124163,Rare,OTJ,126,No,No,0
 "Hellspur Posse Boss",4,124167,Rare,OTJ,128,No,No,0
-"Magebane Lizard",4,124179,Uncommon,OTJ,134,No,No,0
-"Slickshot Show-Off",4,124204,Rare,OTJ,146,Yes,No,0
-"Stingerback Terror",4,124205,Rare,OTJ,147,No,No,0
+"Stingerback Terror",5,124205,Rare,OTJ,147,No,No,0
 "Colossal Rattlewurm",4,124229,Rare,OTJ,159,No,No,0
 "Freestrider Lookout",4,124237,Rare,OTJ,163,No,No,0
 "Ornery Tumblewagg",4,124253,Rare,OTJ,171,No,No,0
@@ -9911,22 +10022,33 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sol Ring",4,124997,Uncommon,OTC,267,No,No,0
 "Command Tower",4,125023,Common,OTC,280,No,No,0
 "Lost Jitte",4,125407,Mythic Rare,BIG,23,No,No,0
+"Nexus of Becoming",1,125411,Mythic Rare,BIG,25,No,No,0
 "Scapeshift",1,125435,Mythic Rare,SPG,34,No,No,0
 "Avatar - The Gitrog, Ravenous Ride",1,125477,Rare,VAN,587/601,No,No,0
+"Ulamog, the Defiler",4,125488,Promo,MH3,476,Yes,No,0
 "Phelia, Exuberant Shepherd",4,125492,Promo,MH3,478,Yes,No,0
+"Eladamri, Korvecdal",4,125502,Promo,MH3,483,Yes,No,0
 "Unholy Heat",1,125550,Promo,MH3,13,Yes,No,0
 "Metastatic Evangel",2,125575,Promo,MH3,393,No,No,0
 "Aether Spike",1,125586,Promo,MH3,398,Yes,No,0
+"Eladamri, Korvecdal",4,125635,Promo,MH3,423,No,No,0
 "Evolution Witness",1,125638,Promo,MH3,424,Yes,No,0
 "Priest of Titania",1,125645,Promo,MH3,428,No,No,0
+"Six",1,125649,Promo,MH3,430,No,No,0
+"Imskir Iron-Eater",1,125651,Promo,MH3,431,No,No,0
 "Windswept Heath",1,125669,Promo,MH3,440,No,No,0
+"Invert Polarity",4,125697,Promo,MH3,459,No,No,0
 "Powerbalance",4,125717,Promo,MH3,495,No,No,0
 "Phelia, Exuberant Shepherd",4,125723,Promo,MH3,364,No,No,0
+"Ashling, Flame Dancer",1,125729,Promo,MH3,367,No,No,0
 "Eladamri, Korvecdal",1,125733,Promo,MH3,369,No,No,0
+"Breya, Etherium Shaper",1,125739,Promo,MH3,372,No,No,0
 "Kudo, King Among Bears",1,125747,Promo,MH3,376,No,No,0
 "Arena of Glory",1,125759,Promo,MH3,351,No,No,0
 "Monumental Henge",1,125765,Promo,MH3,354,No,No,0
+"Spymaster's Vault",1,125773,Promo,MH3,358,No,No,0
 "Echoes of Eternity",2,125807,Promo,MH3,320,No,No,0
+"Ocelot Pride",1,125811,Promo,MH3,322,No,No,0
 "Chthonian Nightmare",1,125827,Promo,MH3,330,No,No,0
 "Warren Soultrader",1,125831,Promo,MH3,332,No,No,0
 "Birthing Ritual",1,125841,Promo,MH3,337,No,No,0
@@ -9934,47 +10056,48 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Angel of the Ruins",3,125935,Uncommon,MH3,262,No,No,0
 "Angel of the Ruins",2,125936,Uncommon,MH3,262,Yes,No,0
 "Decree of Justice",2,125937,Uncommon,MH3,263,No,No,0
-"Orim's Chant",5,125941,Rare,MH3,265,No,No,0
-"Recruiter of the Guard",1,125943,Mythic Rare,MH3,266,No,No,0
-"Sevinne's Reclamation",4,125945,Rare,MH3,267,No,No,0
-"Estrid's Invocation",6,125949,Rare,MH3,269,No,No,0
-"Kappa Cannoneer",4,125951,Rare,MH3,270,No,No,0
+"Orim's Chant",9,125941,Rare,MH3,265,No,No,0
+"Recruiter of the Guard",5,125943,Mythic Rare,MH3,266,No,No,0
+"Sevinne's Reclamation",8,125945,Rare,MH3,267,No,No,0
+"Estrid's Invocation",10,125949,Rare,MH3,269,No,No,0
+"Kappa Cannoneer",8,125951,Rare,MH3,270,No,No,0
+"Kappa Cannoneer",4,125952,Rare,MH3,270,Yes,No,0
 "Reef Worm",2,125953,Uncommon,MH3,271,No,No,0
 "Shrieking Drake",1,125955,Uncommon,MH3,272,No,No,0
 "Buried Alive",5,125957,Uncommon,MH3,273,No,No,0
-"K'rrik, Son of Yawgmoth",5,125959,Rare,MH3,274,No,No,0
+"K'rrik, Son of Yawgmoth",9,125959,Rare,MH3,274,No,No,0
 "Nadier's Nightblade",5,125961,Uncommon,MH3,275,No,No,0
-"Ophiomancer",6,125963,Rare,MH3,276,No,No,0
-"Toxic Deluge",4,125965,Rare,MH3,277,No,No,0
+"Ophiomancer",10,125963,Rare,MH3,276,No,No,0
+"Toxic Deluge",8,125965,Rare,MH3,277,No,No,0
 "Victimize",4,125967,Uncommon,MH3,278,No,No,0
-"Cursed Mirror",7,125969,Rare,MH3,279,No,No,0
+"Cursed Mirror",11,125969,Rare,MH3,279,No,No,0
 "Fledgling Dragon",3,125971,Uncommon,MH3,280,No,No,0
 "Fledgling Dragon",1,125972,Uncommon,MH3,280,Yes,No,0
-"Laelia, the Blade Reforged",6,125973,Rare,MH3,281,No,No,0
+"Laelia, the Blade Reforged",10,125973,Rare,MH3,281,No,No,0
 "Meltdown",5,125975,Uncommon,MH3,282,No,No,0
 "Meteoric Mace",2,125977,Uncommon,MH3,283,No,No,0
 "Annoyed Altisaur",1,125979,Uncommon,MH3,284,No,No,0
-"Branching Evolution",7,125981,Rare,MH3,285,No,No,0
+"Branching Evolution",11,125981,Rare,MH3,285,No,No,0
 "Priest of Titania",4,125983,Uncommon,MH3,286,No,No,0
 "Priest of Titania",1,125984,Uncommon,MH3,286,Yes,No,0
-"Sylvan Safekeeper",5,125985,Rare,MH3,287,No,No,0
+"Sylvan Safekeeper",9,125985,Rare,MH3,287,No,No,0
 "Wirewood Symbiote",3,125987,Uncommon,MH3,288,No,No,0
-"Breya, Etherium Shaper",4,125989,Mythic Rare,MH3,289,No,No,0
-"Kaalia of the Vast",4,125991,Mythic Rare,MH3,290,No,No,0
-"Emerald Medallion",4,125993,Rare,MH3,291,No,No,0
+"Breya, Etherium Shaper",8,125989,Mythic Rare,MH3,289,No,No,0
+"Kaalia of the Vast",8,125991,Mythic Rare,MH3,290,No,No,0
+"Emerald Medallion",8,125993,Rare,MH3,291,No,No,0
 "Emerald Medallion",1,125994,Rare,MH3,291,Yes,No,0
-"Jet Medallion",4,125995,Rare,MH3,292,No,No,0
+"Jet Medallion",8,125995,Rare,MH3,292,No,No,0
 "Junk Diver",2,125997,Uncommon,MH3,293,No,No,0
 "Junk Diver",1,125998,Uncommon,MH3,293,Yes,No,0
-"Pearl Medallion",8,125999,Rare,MH3,294,No,No,0
+"Pearl Medallion",12,125999,Rare,MH3,294,No,No,0
 "Ruby Medallion",4,126001,Rare,MH3,295,No,No,0
-"Sapphire Medallion",4,126003,Rare,MH3,296,No,No,0
-"Urza's Incubator",4,126005,Rare,MH3,297,No,No,0
+"Sapphire Medallion",8,126003,Rare,MH3,296,No,No,0
+"Urza's Incubator",12,126005,Rare,MH3,297,No,No,0
 "Worn Powerstone",5,126007,Uncommon,MH3,298,No,No,0
 "Barbarian Ring",4,126009,Uncommon,MH3,299,No,No,0
 "Barbarian Ring",1,126010,Uncommon,MH3,299,Yes,No,0
 "Cephalid Coliseum",6,126011,Uncommon,MH3,300,No,No,0
-"Deserted Temple",6,126013,Rare,MH3,301,No,No,0
+"Deserted Temple",10,126013,Rare,MH3,301,No,No,0
 "Deserted Temple",2,126014,Rare,MH3,301,Yes,No,0
 "Nesting Grounds",8,126015,Uncommon,MH3,302,No,No,0
 "Phyrexian Tower",5,126017,Mythic Rare,MH3,303,No,No,0
@@ -9983,30 +10106,32 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Devourer of Destiny",5,126021,Rare,MH3,2,No,No,0
 "Drownyard Lurker",12,126023,Common,MH3,3,No,No,0
 "Drownyard Lurker",1,126024,Common,MH3,3,Yes,No,0
-"Echoes of Eternity",7,126025,Rare,MH3,4,No,No,0
+"Echoes of Eternity",11,126025,Rare,MH3,4,No,No,0
 "Echoes of Eternity",1,126026,Rare,MH3,4,Yes,No,0
 "Eldrazi Ravager",1,126027,Uncommon,MH3,5,No,No,0
 "Eldrazi Ravager",1,126028,Uncommon,MH3,5,Yes,No,0
-"Emrakul, the World Anew",5,126029,Mythic Rare,MH3,6,No,No,0
+"Emrakul, the World Anew",9,126029,Mythic Rare,MH3,6,No,No,0
+"Emrakul, the World Anew",4,126030,Mythic Rare,MH3,6,Yes,No,0
 "Glaring Fleshraker",6,126031,Uncommon,MH3,7,No,No,0
 "Herigast, Erupting Nullkite",5,126033,Mythic Rare,MH3,8,No,No,0
 "It That Heralds the End",7,126035,Uncommon,MH3,9,No,No,0
 "It That Heralds the End",1,126036,Uncommon,MH3,9,Yes,No,0
-"Kozilek, the Broken Reality",6,126037,Mythic Rare,MH3,10,No,No,0
+"Kozilek, the Broken Reality",10,126037,Mythic Rare,MH3,10,No,No,0
 "Kozilek's Command",4,126039,Rare,MH3,11,No,No,0
 "Kozilek's Command",1,126040,Rare,MH3,11,Yes,No,0
 "Null Elemental Blast",3,126041,Uncommon,MH3,12,No,No,0
 "Null Elemental Blast",1,126042,Uncommon,MH3,12,Yes,No,0
 "Nulldrifter",4,126043,Rare,MH3,13,No,No,0
 "Twisted Riddlekeeper",7,126045,Uncommon,MH3,14,No,No,0
-"Ulamog, the Defiler",3,126047,Mythic Rare,MH3,15,No,No,0
+"Ulamog, the Defiler",7,126047,Mythic Rare,MH3,15,No,No,0
+"Ulamog, the Defiler",4,126048,Mythic Rare,MH3,15,Yes,No,0
 "Warped Tusker",13,126049,Common,MH3,16,No,No,0
 "Warped Tusker",1,126050,Common,MH3,16,Yes,No,0
 "Wastescape Battlemage",4,126051,Uncommon,MH3,17,No,No,0
 "Aerie Auxiliary",13,126053,Common,MH3,18,No,No,0
 "Aerie Auxiliary",1,126054,Common,MH3,18,Yes,No,0
 "Ajani Fells the Godsire",3,126055,Uncommon,MH3,19,No,No,0
-"Argent Dais",4,126057,Rare,MH3,20,No,No,0
+"Argent Dais",8,126057,Rare,MH3,20,No,No,0
 "Charitable Levy",4,126059,Uncommon,MH3,21,No,No,0
 "Charitable Levy",1,126060,Uncommon,MH3,21,Yes,No,0
 "Dog Umbra",13,126061,Common,MH3,22,No,No,0
@@ -10014,7 +10139,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Envoy of the Ancestors",2,126064,Uncommon,MH3,23,Yes,No,0
 "Essence Reliquary",3,126065,Uncommon,MH3,24,No,No,0
 "Expel the Unworthy",4,126067,Common,MH3,25,No,No,0
-"Flare of Fortitude",4,126069,Rare,MH3,26,No,No,0
+"Flare of Fortitude",8,126069,Rare,MH3,26,No,No,0
 "Glyph Elemental",5,126071,Uncommon,MH3,27,No,No,0
 "Glyph Elemental",1,126072,Uncommon,MH3,27,Yes,No,0
 "Guardian of the Forgotten",4,126073,Uncommon,MH3,28,No,No,0
@@ -10034,8 +10159,9 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Muster the Departed",3,126089,Uncommon,MH3,36,No,No,0
 "Nyxborn Unicorn",23,126091,Common,MH3,37,No,No,0
 "Nyxborn Unicorn",4,126092,Common,MH3,37,Yes,No,0
-"Pearl-Ear, Imperial Advisor",5,126095,Rare,MH3,39,No,No,0
-"Phelia, Exuberant Shepherd",5,126097,Rare,MH3,40,No,No,0
+"Ocelot Pride",4,126093,Mythic Rare,MH3,38,No,No,0
+"Pearl-Ear, Imperial Advisor",9,126095,Rare,MH3,39,No,No,0
+"Phelia, Exuberant Shepherd",9,126097,Rare,MH3,40,No,No,0
 "Phelia, Exuberant Shepherd",4,126098,Rare,MH3,40,Yes,No,0
 "Proud Pack-Rhino",4,126099,Uncommon,MH3,41,No,No,0
 "Rosecot Knight",14,126101,Common,MH3,42,No,No,0
@@ -10045,12 +10171,12 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Static Prison",12,126105,Uncommon,MH3,44,No,No,0
 "Thraben Charm",11,126107,Common,MH3,45,No,No,0
 "Voltstorm Angel",11,126109,Uncommon,MH3,46,No,No,0
-"White Orchid Phantom",4,126111,Rare,MH3,47,No,No,0
+"White Orchid Phantom",8,126111,Rare,MH3,47,No,No,0
 "Wing It",16,126113,Common,MH3,48,No,No,0
 "Wing It",1,126114,Common,MH3,48,Yes,No,0
 "Wrath of the Skies",4,126115,Rare,MH3,49,No,No,0
 "Aether Spike",13,126117,Common,MH3,50,No,No,0
-"Amphibian Downpour",4,126119,Rare,MH3,51,No,No,0
+"Amphibian Downpour",8,126119,Rare,MH3,51,No,No,0
 "Bespoke Battlewagon",5,126121,Uncommon,MH3,52,No,No,0
 "Brainsurge",5,126123,Uncommon,MH3,53,No,No,0
 "Brainsurge",1,126124,Uncommon,MH3,53,Yes,No,0
@@ -10059,7 +10185,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Corrupted Shapeshifter",7,126129,Common,MH3,56,No,No,0
 "Deem Inferior",7,126131,Common,MH3,57,No,No,0
 "Depth Defiler",5,126133,Uncommon,MH3,58,No,No,0
-"Dreamtide Whale",4,126135,Rare,MH3,59,No,No,0
+"Dreamtide Whale",8,126135,Rare,MH3,59,No,No,0
 "Electrozoa",6,126137,Common,MH3,60,No,No,0
 "Electrozoa",1,126138,Common,MH3,60,Yes,No,0
 "Emrakul's Messenger",3,126139,Uncommon,MH3,61,No,No,0
@@ -10077,8 +10203,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Sage of the Unknowable",1,126154,Common,MH3,68,Yes,No,0
 "Serum Visionary",13,126155,Common,MH3,69,No,No,0
 "Serum Visionary",3,126156,Common,MH3,69,Yes,No,0
-"Shadow of the Second Sun",4,126157,Mythic Rare,MH3,70,No,No,0
-"Strix Serenade",8,126159,Rare,MH3,71,No,No,0
+"Shadow of the Second Sun",8,126157,Mythic Rare,MH3,70,No,No,0
+"Strix Serenade",13,126159,Rare,MH3,71,No,No,0
 "Tamiyo Meets the Story Circle",2,126161,Uncommon,MH3,72,No,No,0
 "Tempest Harvester",10,126163,Common,MH3,73,No,No,0
 "Tempest Harvester",3,126164,Common,MH3,73,Yes,No,0
@@ -10091,14 +10217,14 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Unfathomable Truths",1,126172,Common,MH3,77,Yes,No,0
 "Utter Insignificance",12,126173,Common,MH3,78,No,No,0
 "Utter Insignificance",1,126174,Common,MH3,78,Yes,No,0
-"Volatile Stormdrake",8,126175,Rare,MH3,79,No,No,0
+"Volatile Stormdrake",12,126175,Rare,MH3,79,No,No,0
 "Accursed Marauder",2,126177,Common,MH3,80,No,No,0
 "Arcbound Condor",2,126179,Uncommon,MH3,81,No,No,0
 "Breathe Your Last",9,126181,Common,MH3,82,No,No,0
-"Chthonian Nightmare",6,126183,Rare,MH3,83,No,No,0
+"Chthonian Nightmare",7,126183,Rare,MH3,83,No,No,0
 "Chthonian Nightmare",4,126184,Rare,MH3,83,Yes,No,0
 "Consuming Corruption",1,126185,Uncommon,MH3,84,No,No,0
-"Crabomination",6,126187,Rare,MH3,85,No,No,0
+"Crabomination",10,126187,Rare,MH3,85,No,No,0
 "The Creation of Avacyn",4,126189,Uncommon,MH3,86,No,No,0
 "Dreadmobile",6,126191,Uncommon,MH3,87,No,No,0
 "Dreamdrinker Vampire",3,126193,Common,MH3,88,No,No,0
@@ -10108,35 +10234,35 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Etherium Pteramander",1,126201,Uncommon,MH3,92,No,No,0
 "Eviscerator's Insight",5,126203,Common,MH3,93,No,No,0
 "Fetid Gargantua",5,126205,Common,MH3,94,No,No,0
-"Flare of Malice",5,126207,Rare,MH3,95,No,No,0
+"Flare of Malice",9,126207,Rare,MH3,95,No,No,0
 "Gravedig",9,126209,Common,MH3,96,No,No,0
 "Grim Servant",2,126211,Uncommon,MH3,97,No,No,0
 "Kami of Jealous Thirst",8,126213,Common,MH3,98,No,No,0
 "Lethal Throwdown",2,126215,Uncommon,MH3,99,No,No,0
 "Marionette Apprentice",4,126217,Uncommon,MH3,100,No,No,0
 "Mindless Conscription",1,126219,Uncommon,MH3,101,No,No,0
-"Nethergoyf",3,126223,Mythic Rare,MH3,103,No,No,0
+"Necrodominance",4,126221,Mythic Rare,MH3,102,No,No,0
 "Nethergoyf",4,126224,Mythic Rare,MH3,103,Yes,No,0
 "Quest for the Necropolis",1,126225,Uncommon,MH3,104,No,No,0
 "Refurbished Familiar",10,126227,Common,MH3,105,No,No,0
 "Refurbished Familiar",1,126228,Common,MH3,105,Yes,No,0
 "Retrofitted Transmogrant",4,126229,Common,MH3,106,No,No,0
-"Ripples of Undeath",6,126231,Rare,MH3,107,No,No,0
+"Ripples of Undeath",10,126231,Rare,MH3,107,No,No,0
 "Scurrilous Sentry",9,126233,Common,MH3,108,No,No,0
 "Scurrilous Sentry",4,126234,Common,MH3,108,Yes,No,0
-"Shilgengar, Sire of Famine",4,126235,Rare,MH3,109,No,No,0
+"Shilgengar, Sire of Famine",8,126235,Rare,MH3,109,No,No,0
 "Warren Soultrader",6,126237,Rare,MH3,110,No,No,0
 "Warren Soultrader",1,126238,Rare,MH3,110,Yes,No,0
 "Wither and Bloom",4,126239,Common,MH3,111,No,No,0
 "Wither and Bloom",1,126240,Common,MH3,111,Yes,No,0
 "Wurmcoil Larva",3,126241,Uncommon,MH3,112,No,No,0
-"Aether Revolt",6,126243,Rare,MH3,113,No,No,0
+"Aether Revolt",10,126243,Rare,MH3,113,No,No,0
 "Amped Raptor",8,126245,Uncommon,MH3,114,No,No,0
-"Ashling, Flame Dancer",4,126247,Mythic Rare,MH3,115,No,No,0
+"Ashling, Flame Dancer",12,126247,Mythic Rare,MH3,115,No,No,0
 "Detective's Phoenix",6,126249,Rare,MH3,116,No,No,0
 "Eldrazi Linebreaker",8,126251,Rare,MH3,117,No,No,0
 "Fanged Flames",12,126253,Common,MH3,118,No,No,0
-"Flare of Duplication",4,126255,Rare,MH3,119,No,No,0
+"Flare of Duplication",8,126255,Rare,MH3,119,No,No,0
 "Frogmyr Enforcer",1,126257,Uncommon,MH3,120,No,No,0
 "Furnace Hellkite",2,126259,Uncommon,MH3,121,No,No,0
 "Galvanic Discharge",19,126261,Common,MH3,122,No,No,0
@@ -10151,10 +10277,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Inventor's Axe",1,126270,Common,MH3,126,Yes,No,0
 "Mogg Mob",4,126271,Uncommon,MH3,127,No,No,0
 "Molten Gatekeeper",7,126273,Common,MH3,128,No,No,0
-"Party Thrasher",8,126275,Rare,MH3,129,No,No,0
+"Party Thrasher",12,126275,Rare,MH3,129,No,No,0
 "Party Thrasher",1,126276,Rare,MH3,129,Yes,No,0
 "Phyrexian Ironworks",3,126277,Uncommon,MH3,130,No,No,0
-"Powerbalance",5,126279,Rare,MH3,131,No,No,0
+"Powerbalance",13,126279,Rare,MH3,131,No,No,0
 "Ral and the Implicit Maze",5,126281,Uncommon,MH3,132,No,No,0
 "Ral and the Implicit Maze",1,126282,Uncommon,MH3,132,Yes,No,0
 "Reckless Pyrosurfer",6,126283,Uncommon,MH3,133,No,No,0
@@ -10172,21 +10298,22 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Unstable Amulet",8,126301,Uncommon,MH3,142,No,No,0
 "Unstable Amulet",1,126302,Uncommon,MH3,142,Yes,No,0
 "Voidpouncer",8,126303,Common,MH3,143,No,No,0
-"Wheel of Potential",4,126305,Rare,MH3,144,No,No,0
+"Wheel of Potential",12,126305,Rare,MH3,144,No,No,0
 "Basking Broodscale",12,126307,Common,MH3,145,No,No,0
 "Basking Broodscale",1,126308,Common,MH3,145,Yes,No,0
 "Birthing Ritual",4,126309,Mythic Rare,MH3,146,No,No,0
 "Collective Resistance",3,126311,Uncommon,MH3,147,No,No,0
 "Colossal Dreadmask",13,126313,Common,MH3,148,No,No,0
 "Colossal Dreadmask",2,126314,Common,MH3,148,Yes,No,0
-"Eladamri, Korvecdal",2,126315,Mythic Rare,MH3,149,No,No,0
+"Eladamri, Korvecdal",6,126315,Mythic Rare,MH3,149,No,No,0
+"Eladamri, Korvecdal",4,126316,Mythic Rare,MH3,149,Yes,No,0
 "Eldrazi Repurposer",13,126317,Common,MH3,150,No,No,0
 "Eldrazi Repurposer",1,126318,Common,MH3,150,Yes,No,0
 "Evolution Witness",6,126319,Common,MH3,151,No,No,0
 "Fanatic of Rhonas",9,126321,Rare,MH3,152,No,No,0
 "Fanatic of Rhonas",4,126322,Rare,MH3,152,Yes,No,0
 "Fangs of Kalonia",3,126323,Uncommon,MH3,153,No,No,0
-"Flare of Cultivation",4,126325,Rare,MH3,154,No,No,0
+"Flare of Cultivation",8,126325,Rare,MH3,154,No,No,0
 "Fowl Strike",8,126327,Common,MH3,155,No,No,0
 "Fowl Strike",2,126328,Common,MH3,155,Yes,No,0
 "Gift of the Viper",9,126329,Common,MH3,156,No,No,0
@@ -10204,21 +10331,21 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Nightshade Dryad",1,126344,Common,MH3,163,Yes,No,0
 "Nyxborn Hydra",14,126345,Common,MH3,164,No,No,0
 "Path of Annihilation",2,126347,Uncommon,MH3,165,No,No,0
-"Primal Prayers",6,126349,Rare,MH3,166,No,No,0
+"Primal Prayers",14,126349,Rare,MH3,166,No,No,0
 "Propagator Drone",6,126351,Uncommon,MH3,167,No,No,0
 "Propagator Drone",2,126352,Uncommon,MH3,167,Yes,No,0
 "Signature Slam",2,126353,Uncommon,MH3,168,No,No,0
 "Six",7,126355,Rare,MH3,169,No,No,0
 "Sowing Mycospawn",4,126357,Rare,MH3,170,No,No,0
-"Springheart Nantuko",1,126359,Rare,MH3,171,No,No,0
+"Springheart Nantuko",5,126359,Rare,MH3,171,No,No,0
 "Temperamental Oozewagg",12,126361,Common,MH3,172,No,No,0
 "Territory Culler",4,126363,Uncommon,MH3,173,No,No,0
-"Thief of Existence",7,126365,Rare,MH3,174,No,No,0
+"Thief of Existence",11,126365,Rare,MH3,174,No,No,0
 "Trickster's Elk",1,126367,Uncommon,MH3,175,No,No,0
 "Wumpus Aberration",4,126369,Uncommon,MH3,176,No,No,0
 "Wumpus Aberration",1,126370,Uncommon,MH3,176,Yes,No,0
-"Abstruse Appropriation",3,126371,Rare,MH3,177,No,No,0
-"Arna Kennerüd, Skycaptain",4,126373,Mythic Rare,MH3,178,No,No,0"Conduit Goblin",16,126375,Common,MH3,179,No,No,0
+"Abstruse Appropriation",7,126371,Rare,MH3,177,No,No,0
+"Arna Kennerüd, Skycaptain",12,126373,Mythic Rare,MH3,178,No,No,0"Conduit Goblin",16,126375,Common,MH3,179,No,No,0
 "Conduit Goblin",1,126376,Common,MH3,179,Yes,No,0
 "Cranial Ram",8,126377,Common,MH3,180,No,No,0
 "Cursed Wombat",4,126379,Uncommon,MH3,181,No,No,0
@@ -10228,33 +10355,36 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Expanding Ooze",10,126385,Common,MH3,184,No,No,0
 "Expanding Ooze",1,126386,Common,MH3,184,Yes,No,0
 "Faithful Watchdog",11,126387,Common,MH3,185,No,No,0
-"Genku, Future Shaper",6,126389,Rare,MH3,186,No,No,0
+"Genku, Future Shaper",10,126389,Rare,MH3,186,No,No,0
 "Golden-Tail Trainer",7,126391,Uncommon,MH3,187,No,No,0
 "Golden-Tail Trainer",1,126392,Uncommon,MH3,187,Yes,No,0
 "Horrid Shadowspinner",1,126393,Uncommon,MH3,188,No,No,0
-"Imskir Iron-Eater",4,126395,Rare,MH3,189,No,No,0
+"Imskir Iron-Eater",8,126395,Rare,MH3,189,No,No,0
 "Imskir Iron-Eater",1,126396,Rare,MH3,189,Yes,No,0
-"Invert Polarity",4,126397,Rare,MH3,190,No,No,0
+"Invert Polarity",8,126397,Rare,MH3,190,No,No,0
+"Invert Polarity",4,126398,Rare,MH3,190,Yes,No,0
 "Izzet Generatorium",7,126399,Uncommon,MH3,191,No,No,0
-"Kudo, King Among Bears",7,126401,Rare,MH3,192,No,No,0
-"Nadu, Winged Wisdom",1,126403,Rare,MH3,193,No,No,0
-"The Necrobloom",2,126405,Rare,MH3,194,No,No,0
+"Kudo, King Among Bears",11,126401,Rare,MH3,192,No,No,0
+"Nadu, Winged Wisdom",5,126403,Rare,MH3,193,No,No,0
+"The Necrobloom",6,126405,Rare,MH3,194,No,No,0
 "Obstinate Gargoyle",8,126407,Common,MH3,195,No,No,0
 "Obstinate Gargoyle",1,126408,Common,MH3,195,Yes,No,0
 "Ondu Knotmaster",3,126409,Uncommon,MH3,196,No,No,0
+"Phlage, Titan of Fire's Fury",1,126413,Mythic Rare,MH3,197,No,No,0
 "Planar Genesis",2,126415,Uncommon,MH3,198,No,No,0
 "Planar Genesis",1,126416,Uncommon,MH3,198,Yes,No,0
-"Psychic Frog",3,126417,Rare,MH3,199,No,No,0
+"Psychic Frog",4,126417,Rare,MH3,199,No,No,0
 "Pyretic Rebirth",3,126419,Uncommon,MH3,200,No,No,0
 "Pyretic Rebirth",1,126420,Uncommon,MH3,200,Yes,No,0
 "Riddle Gate Gargoyle",15,126421,Common,MH3,201,No,No,0
-"Rosheen, Roaring Prophet",4,126423,Rare,MH3,202,No,No,0
+"Rosheen, Roaring Prophet",8,126423,Rare,MH3,202,No,No,0
 "Scurry of Gremlins",6,126425,Uncommon,MH3,203,No,No,0
 "Snapping Voidcraw",16,126427,Common,MH3,204,No,No,0
 "Sneaky Snacker",4,126429,Common,MH3,205,No,No,0
 "Sneaky Snacker",1,126430,Common,MH3,205,Yes,No,0
 "Titans' Vanguard",3,126431,Uncommon,MH3,206,No,No,0
-"Wight of the Reliquary",2,126433,Rare,MH3,207,No,No,0
+"Wight of the Reliquary",6,126433,Rare,MH3,207,No,No,0
+"Wight of the Reliquary",4,126434,Rare,MH3,207,Yes,No,0
 "Writhing Chrysalis",12,126435,Common,MH3,208,No,No,0
 "Writhing Chrysalis",1,126436,Common,MH3,208,Yes,No,0
 "Disruptor Flute",4,126437,Rare,MH3,209,No,No,0
@@ -10262,10 +10392,10 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Idol of False Gods",1,126440,Uncommon,MH3,210,Yes,No,0
 "Solar Transformer",4,126441,Uncommon,MH3,211,No,No,0
 "Solar Transformer",1,126442,Uncommon,MH3,211,Yes,No,0
-"Vexing Bauble",2,126443,Uncommon,MH3,212,No,No,0
+"Vexing Bauble",6,126443,Uncommon,MH3,212,No,No,0
 "Winter Moon",5,126445,Rare,MH3,213,No,No,0
-"Archway of Innovation",4,126447,Rare,MH3,214,No,No,0
-"Arena of Glory",7,126449,Rare,MH3,215,No,No,0
+"Archway of Innovation",8,126447,Rare,MH3,214,No,No,0
+"Arena of Glory",8,126449,Rare,MH3,215,No,No,0
 "Bloodstained Mire",5,126451,Rare,MH3,216,No,No,0
 "Bountiful Landscape",7,126453,Common,MH3,217,No,No,0
 "Bountiful Landscape",2,126454,Common,MH3,217,Yes,No,0
@@ -10276,7 +10406,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Flooded Strand",5,126459,Rare,MH3,220,No,No,0
 "Foreboding Landscape",11,126461,Common,MH3,221,No,No,0
 "Foreboding Landscape",1,126462,Common,MH3,221,Yes,No,0
-"Monumental Henge",5,126463,Rare,MH3,222,No,No,0
+"Monumental Henge",10,126463,Rare,MH3,222,No,No,0
 "Perilous Landscape",10,126465,Common,MH3,223,No,No,0
 "Perilous Landscape",1,126466,Common,MH3,223,Yes,No,0
 "Polluted Delta",5,126467,Rare,MH3,224,No,No,0
@@ -10289,22 +10419,24 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Shifting Woodland",4,126475,Rare,MH3,228,No,No,0
 "Snow-Covered Wastes",7,126477,Uncommon,MH3,229,No,No,0
 "Snow-Covered Wastes",2,126478,Uncommon,MH3,229,Yes,No,0
-"Spymaster's Vault",4,126479,Rare,MH3,230,No,No,0
+"Spymaster's Vault",8,126479,Rare,MH3,230,No,No,0
 "Tranquil Landscape",10,126481,Common,MH3,231,No,No,0
 "Twisted Landscape",9,126483,Common,MH3,232,No,No,0
+"Ugin's Labyrinth",4,126485,Mythic Rare,MH3,233,No,No,0
 "Ugin's Labyrinth",1,126486,Mythic Rare,MH3,233,Yes,No,0
 "Urza's Cave",5,126487,Uncommon,MH3,234,No,No,0
 "Windswept Heath",5,126489,Rare,MH3,235,No,No,0
 "Wooded Foothills",4,126491,Rare,MH3,236,No,No,0
 "Wooded Foothills",1,126492,Rare,MH3,236,Yes,No,0
+"Ajani, Nacatl Pariah",4,126494,Mythic Rare,MH3,237a,Yes,No,0
 "Razorgrass Ambush",6,126497,Uncommon,MH3,238a,No,No,0
 "Witch Enchanter",3,126501,Uncommon,MH3,239a,No,No,0
 "Hydroelectric Specimen",11,126505,Uncommon,MH3,240a,No,No,0
 "Sink into Stupor",8,126509,Uncommon,MH3,241a,No,No,0
-"Tamiyo, Inquisitive Student",1,126513,Mythic Rare,MH3,242a,No,No,0
 "Boggart Trawler",6,126517,Uncommon,MH3,243a,No,No,0
 "Fell the Profane",5,126521,Uncommon,MH3,244a,No,No,0
 "Fell the Profane",1,126522,Uncommon,MH3,244a,Yes,No,0
+"Sorin of House Markov",4,126525,Mythic Rare,MH3,245a,No,No,0
 "Pinnacle Monk",5,126529,Uncommon,MH3,246a,No,No,0
 "Pinnacle Monk",1,126530,Uncommon,MH3,246a,Yes,No,0
 "Ral, Monsoon Mage",6,126533,Mythic Rare,MH3,247a,No,No,0
@@ -10313,7 +10445,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Bridgeworks Battle",8,126541,Uncommon,MH3,249a,No,No,0
 "Bridgeworks Battle",1,126542,Uncommon,MH3,249a,Yes,No,0
 "Disciple of Freyalise",6,126545,Uncommon,MH3,250a,No,No,0
-"Grist, Voracious Larva",4,126549,Mythic Rare,MH3,251a,No,No,0
+"Grist, Voracious Larva",12,126549,Mythic Rare,MH3,251a,No,No,0
 "Bloodsoaked Insight",4,126553,Uncommon,MH3,252a,No,No,0
 "Bloodsoaked Insight",1,126554,Uncommon,MH3,252a,Yes,No,0
 "Drowner of Truth",4,126557,Uncommon,MH3,253a,No,No,0
@@ -10359,9 +10491,11 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Ulalek, Fused Atrocity",1,126759,Promo,M3C,16,No,No,0
 "Coram, the Undertaker",1,126766,Mythic Rare,M3C,138,Yes,No,0
 "Stitcher's Supplier",4,126949,Uncommon,M3C,204,No,No,0
+"Grist, the Hunger Tide",4,127073,Mythic Rare,M3C,264,No,No,0
 "Arcane Signet",4,127111,Common,M3C,283,No,No,0
 "Sol Ring",4,127155,Uncommon,M3C,305,No,No,0
 "Command Tower",4,127207,Common,M3C,331,No,No,0
+"Flooded Grove",4,127229,Rare,M3C,342,No,No,0
 "Cayth, Famed Mechanist",1,127473,Mythic Rare,M3C,6,No,No,0
 "Disa the Restless",1,127479,Mythic Rare,M3C,1,No,No,0
 "Satya, Aetherflux Genius",2,127483,Mythic Rare,M3C,3,No,No,0
@@ -10370,8 +10504,230 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Fury",1,127503,Mythic Rare,SPG,47,No,No,0
 "Hookblade Veteran",1,127597,Common,ACR,283,Yes,No,0
 "Labyrinth Adversary",1,127611,Uncommon,ACR,290,Yes,No,0
-"Roshan, Hidden Magister",1,127657,Promo,ACR,133,Yes,No,0
+"Surtr, Fiery Jötun",1,127616,Rare,ACR,293,No,No,0"Roshan, Hidden Magister",1,127657,Promo,ACR,133,Yes,No,0
 "Alexios, Deimos of Kosmos",1,127659,Promo,ACR,134,Yes,No,0
 "Ezio, Brash Novice",1,127681,Promo,ACR,145,Yes,No,0
 "Lydia Frye",1,127689,Promo,ACR,149,Yes,No,0
+"Layla Hassan",1,127710,Promo,ACR,177,No,No,0
+"Leonardo da Vinci",1,127742,Promo,ACR,193,No,No,0
+"Shaun & Rebecca, Agents",1,127850,Promo,ACR,247,No,No,0
 "Royal Assassin",1,127908,Promo,ACR,164,No,No,0
+"The Spear of Leonidas",1,127910,Promo,ACR,165,No,No,0
+"Arthur, Marigold Knight",1,128257,Promo,BLC,41,No,No,0
+"Gilded Goose",4,128589,Rare,BLC,221,No,No,0
+"Lotus Cobra",4,128605,Rare,BLC,229,No,No,0
+"Thundertrap Trainer",1,129027,Promo,BLB,307,No,No,0
+"Valley Floodcaller",1,129029,Promo,BLB,308,No,No,0
+"Glarb, Calamity's Augur",1,129075,Promo,BLB,331,No,No,0
+"Wear Down",1,129096,Promo,BLB,384,Yes,No,0
+"Zoraline, Cosmos Caller",4,129162,Promo,BLB,355,Yes,No,0
+"Rottenmouth Viper",1,129169,Promo,BLB,290,No,No,0
+"Dawn's Truce",4,129263,Rare,BLB,9,No,No,0
+"Essence Channeler",4,129269,Rare,BLB,12,No,No,0
+"Jackdaw Savior",4,129281,Rare,BLB,18,No,No,0
+"Salvation Swan",4,129301,Rare,BLB,28,No,No,0
+"Starfall Invocation",4,129313,Rare,BLB,34,No,No,0
+"Valley Questcaller",4,129317,Rare,BLB,36,No,No,0
+"Whiskervale Forerunner",4,129325,Rare,BLB,40,No,No,0
+"Azure Beastbinder",4,129327,Rare,BLB,41,No,No,0
+"Dour Port-Mage",4,129339,Rare,BLB,47,No,No,0
+"Kitnap",4,129351,Rare,BLB,53,No,No,0
+"Mockingbird",4,129367,Rare,BLB,61,No,No,0
+"Portent of Calamity",4,129377,Rare,BLB,66,No,No,0
+"Stormchaser's Talent",4,129395,Rare,BLB,75,No,No,0
+"Thundertrap Trainer",4,129401,Rare,BLB,78,No,No,0
+"Valley Floodcaller",4,129403,Rare,BLB,79,No,No,0
+"Wishing Well",4,129407,Rare,BLB,81,No,No,0
+"Coiling Rebirth",4,129417,Rare,BLB,86,No,No,0
+"Cruelclaw's Heist",4,129421,Rare,BLB,88,No,No,0
+"Darkstar Augur",4,129425,Rare,BLB,90,No,No,0
+"Osteomancer Adept",4,129451,Rare,BLB,103,No,No,0
+"Valley Rotcaller",4,129483,Rare,BLB,119,No,No,0
+"Wick, the Whorled Mind",4,129485,Rare,BLB,120,No,No,0
+"Byway Barterer",4,129503,Rare,BLB,129,No,No,0
+"Festival of Embers",4,129513,Rare,BLB,134,No,No,0
+"Hearthborn Battler",4,129523,Rare,BLB,139,No,No,0
+"Hired Claw",4,129525,Rare,BLB,140,No,No,0
+"Manifold Mouse",4,129531,Rare,BLB,143,No,No,0
+"Sunspine Lynx",4,129555,Rare,BLB,155,No,No,0
+"Valley Flamecaller",4,129561,Rare,BLB,158,No,No,0
+"Fecund Greenshell",4,129587,Rare,BLB,171,No,No,0
+"For the Common Good",4,129589,Rare,BLB,172,No,No,0
+"Keen-Eyed Curator",4,129607,Rare,BLB,181,No,No,0
+"Mistbreath Elder",4,129613,Rare,BLB,184,No,No,0
+"Pawpatch Recruit",4,129619,Rare,BLB,187,No,No,0
+"Scrapshooter",4,129627,Rare,BLB,191,No,No,0
+"Tender Wildguide",4,129637,Rare,BLB,196,No,No,0
+"Thornvault Forager",4,129639,Rare,BLB,197,No,No,0
+"Valley Mightcaller",4,129649,Rare,BLB,202,No,No,0
+"Alania, Divergent Storm",4,129653,Rare,BLB,204,No,No,0
+"Baylen, the Haymaker",4,129655,Rare,BLB,205,No,No,0
+"Camellia, the Seedmiser",4,129659,Rare,BLB,207,No,No,0
+"Clement, the Worrywort",4,129663,Rare,BLB,209,No,No,0
+"Dreamdew Entrancer",4,129667,Rare,BLB,211,No,No,0
+"Finneas, Ace Archer",4,129669,Rare,BLB,212,No,No,0
+"Gev, Scaled Scorch",4,129673,Rare,BLB,214,No,No,0
+"Kastral, the Windcrested",4,129687,Rare,BLB,221,No,No,0
+"Lunar Convocation",4,129691,Rare,BLB,223,No,No,0
+"Mabel, Heir to Cragflame",4,129693,Rare,BLB,224,No,No,0
+"Muerra, Trash Tactician",4,129699,Rare,BLB,227,No,No,0
+"Vren, the Relentless",4,129723,Rare,BLB,239,No,No,0
+"Zoraline, Cosmos Caller",4,129729,Rare,BLB,242,No,No,0
+"Fabled Passage",4,129749,Rare,BLB,252,No,No,0
+"Three Tree City",4,129765,Rare,BLB,260,No,No,0
+"Plains",1,129790,Land,BLB,262,Yes,No,0
+"Island",1,129798,Land,BLB,266,Yes,No,0
+"Island",1,129802,Land,BLB,268,Yes,No,0
+"Mountain",2,129816,Land,BLB,275,Yes,No,0
+"Withering Torment",1,129882,Promo,DSK,313,Yes,No,0
+"Cursed Recording",1,129886,Promo,DSK,315,Yes,No,0
+"Insidious Fungus",1,129898,Promo,DSK,321,Yes,No,0
+"Omnivorous Flytrap",4,129899,Promo,DSK,322,No,No,0
+"Omnivorous Flytrap",4,129900,Promo,DSK,322,Yes,No,0
+"Valgavoth's Faithful",1,129934,Promo,DSK,412,Yes,No,0
+"Drag to the Roots",1,129938,Promo,DSK,414,Yes,No,0
+"Optimistic Scavenger",1,129944,Promo,DSK,288,Yes,No,0
+"Stay Hidden, Stay Silent",1,129950,Promo,DSK,291,Yes,No,0
+"The Wandering Rescuer",1,130091,Promo,DSK,351,No,No,0
+"Dazzling Theater/Prop Room",4,130137,Rare,DSK,3,No,No,0
+"Dollmaker's Shop/Porcelain Gallery",4,130139,Mythic Rare,DSK,4,No,No,0
+"Exorcise",4,130147,Uncommon,DSK,8,No,No,0
+"Exorcise",4,130148,Uncommon,DSK,8,Yes,No,0
+"Ghostly Dancers",4,130157,Rare,DSK,13,No,No,0
+"Leyline of Hope",4,130167,Rare,DSK,18,No,No,0
+"Reluctant Role Model",4,130183,Rare,DSK,26,No,No,0
+"Split Up",4,130195,Rare,DSK,32,No,No,0
+"Toby, Beastie Befriender",4,130201,Rare,DSK,35,No,No,0
+"Unidentified Hovership",4,130205,Rare,DSK,37,No,No,0
+"Central Elevator/Promising Stairs",4,130219,Rare,DSK,44,No,No,0
+"Enduring Curiosity",8,130233,Rare,DSK,51,No,No,0
+"Enduring Curiosity",4,130234,Rare,DSK,51,Yes,No,0
+"Entity Tracker",4,130237,Rare,DSK,53,No,No,0
+"Leyline of Transformation",6,130257,Rare,DSK,63,No,No,0
+"Marina Vendrell's Grimoire",4,130259,Rare,DSK,64,No,No,0
+"The Mindskinner",4,130263,Rare,DSK,66,No,No,0
+"Mirror Room/Fractured Realm",4,130265,Mythic Rare,DSK,67,No,No,0
+"Silent Hallcreeper",4,130275,Rare,DSK,72,No,No,0
+"The Tale of Tamiyo",4,130281,Rare,DSK,75,No,No,0
+"Come Back Wrong",4,130303,Rare,DSK,86,No,No,0
+"Demonic Counsel",4,130315,Rare,DSK,92,No,No,0
+"Doomsday Excruciator",4,130319,Rare,DSK,94,No,No,0
+"Enduring Tenacity",4,130321,Rare,DSK,95,No,No,0
+"Funeral Room/Awakening Hall",4,130331,Mythic Rare,DSK,100,No,No,0
+"Grievous Wound",4,130335,Rare,DSK,102,No,No,0
+"Leyline of the Void",8,130343,Rare,DSK,106,No,No,0
+"Meathook Massacre II",4,130347,Mythic Rare,DSK,108,No,No,0
+"Unholy Annex/Ritual Chamber",4,130367,Rare,DSK,118,No,No,0
+"Unstoppable Slasher",4,130369,Rare,DSK,119,No,No,0
+"Chainsaw",4,130387,Rare,DSK,128,No,No,0
+"Charred Foyer/Warped Space",4,130389,Mythic Rare,DSK,129,No,No,0
+"Cursed Recording",4,130393,Rare,DSK,131,No,No,0
+"Enduring Courage",4,130397,Rare,DSK,133,No,No,0
+"Fear of Missing Out",4,130403,Rare,DSK,136,No,No,0
+"Leyline of Resonance",4,130417,Rare,DSK,143,No,No,0
+"Razorkin Needlehead",4,130437,Rare,DSK,153,No,No,0
+"The Rollercrusher Ride",4,130441,Mythic Rare,DSK,155,No,No,0
+"Violent Urge",4,130459,Uncommon,DSK,164,No,No,0
+"Waltz of Rage",4,130461,Rare,DSK,165,No,No,0
+"Altanak, the Thrice-Called",4,130463,Uncommon,DSK,166,No,No,0
+"Balustrade Wurm",4,130467,Rare,DSK,168,No,No,0
+"Enduring Vitality",4,130483,Rare,DSK,176,No,No,0
+"Hedge Shredder",4,130497,Rare,DSK,183,No,No,0
+"Kona, Rescue Beastie",4,130505,Rare,DSK,187,No,No,0
+"Leyline of Mutation",4,130507,Rare,DSK,188,No,No,0
+"Omnivorous Flytrap",4,130515,Rare,DSK,192,No,No,0
+"Omnivorous Flytrap",4,130516,Rare,DSK,192,Yes,No,0
+"Say Its Name",4,130525,Common,DSK,197,No,No,0
+"Twitching Doll",4,130533,Rare,DSK,201,No,No,0
+"Tyvar, the Pummeler",2,130535,Mythic Rare,DSK,202,No,No,0
+"Valgavoth's Onslaught",4,130539,Rare,DSK,204,No,No,0
+"The Jolly Balloon Man",4,130569,Rare,DSK,219,No,No,0
+"Marina Vendrell",4,130573,Rare,DSK,221,No,No,0
+"Nashi, Searcher in the Dark",4,130577,Rare,DSK,223,No,No,0
+"Niko, Light of Hope",4,130579,Mythic Rare,DSK,224,No,No,0
+"Peer Past the Veil",4,130583,Rare,DSK,226,No,No,0
+"Restricted Office/Lecture Hall",4,130585,Rare,DSK,227,No,No,0
+"Rip, Spawn Hunter",4,130587,Rare,DSK,228,No,No,0
+"Roaring Furnace/Steaming Sauna",4,130591,Rare,DSK,230,No,No,0
+"The Swarmweaver",4,130603,Rare,DSK,236,No,No,0
+"Undead Sprinter",4,130605,Rare,DSK,237,No,No,0
+"Victor, Valgavoth's Seneschal",4,130607,Rare,DSK,238,No,No,0
+"Winter, Misanthropic Guide",4,130611,Rare,DSK,240,No,No,0
+"Zimone, All-Questioning",4,130613,Rare,DSK,241,No,No,0
+"Dissection Tools",4,130621,Rare,DSK,245,No,No,0
+"Marvin, Murderous Mimic",5,130637,Rare,DSK,253,No,No,0
+"Blazemire Verge",4,130643,Rare,DSK,256,No,No,0
+"Hushwood Verge",4,130653,Rare,DSK,261,No,No,0
+"Thornspire Verge",4,130671,Rare,DSK,270,No,No,0
+"Valgavoth's Lair",4,130673,Rare,DSK,271,No,No,0
+"Grist, the Hunger Tide",4,131065,Mythic Rare,DSC,220,No,No,0
+"Collected Company",4,131435,Promo,SPG,72,No,No,0
+"Collected Company",4,131436,Promo,SPG,72,Yes,No,0
+"Noxious Revival",1,131438,Promo,SPG,73,Yes,No,0
+"Avatar - Toby, Beastie Befriender",1,131447,Rare,VAN,/601,No,No,0
+"Radstorm",1,131504,Promo,PIP,329,Yes,No,0
+"Hancock, Ghoulish Mayor",1,131759,Promo,PIP,382,No,No,0
+"Captain of the Watch",4,131937,Rare,PIP,157,No,No,0
+"Entrapment Maneuver",4,131943,Rare,PIP,160,No,No,0
+"Hour of Reckoning",4,131945,Rare,PIP,161,No,No,0
+"Marshal's Anthem",4,131955,Rare,PIP,166,No,No,0
+"Martial Coup",4,131957,Rare,PIP,167,No,No,0
+"Open the Vaults",4,131959,Rare,PIP,168,No,No,0
+"Secure the Wastes",4,131965,Rare,PIP,171,No,No,0
+"Single Combat",4,131967,Rare,PIP,172,No,No,0
+"Fraying Sanity",4,131973,Rare,PIP,175,No,No,0
+"Inexorable Tide",4,131977,Rare,PIP,177,No,No,0
+"Mechanized Production",4,131979,Mythic Rare,PIP,178,No,No,0
+"One with the Machine",4,131981,Rare,PIP,179,No,No,0
+"Blasphemous Act",4,131999,Rare,PIP,188,No,No,0
+"Chaos Warp",4,132001,Rare,PIP,189,No,No,0
+"Branching Evolution",4,132013,Rare,PIP,195,No,No,0
+"Guardian Project",4,132021,Rare,PIP,199,No,No,0
+"Heroic Intervention",4,132027,Rare,PIP,202,No,No,0
+"Tireless Tracker",4,132037,Rare,PIP,207,No,No,0
+"Anguished Unmaking",4,132041,Rare,PIP,209,No,No,0
+"Assemble the Legion",4,132043,Rare,PIP,210,No,No,0
+"Biomass Mutation",4,132047,Rare,PIP,212,No,No,0
+"Casualties of War",4,132049,Rare,PIP,213,No,No,0
+"Fervent Charge",4,132053,Rare,PIP,215,No,No,0
+"Find/Finality",4,132055,Rare,PIP,,No,No,0
+"Ruinous Ultimatum",4,132067,Rare,PIP,220,No,No,0
+"Basilisk Collar",4,132081,Rare,PIP,225,No,No,0
+"Champion's Helm",4,132087,Rare,PIP,228,No,No,0
+"Panharmonicon",4,132105,Rare,PIP,237,No,No,0
+"Solemn Simulacrum",4,132111,Rare,PIP,240,No,No,0
+"Steel Overseer",4,132113,Rare,PIP,241,No,No,0
+"Canopy Vista",4,132141,Rare,PIP,255,No,No,0
+"Canyon Slough",4,132143,Rare,PIP,256,No,No,0
+"Cinder Glade",4,132145,Rare,PIP,257,No,No,0
+"Dragonskull Summit",4,132153,Rare,PIP,261,No,No,0
+"Drowned Catacomb",4,132155,Rare,PIP,262,No,No,0
+"Fetid Pools",4,132161,Rare,PIP,265,No,No,0
+"Glacial Fortress",4,132163,Rare,PIP,266,No,No,0
+"Hinterland Harbor",4,132165,Rare,PIP,267,No,No,0
+"Irrigated Farmland",4,132167,Rare,PIP,268,No,No,0
+"Isolated Chapel",4,132169,Rare,PIP,269,No,No,0
+"Mossfire Valley",4,132177,Rare,PIP,273,No,No,0
+"Nesting Grounds",4,132183,Rare,PIP,276,No,No,0
+"Prairie Stream",4,132191,Rare,PIP,280,No,No,0
+"Rootbound Crag",4,132199,Rare,PIP,284,No,No,0
+"Scattered Groves",4,132203,Rare,PIP,286,No,No,0
+"Scavenger Grounds",4,132205,Rare,PIP,287,No,No,0
+"Shadowblood Ridge",4,132207,Rare,PIP,288,No,No,0
+"Sheltered Thicket",4,132209,Rare,PIP,289,No,No,0
+"Smoldering Marsh",4,132215,Rare,PIP,292,No,No,0
+"Sulfur Falls",4,132219,Rare,PIP,294,No,No,0
+"Sunken Hollow",4,132223,Rare,PIP,296,No,No,0
+"Sunpetal Grove",4,132225,Rare,PIP,297,No,No,0
+"Temple of Abandon",4,132235,Rare,PIP,302,No,No,0
+"Temple of Deceit",4,132237,Rare,PIP,303,No,No,0
+"Temple of Enlightenment",4,132239,Rare,PIP,304,No,No,0
+"Temple of Epiphany",4,132241,Rare,PIP,305,No,No,0
+"Temple of Malady",4,132243,Rare,PIP,306,No,No,0
+"Temple of Malice",4,132245,Rare,PIP,307,No,No,0
+"Temple of Mystery",4,132247,Rare,PIP,308,No,No,0
+"Temple of Plenty",4,132249,Rare,PIP,309,No,No,0
+"Temple of Silence",4,132251,Rare,PIP,310,No,No,0
+"Temple of Triumph",4,132255,Rare,PIP,312,No,No,0
+"Windbrisk Heights",4,132261,Rare,PIP,315,No,No,0
+"Woodland Cemetery",4,132263,Rare,PIP,316,No,No,0

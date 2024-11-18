@@ -424,7 +424,7 @@ def download_files(user_profile, project_folder):
         # Navigate to the URL and download files
         urls = [
             "https://www.goatbots.com/ajax/trade-history-download",
-            "https://www.goatbots.com/download/price-history.zip"
+            "https://www.goatbots.com/download/prices/price-history.zip"
         ]
         for url in urls:
             driver.get(url)
@@ -511,6 +511,7 @@ def query_card_history(card_name):
     result += f"Total in collection now: {total_quantity}\n"
     result += f"Total value now: {total_value_now} TIX\n"
     result += f"Total gain: {total_gain_now} TIX\n"
+    result += f"Total asset value(Tix+value of cards): {total_gain_now+total_value_now} TIX\n"
 
     return result
 
