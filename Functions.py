@@ -19,8 +19,9 @@ from datetime import datetime, timedelta
 pytesseract.pytesseract.tesseract_cmd = "C:/Program Files (x86)/Tesseract OCR/tesseract.exe"
 
 # Define file paths
-collection_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/Full Trade List.csv"
-trade_history_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/goatbots-trade-history.csv"
+dirname = os.path.dirname(__file__)
+collection_path = os.path.join(dirname, "SavedTradeHistory", "Full Trade List.csv")
+trade_history_path = os.path.join(dirname, "SavedTradeHistory", "goatbots-trade-history.csv")
 # Dynamic price history path based on the current date
 yesterday = (datetime.today() - timedelta(days=1)).strftime('%Y-%m-%d')
 price_history_path = f"C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/price-history-{yesterday}.txt"
