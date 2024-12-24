@@ -1,5 +1,5 @@
 Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
-"Event Ticket",14,1,Common,ETK,,No,No,0
+"Event Ticket",1,1,Common,ETK,,No,No,0
 "Island",1,239,Promo,PRM,24/1158,No,No,0
 "Plains",2,255,Promo,PRM,22/1158,No,No,0
 "Forest",1,259,Promo,PRM,34/1158,No,No,0
@@ -744,6 +744,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Needle Storm",1,22339,Uncommon,9ED,259/350,No,No,0
 "Shock",1,22341,Common,9ED,220/350,No,No,0
 "Evacuation",1,22343,Rare,9ED,75/350,No,No,0
+"Shard Phoenix",1,22347,Rare,9ED,217/350,No,No,0
 "Flowstone Shambler",2,22349,Common,9ED,185/350,No,No,0
 "Serpent Warrior",1,22353,Common,9ED,162/350,No,No,0
 "Goblin Piker",1,22355,Common,9ED,194/350,No,No,0
@@ -1310,7 +1311,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Phantom Wurm",1,25775,Uncommon,TSP,211/301,No,No,0
 "Word of Seizing",1,25777,Rare,TSP,188/301,No,No,0
 "Spectral Force",1,25779,Rare,TSP,217/301,No,No,0
-"Demonic Collusion",2,25781,Rare,TSP,103/301,No,No,0
+"Demonic Collusion",3,25781,Rare,TSP,103/301,No,No,0
 "Herd Gnarr",1,25783,Common,TSP,200/301,No,No,0
 "Brass Gnat",1,25787,Common,TSP,249/301,No,No,0
 "Jhoira's Timebug",2,25791,Common,TSP,257/301,No,No,0
@@ -1959,7 +1960,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Mycoloth",2,31333,Rare,ALA,140/249,No,No,0
 "Skill Borrower",1,31341,Rare,ALA,56/249,No,No,0
 "Death Baron",2,31345,Rare,ALA,70/249,No,No,0
-"Ad Nauseam",6,31356,Rare,ALA,63/249,No,No,0
+"Ad Nauseam",7,31356,Rare,ALA,63/249,No,No,0
+"Covenant of Minds",1,31366,Rare,ALA,38/249,No,No,0
 "Vindicate",2,31391,Rare,PRM,111/1158,No,No,0
 "Mind Stone",3,31405,Uncommon,PRM,72/1158,No,No,0
 "Mind Stone",1,31406,Uncommon,PRM,72/1158,Yes,No,0
@@ -3476,11 +3478,12 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Daxos of Meletis",1,50532,Rare,THS,191/249,No,No,0
 "Anthousa, Setessan Hero",1,50538,Rare,THS,149/249,No,No,0
 "Nighthowler",1,50544,Rare,THS,98/249,No,No,0
+"Master of Waves",1,50550,Mythic Rare,THS,53/249,No,No,0
 "Reverent Hunter",1,50558,Rare,THS,173/249,No,No,0
 "Fate Foretold",3,50560,Common,THS,48/249,No,No,0
 "Gray Merchant of Asphodel",3,50562,Common,THS,89/249,No,No,0
 "Mnemonic Wall",4,50568,Common,THS,55/249,No,No,0
-"Ashen Rider",1,50570,Mythic Rare,THS,187/249,No,No,0
+"Ashen Rider",2,50570,Mythic Rare,THS,187/249,No,No,0
 "Lightning Strike",1,50572,Common,THS,127/249,No,No,0
 "Anger of the Gods",4,50578,Rare,THS,112/249,No,No,0
 "Spellheart Chimera",2,50590,Uncommon,THS,204/249,No,No,0
@@ -5410,7 +5413,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Fiery Temper",1,62217,Promo,PRM,/1158,No,No,0
 "Fiery Temper",1,62218,Promo,PRM,/1158,Yes,No,0
 "Avatar - Saheeli Rai",1,62225,Rare,VAN,231/601,No,No,0
-"Treasure Chest Booster",30,62245,Common,O99,,No,No,0
+"Treasure Chest Booster",29,62245,Common,O99,,No,No,0
 "Parting Thoughts",2,62263,Uncommon,PZ2,19/73,No,No,0
 "Sanctum Prelate",4,62279,Mythic Rare,PZ2,11/73,No,No,0
 "Domesticated Hydra",4,62285,Uncommon,PZ2,31/73,No,No,0
@@ -5450,6 +5453,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Airdrop Aeronauts",2,62595,Uncommon,AER,5/184,No,No,0
 "Thopter Arrest",1,62597,Uncommon,AER,25/184,No,No,0
 "Call for Unity",1,62605,Rare,AER,9/184,No,No,0
+"Consulate Crackdown",1,62607,Rare,AER,11/184,No,No,0
 "Sram's Expertise",5,62609,Rare,AER,24/184,No,No,0
 "Hinterland Drake",3,62613,Common,AER,34/184,No,No,0
 "Bastion Inventor",1,62615,Common,AER,30/184,No,No,0
@@ -6869,6 +6873,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Swamp",3,68070,Land,UST,214/216,No,No,0
 "Mountain",2,68072,Land,UST,215/216,No,No,0
 "Gravewaker",1,68119,Rare,M19,293/280,No,No,0
+"Aggressive Mammoth",1,68137,Rare,M19,302/280,No,No,0
 "Skalla Wolf",1,68139,Rare,M19,303/280,No,No,0
 "Dwarven Priest",1,68183,Common,M19,11/280,No,No,0
 "Leonin Warleader",1,68207,Rare,M19,23/280,No,No,0
@@ -9046,6 +9051,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Occult Epiphany",1,95287,Rare,PRM,24/1158,No,No,0
 "Inspired Idea",1,95307,Rare,PRM,34/1158,No,No,0
 "Mirrorhall Mimic",1,95313,Rare,PRM,37/1158,No,No,0
+"Glass-Cast Heart",1,95325,Rare,PRM,43/1158,No,No,0
 "Scion of Opulence",1,95363,Rare,PRM,62/1158,No,No,0
 "Alchemist's Gambit",4,95375,Rare,PRM,68/1158,No,No,0
 "Cultivator Colossus",2,95431,Mythic Rare,PRM,96/1158,No,No,0
@@ -9878,6 +9884,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Yenna, Redtooth Regent",1,116208,Promo,WOE,365,No,No,0
 "The Irencrag",1,116214,Promo,WOE,368,No,No,0
 "Syr Ginger, the Meal Ender",1,116216,Promo,WOE,369,No,No,0
+"Restless Bivouac",1,116232,Promo,WOE,303,No,No,0
 "Not Dead After All",4,116518,Common,WOE,101,No,No,0
 "Not Dead After All",4,116519,Common,WOE,101,Yes,No,0
 "Tangled Colony",1,116542,Rare,WOE,113,No,No,0
@@ -10000,6 +10007,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Warleader's Call",4,121956,Rare,MKM,242,No,No,0
 "Yarus, Roar of the Old Gods",4,121962,Rare,MKM,245,No,No,0
 "Commercial District",1,122010,Rare,MKM,259,No,No,0
+"Elegant Parlor",3,122012,Rare,MKM,260,No,No,0
 "Lush Portico",4,122018,Rare,MKM,263,No,No,0
 "Wojek Investigator",4,122038,Rare,MKM,a36,No,No,0
 "Plains",1,122057,Land,MKM,272,Yes,No,0
@@ -10047,6 +10055,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Dust Bowl",4,123697,Rare,OTP,65,No,No,0
 "Ruthless Lawbringer",1,123734,Promo,OTJ,372,Yes,No,0
 "Tinybones Joins Up",1,123777,Promo,OTJ,328,No,No,0
+"Freestrider Lookout",4,123801,Promo,OTJ,340,No,No,0
 "Another Round",4,123913,Rare,OTJ,1,No,No,0
 "Claim Jumper",4,123927,Rare,OTJ,8,No,No,0
 "Dust Animus",4,123929,Rare,OTJ,9,No,No,0
@@ -10067,7 +10076,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Hellspur Posse Boss",4,124167,Rare,OTJ,128,No,No,0
 "Stingerback Terror",5,124205,Rare,OTJ,147,No,No,0
 "Colossal Rattlewurm",4,124229,Rare,OTJ,159,No,No,0
-"Freestrider Lookout",4,124237,Rare,OTJ,163,No,No,0
+"Freestrider Lookout",8,124237,Rare,OTJ,163,No,No,0
+"Freestrider Lookout",4,124238,Rare,OTJ,163,Yes,No,0
 "Ornery Tumblewagg",4,124253,Rare,OTJ,171,No,No,0
 "Outcaster Trailblazer",4,124257,Rare,OTJ,173,No,No,0
 "Smuggler's Surprise",4,124271,Rare,OTJ,180,No,No,0
@@ -10669,6 +10679,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
 "Drag to the Roots",1,129938,Promo,DSK,414,Yes,No,0
 "Optimistic Scavenger",1,129944,Promo,DSK,288,Yes,No,0
 "Stay Hidden, Stay Silent",1,129950,Promo,DSK,291,Yes,No,0
+"Silent Hallcreeper",1,130045,Promo,DSK,345,No,No,0
 "The Wandering Rescuer",1,130091,Promo,DSK,351,No,No,0
 "Dazzling Theater/Prop Room",4,130137,Rare,DSK,3,No,No,0
 "Dollmaker's Shop/Porcelain Gallery",4,130139,Mythic Rare,DSK,4,No,No,0

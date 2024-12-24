@@ -15,6 +15,7 @@ import pandas as pd
 import re
 import zipfile
 from datetime import datetime, timedelta
+import glob
 
 pytesseract.pytesseract.tesseract_cmd = "C:/Program Files (x86)/Tesseract OCR/tesseract.exe"
 
@@ -22,12 +23,26 @@ pytesseract.pytesseract.tesseract_cmd = "C:/Program Files (x86)/Tesseract OCR/te
 dirname = os.path.dirname(__file__)
 collection_path = os.path.join(dirname, "SavedTradeHistory", "Full Trade List.csv")
 trade_history_path = os.path.join(dirname, "SavedTradeHistory", "goatbots-trade-history.csv")
-# Dynamic price history path based on the current date
-yesterday = (datetime.today() - timedelta(days=1)).strftime('%Y-%m-%d')
-price_history_path = f"C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/price-history-{yesterday}.txt"
+# Use a relative path to the SavedTradeHistory folder
+relative_folder = "./SavedTradeHistory/"
+files = glob.glob(os.path.join(relative_folder, "*.txt"))
+#if files:
+price_history_path = files[0]  # Select the first .txt file found
+#else:
+#    raise FileNotFoundError("No .txt files found in the SavedTradeHistory folder.")
+desktop_path = os.path.join(os.environ['USERPROFILE'], 'Desktop')
+
+# Construct the full path to the .appref-ms file
+shortcut_path = os.path.join(desktop_path, "Magic The Gathering Online .appref-ms")
+
+# Open the shortcut if it exists
+if os.path.exists(shortcut_path):
+    print("Ok MTGO found")
+else:
+    raise FileNotFoundError(f"Shortcut not found at {shortcut_path}")
 def startmtgoapp():
     if (is_MainNavigation_running()== False):
-        os.startfile("C:/Users/edo/Desktop/Magic The Gathering Online .appref-ms")
+        os.startfile(shortcut_path)
         time.sleep(5)
         maximize_window("Magic: The Gathering Online")
         pyautogui.press("tab")
