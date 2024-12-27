@@ -2,9 +2,6 @@ import tkinter as tk
 from tkinter import messagebox, scrolledtext
 from Functions import startmtgoapp, clickonscreen, rightclickonimage, clickonimage, SaveMtgoCollectionToCSV, download_files, analyze_historic, analyze_best_and_worst_trades, refresh_database, refresh_database2, query_card_history
 
-trade_history_path = "C:/Users/edo/PycharmProjects/MTGOautoSeller/SavedTradeHistory/goatbots-trade-history.csv"
-
-
 # GUI setup
 def run_analysis():
     result = analyze_best_and_worst_trades()
@@ -12,7 +9,7 @@ def run_analysis():
     result_text.insert(tk.END, result)
 
 def run_historic_analysis():
-    result = analyze_historic(trade_history_path)
+    result = analyze_historic()
     result_text.delete(1.0, tk.END)
     result_text.insert(tk.END, result)
 

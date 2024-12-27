@@ -5,10 +5,11 @@ from Functions import checkifimagepresent, TradeWithGoatbotsSell, SaveMtgoCollec
 
 # main software
 
-startmtgoapp()
-time.sleep(3)
-CardName = "Lava Dart"
-AddCardsToOpenBinder("Lava dart")
-TradeWithGoatbotsSell()
+
+#startmtgoapp()
+#time.sleep(3)
+#CardName = "Lava Dart"
+#AddCardsToOpenBinder("Lava dart")
+#TradeWithGoatbotsSell()
 
 

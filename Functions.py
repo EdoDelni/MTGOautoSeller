@@ -23,23 +23,12 @@ pytesseract.pytesseract.tesseract_cmd = "C:/Program Files (x86)/Tesseract OCR/te
 dirname = os.path.dirname(__file__)
 collection_path = os.path.join(dirname, "SavedTradeHistory", "Full Trade List.csv")
 trade_history_path = os.path.join(dirname, "SavedTradeHistory", "goatbots-trade-history.csv")
-# Use a relative path to the SavedTradeHistory folder
 relative_folder = "./SavedTradeHistory/"
 files = glob.glob(os.path.join(relative_folder, "*.txt"))
-#if files:
 price_history_path = files[0]  # Select the first .txt file found
-#else:
-#    raise FileNotFoundError("No .txt files found in the SavedTradeHistory folder.")
-desktop_path = os.path.join(os.environ['USERPROFILE'], 'Desktop')
+desktop_path = os.path.join(os.environ['USERPROFILE'], 'Desktop') #mtgo relative path
+shortcut_path = os.path.join(desktop_path, "Magic The Gathering Online .appref-ms") #mtgo path
 
-# Construct the full path to the .appref-ms file
-shortcut_path = os.path.join(desktop_path, "Magic The Gathering Online .appref-ms")
-
-# Open the shortcut if it exists
-if os.path.exists(shortcut_path):
-    print("Ok MTGO found")
-else:
-    raise FileNotFoundError(f"Shortcut not found at {shortcut_path}")
 def startmtgoapp():
     if (is_MainNavigation_running()== False):
         os.startfile(shortcut_path)
@@ -245,7 +234,9 @@ def SaveMtgoCollectionToCSV():
     startmtgoapp()
     clickonscreen("COLLECTION")
     time.sleep(40)
+    collection_image_path = os.path.join(dirname, "Images", "Collection Save.png")
     rightclickonimage("C:/Users/edo/PycharmProjects/MTGOautoSeller/Images/Collection Save.png")
+    print(collection_image_path)
     time.sleep(1)
     pyautogui.leftClick()
     pyautogui.press("Tab")
@@ -370,7 +361,7 @@ def analyze_best_and_worst_trades():
         result += f"Card Name: {row['Card Name']}, Quantity: {row['Quantity']}, Total Potential Loss: {row['total_potential_gain']}, Price bought: {row['price']}, Price now: {row['price'] + row['potential_gain']}\n"
 
     return result
-def analyze_historic(trade_history_path):
+def analyze_historic():
     # Load trade history
     trade_history = pd.read_csv(trade_history_path)
 
